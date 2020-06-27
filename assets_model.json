@@ -1,0 +1,1410 @@
+[
+  {
+    "bbox_max": [
+      0.14817456901073456,
+      0.10794772207736969,
+      0.21302731335163116
+    ],
+    "bbox_min": [
+      -0.13184703886508942,
+      -0.023949988186359406,
+      -0.0009724125266075134
+    ],
+    "category": "Decoration",
+    "hash": "b654fac4d4c8e90eacaa266c57f98485e8b14333e9308b5eb127e94e8d09dcf1",
+    "name": "Aries Copper",
+    "url": "Aries_Copper.zip"
+  },
+  {
+    "bbox_max": [
+      0.5223361849784851,
+      0.18336506187915802,
+      0.8681030869483948
+    ],
+    "bbox_min": [
+      -0.5235957503318787,
+      -0.22453612089157104,
+      -0.0012428880436345935
+    ],
+    "category": "Decoration",
+    "hash": "f105047e981407dd5e4fc1704c74954fdb0498b45f0f9b77825c3ece0a516708",
+    "name": "B-Home Pack 1",
+    "url": "B-Home_Pack_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.26533395051956177,
+      0.2614614963531494,
+      0.23296180367469788
+    ],
+    "bbox_min": [
+      -0.2122507244348526,
+      -0.14340178668498993,
+      -4.739314317703247e-05
+    ],
+    "category": "Decoration",
+    "hash": "766b8cecbe223c7de920681ad69be829c5f17af4e2737af625dffd68ea703583",
+    "name": "Bird Wood Pipper",
+    "url": "Bird_Wood_Pipper.zip"
+  },
+  {
+    "bbox_max": [
+      0.2641359567642212,
+      0.3081342279911041,
+      0.23289354145526886
+    ],
+    "bbox_min": [
+      -0.2802983522415161,
+      -0.07348402589559555,
+      -0.0015999129973351955
+    ],
+    "category": "Decoration",
+    "hash": "115a955bbe51a00022f0dd73c04d485a64d90361cd2da33d45e6e13bdf608a06",
+    "name": "Cadre Photo MD",
+    "url": "Cadre_Photo_MD.zip"
+  },
+  {
+    "bbox_max": [
+      0.1851060688495636,
+      0.34278056025505066,
+      0.2814292907714844
+    ],
+    "bbox_min": [
+      -0.18377146124839783,
+      0.16673293709754944,
+      -0.0026940107345581055
+    ],
+    "category": "Decoration",
+    "hash": "d052fd62b590a1767fbfcb35e903952ca87c8aee28dc88036f5409726897013e",
+    "name": "Canari Keneya",
+    "url": "Canari_Keneya.zip"
+  },
+  {
+    "bbox_max": [
+      0.23078201711177826,
+      0.36905887722969055,
+      0.35410627722740173
+    ],
+    "bbox_min": [
+      -0.22929558157920837,
+      0.12943346798419952,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "367a10a827df104c5e11f13da93c9d07cafbb56ed37dfa61c990a4371cb521e3",
+    "name": "Candle Clear Gold",
+    "url": "Candle_Clear_Gold.zip"
+  },
+  {
+    "bbox_max": [
+      0.21667031943798065,
+      0.29537516832351685,
+      0.20522309839725494
+    ],
+    "bbox_min": [
+      -0.19876135885715485,
+      0.08586861193180084,
+      -0.0002122350560966879
+    ],
+    "category": "Decoration",
+    "hash": "d91ea0d4bc985fba17c037fea5775c1a5c92fb4eb7e07b6e31205c431c3a3acc",
+    "name": "Candle Design Set 1",
+    "url": "Candle_Design_Set_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.14829877018928528,
+      0.32547885179519653,
+      0.35669875144958496
+    ],
+    "bbox_min": [
+      -0.1421545296907425,
+      0.1689625084400177,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "468e6f1739af1f74bfcd646226f68cc94e34994c91b682ed7000c62ec5d5eb5e",
+    "name": "Cocotte Deco",
+    "url": "Cocotte_Deco.zip"
+  },
+  {
+    "bbox_max": [
+      0.1737562119960785,
+      0.6017158031463623,
+      0.3338664770126343
+    ],
+    "bbox_min": [
+      -0.3456863462924957,
+      -0.01786387339234352,
+      -0.05455688387155533
+    ],
+    "category": "Decoration",
+    "hash": "bef236a8741bf9cbc56f7924e5987b29617c56e0c2675b3e4ed6eb2bf68f3af1",
+    "name": "Collections Cactus 1",
+    "url": "Collections_Cactus_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.42487311363220215,
+      1.168734073638916,
+      0.7489614486694336
+    ],
+    "bbox_min": [
+      -0.4050214886665344,
+      0.6042426228523254,
+      -6.403061706805602e-05
+    ],
+    "category": "Decoration",
+    "hash": "791eacc71e16a7b271f458976d9ab7bc05e6258cfd910a7cdbb298145b03a1f0",
+    "name": "Copper Vases",
+    "url": "Copper_Vases.zip"
+  },
+  {
+    "bbox_max": [
+      0.39611390233039856,
+      0.3457303047180176,
+      0.9596740007400513
+    ],
+    "bbox_min": [
+      -0.3971584141254425,
+      -0.05438493564724922,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "7ab2660b85291e2c8bbd4cdb4fa190cfa6105ce7113d0d8ece7dbf200e953abc",
+    "name": "Dry Plants Black",
+    "url": "Dry_Plants_Black.zip"
+  },
+  {
+    "bbox_max": [
+      -0.13107362389564514,
+      0.3543587923049927,
+      0.23879987001419067
+    ],
+    "bbox_min": [
+      -0.4847937226295471,
+      0.0901467576622963,
+      -0.010056361556053162
+    ],
+    "category": "Decoration",
+    "hash": "d917f4d3933227769610cb8e5d68f1f060f3bb79b6825572625b5c4bd18f5a56",
+    "name": "Easter Island Familly Bull",
+    "url": "Easter_Island_Familly_Bull.zip"
+  },
+  {
+    "bbox_max": [
+      0.4839971959590912,
+      0.34370148181915283,
+      0.2952122092247009
+    ],
+    "bbox_min": [
+      0.1322869509458542,
+      0.07733166217803955,
+      -0.004538208246231079
+    ],
+    "category": "Decoration",
+    "hash": "5ce5c62e91a22c5da9feea043d33736720d972c0e4945ab85be56148f987b3b2",
+    "name": "Familly Wood",
+    "url": "Familly_Wood.zip"
+  },
+  {
+    "bbox_max": [
+      0.22077742218971252,
+      0.4570339620113373,
+      0.2947748303413391
+    ],
+    "bbox_min": [
+      -0.22696846723556519,
+      0.2750927209854126,
+      -0.0011306069791316986
+    ],
+    "category": "Decoration",
+    "hash": "4847a38d0b7975bbfe1ee4d14145ae4fa1a6eac1d7fe75bf2df678d3eb4ce402",
+    "name": "Fish & Palm",
+    "url": "Fish__Palm.zip"
+  },
+  {
+    "bbox_max": [
+      0.19188053905963898,
+      0.4430094063282013,
+      0.17800940573215485
+    ],
+    "bbox_min": [
+      -0.15944121778011322,
+      0.11519275605678558,
+      -0.0005238265730440617
+    ],
+    "category": "Decoration",
+    "hash": "f1ba26769acd5bf301057dda6bd908b982de115d839fc8218e7c0cd603daf3f2",
+    "name": "Glob Vases",
+    "url": "Glob_Vases.zip"
+  },
+  {
+    "bbox_max": [
+      0.9116241931915283,
+      0.7812939882278442,
+      0.8529708385467529
+    ],
+    "bbox_min": [
+      -0.6577001214027405,
+      -0.7880293130874634,
+      1.9669147150125355e-05
+    ],
+    "category": "Furniture",
+    "hash": "bc4570dc8746d1eb5a67a0a3e26c2de1a1bc0b0827db1389eac233ee58083f6e",
+    "name": "Golden Glass Table",
+    "url": "Golden_Glass_Table.zip"
+  },
+  {
+    "bbox_max": [
+      0.22129502892494202,
+      0.39607951045036316,
+      0.20133306086063385
+    ],
+    "bbox_min": [
+      -0.26506417989730835,
+      0.06236644089221954,
+      -0.00013644745922647417
+    ],
+    "category": "Decoration",
+    "hash": "db18cbe23b9ff288f45bbef6ead19cd4088bd3bd2a28754a6e8a4f2057df9c24",
+    "name": "Guinea fowl",
+    "url": "Guinea_fowl.zip"
+  },
+  {
+    "bbox_max": [
+      0.07624190300703049,
+      0.07580596208572388,
+      0.3190878629684448
+    ],
+    "bbox_min": [
+      -0.09524306654930115,
+      -0.09538626670837402,
+      -0.001350032165646553
+    ],
+    "category": "Decoration",
+    "hash": "5c7dc1945e1bb1d4bb6187a7b8002066f86f381b81e2b6492562ac08e716b79f",
+    "name": "Heron",
+    "url": "Heron.zip"
+  },
+  {
+    "bbox_max": [
+      0.19410336017608643,
+      0.25116613507270813,
+      0.3714616298675537
+    ],
+    "bbox_min": [
+      -0.20071960985660553,
+      -0.12407756596803665,
+      -7.93040162534453e-05
+    ],
+    "category": "Decoration",
+    "hash": "eb7d66c11fa1d62c2b43d492c5223b44b5159f3d10a089f697330db4da588a60",
+    "name": "Ikea Details",
+    "url": "Ikea_Details.zip"
+  },
+  {
+    "bbox_max": [
+      0.22757430374622345,
+      0.209932342171669,
+      0.38724806904792786
+    ],
+    "bbox_min": [
+      -0.22961652278900146,
+      -0.24725846946239471,
+      0.0002078021498164162
+    ],
+    "category": "Decoration",
+    "hash": "d64f8662c82dbab36f8e3b1cdb0331e5c9e8dec24debf4468f73b549dd213498",
+    "name": "Long Vases",
+    "url": "Long_Vases.zip"
+  },
+  {
+    "bbox_max": [
+      0.6065,
+      0.415,
+      0.5243
+    ],
+    "bbox_min": [
+      -0.6061,
+      -0.3286,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "7c8171d80e9636c36ed6b72e1cddd979136be37419046527ae6d71ac49887e43",
+    "name": "Marble & Glass_Deco",
+    "url": "Marble-Glass_Deco.zip"
+  },
+  {
+    "bbox_max": [
+      0.23218463361263275,
+      0.42239248752593994,
+      0.17875277996063232
+    ],
+    "bbox_min": [
+      -0.2331167608499527,
+      0.2526027262210846,
+      -0.0028113224543631077
+    ],
+    "category": "Decoration",
+    "hash": "072f4b30e858ab97bbd77b9489c778ad3a0a3621c7566dee1d09f5d53ed1b2b5",
+    "name": "Olifant Male Female",
+    "url": "Olifant_Male_Female.zip"
+  },
+  {
+    "bbox_max": [
+      0.33206483721733093,
+      0.38122567534446716,
+      1.021465539932251
+    ],
+    "bbox_min": [
+      -0.33206483721733093,
+      -0.3071054220199585,
+      -0.0007286967011168599
+    ],
+    "category": "Furniture",
+    "hash": "f03bdd49d9d156291ba3355cee18d12f618957e7dd48f6c64c384886e8a18514",
+    "name": "St TN Arm",
+    "url": "St_TN_Arm.zip"
+  },
+  {
+    "bbox_max": [
+      0.6254280209541321,
+      0.3887418806552887,
+      1.0222362279891968
+    ],
+    "bbox_min": [
+      -0.6254280209541321,
+      -0.3069070875644684,
+      9.456277621211484e-05
+    ],
+    "category": "Furniture",
+    "hash": "abc2e0e95e8085bb9fe2f81e872abb84479281d82c757c840f0547320aa2891f",
+    "name": "St TN Sofa 2plc",
+    "url": "St_TN_Sofa_2plc.zip"
+  },
+  {
+    "bbox_max": [
+      0.2701980769634247,
+      0.29106077551841736,
+      0.7825629711151123
+    ],
+    "bbox_min": [
+      -0.2701980769634247,
+      -0.28985118865966797,
+      8.853774033923401e-07
+    ],
+    "category": "Furniture",
+    "hash": "94ac7c5b33e3f650c8a250faf0dbad92fbf3d26cf19fd1dc9597103cfaf52d26",
+    "name": "T3 Chair",
+    "url": "T3_Chair.zip"
+  },
+  {
+    "bbox_max": [
+      0.4379517138004303,
+      0.2602735161781311,
+      0.4531247317790985
+    ],
+    "bbox_min": [
+      -0.35904911160469055,
+      -0.35793066024780273,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "49ed5b3c4436bbf85eae37ff38cd4142db8bd1d8c0f5c72f0fa93dba0494a640",
+    "name": "Terracotta Pot Gold",
+    "url": "Terracotta_Pot_Gold.zip"
+  },
+  {
+    "bbox_max": [
+      0.5950818657875061,
+      0.595081627368927,
+      0.7000007033348083
+    ],
+    "bbox_min": [
+      -0.5950814485549927,
+      -0.5950816869735718,
+      0.0
+    ],
+    "category": "Furniture",
+    "hash": "7bf72bfdd1c2ad3c8d069534e0025bf01f53e76fe8669020f29da73e683be25b",
+    "name": "TriLeg Table",
+    "url": "TriLeg_Table.zip"
+  },
+  {
+    "bbox_max": [
+      0.2358921766281128,
+      0.11016234755516052,
+      0.3781052231788635
+    ],
+    "bbox_min": [
+      -0.24651002883911133,
+      -0.11016234755516052,
+      -1.2757890299752717e-09
+    ],
+    "category": "Decoration",
+    "hash": "ec1d4fcc19eb57eb216fbadec89b09bced47fbd8ce7154ece3e251bc8d51ac8d",
+    "name": "Vases Copper Glass Design",
+    "url": "Vases_Copper_Glass_Design.zip"
+  },
+  {
+    "bbox_max": [
+      0.5654479265213013,
+      0.5654479265213013,
+      0.7838643789291382
+    ],
+    "bbox_min": [
+      -0.5654479265213013,
+      -0.5654479265213013,
+      -0.0010186992585659027
+    ],
+    "category": "Furniture",
+    "hash": "0334ed72322bcd1a8f5a79e6fc136e82af008230c24967f83a2b1fd032beee3f",
+    "name": "Aava Fred Set",
+    "url": "Aava_Fred_Set.zip"
+  },
+  {
+    "bbox_max": [
+      1.5092231035232544,
+      0.541387677192688,
+      0.7310063242912292
+    ],
+    "bbox_min": [
+      -1.5092231035232544,
+      -0.5516948103904724,
+      -0.006332904100418091
+    ],
+    "category": "Furniture",
+    "hash": "73f32a525c2197d0468fd8406c2d7f62560cbad39512ed2e90299f0b084c721b",
+    "name": "BB SOFA C1",
+    "url": "BB_SOFA_C1.zip"
+  },
+  {
+    "bbox_max": [
+      2.0343616008758545,
+      0.541387677192688,
+      1.3986246585845947
+    ],
+    "bbox_min": [
+      -1.39509117603302,
+      -1.0449001789093018,
+      -0.006332904100418091
+    ],
+    "category": "Furniture",
+    "hash": "f371341e04f0bd80757cb471b0907855a160d7d57b80e0de30cf378c348899d6",
+    "name": "BB SOFA C2",
+    "url": "BB_SOFA_C2.zip"
+  },
+  {
+    "bbox_max": [
+      1.7339152097702026,
+      1.1379783153533936,
+      1.413939356803894
+    ],
+    "bbox_min": [
+      -1.5338506698608398,
+      -1.1379783153533936,
+      -0.006332844495773315
+    ],
+    "category": "Furniture",
+    "hash": "c3ceee2844ca9edb6fd57d93944279c72244b941b8ed43f5884a2fe999ab4a30",
+    "name": "BB SOFA C3",
+    "url": "BB_SOFA_C3.zip"
+  },
+  {
+    "bbox_max": [
+      0.23371359705924988,
+      0.24166756868362427,
+      0.35008639097213745
+    ],
+    "bbox_min": [
+      -0.2301570326089859,
+      -0.041492871940135956,
+      -0.001978105865418911
+    ],
+    "category": "Decoration",
+    "hash": "2c3984cd5844ddf200a7f332c0d0819a9a641b8d5a0616fe58ffcf0b57513899",
+    "name": "Bell  Impala",
+    "url": "Bell__Impala.zip"
+  },
+  {
+    "bbox_max": [
+      0.22122082114219666,
+      0.25421229004859924,
+      0.3846331536769867
+    ],
+    "bbox_min": [
+      -0.23805652558803558,
+      -0.20087209343910217,
+      -3.725290298461914e-09
+    ],
+    "category": "Decoration",
+    "hash": "15f3480720148aa17f509e3d0dcb03ce1dbce0f084572d9e78673d248bbf3704",
+    "name": "Bon Biscuit Bottles",
+    "url": "Bon_Biscuit_Bottles.zip"
+  },
+  {
+    "bbox_max": [
+      0.2660430669784546,
+      0.1447676420211792,
+      0.41936150193214417
+    ],
+    "bbox_min": [
+      -0.26998910307884216,
+      -0.1550581306219101,
+      -2.12727657711298e-09
+    ],
+    "category": "Decoration",
+    "hash": "ae70e691bf20692677117c97a3351ad953e498254bc6de1148321fef606f7741",
+    "name": "Botaniste Conquerant",
+    "url": "Botaniste_Conquerant.zip"
+  },
+  {
+    "bbox_max": [
+      0.16912083327770233,
+      0.07357341796159744,
+      0.5384559631347656
+    ],
+    "bbox_min": [
+      -0.18570317327976227,
+      -0.10032539814710617,
+      4.1266186599386856e-05
+    ],
+    "category": "Decoration",
+    "hash": "efe649c4d77d53f9095e4407925b2b7056c2bb59364f1d4671687f5aebd4cfd2",
+    "name": "Bottles Deco Y B",
+    "url": "Bottles_Deco_Y_B.zip"
+  },
+  {
+    "bbox_max": [
+      0.33862465620040894,
+      0.4625001549720764,
+      0.8537595272064209
+    ],
+    "bbox_min": [
+      -0.3379610776901245,
+      -0.365213006734848,
+      -0.006670998875051737
+    ],
+    "category": "Furniture",
+    "hash": "ca19c4a3f28f3c0861cf360b85084ecd524f9d1ff30a7dae49e5f7692502e69f",
+    "name": "Buisseau Armchair",
+    "url": "Buisseau_Armchair.zip"
+  },
+  {
+    "bbox_max": [
+      0.17178243398666382,
+      0.2647395133972168,
+      0.33232972025871277
+    ],
+    "bbox_min": [
+      -0.1738336980342865,
+      -0.03624527528882027,
+      -0.0006734050111845136
+    ],
+    "category": "Decoration",
+    "hash": "c4cb38859f9771b0208e1051b17ae4a65c06ef52767affcc58ba22055318b3c0",
+    "name": "Candle Design Set",
+    "url": "Candle_Design_Set.zip"
+  },
+  {
+    "bbox_max": [
+      0.20025891065597534,
+      0.3016420304775238,
+      0.18512682616710663
+    ],
+    "bbox_min": [
+      -0.2023250311613083,
+      0.010533995926380157,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "7d0591605b15bde631c1c91326d78ea8643b85831cb66fa5fd72c1f9f161cb07",
+    "name": "Candle Design Set 2",
+    "url": "Candle_Design_Set_2.zip"
+  },
+  {
+    "bbox_max": [
+      0.20436565577983856,
+      0.27156251668930054,
+      0.22446276247501373
+    ],
+    "bbox_min": [
+      -0.2055925875902176,
+      0.023918505758047104,
+      -9.71212939475663e-05
+    ],
+    "category": "Decoration",
+    "hash": "bff9ac2d5165238acd89d31112aed98ac40c9232b8004a03b7a07b3f692a2d93",
+    "name": "Candle Design Set 3",
+    "url": "Candle_Design_Set_3.zip"
+  },
+  {
+    "bbox_max": [
+      1.0543748140335083,
+      0.3987446427345276,
+      0.8278098106384277
+    ],
+    "bbox_min": [
+      -1.0543745756149292,
+      -0.4012446999549866,
+      -0.0005369054852053523
+    ],
+    "category": "Furniture",
+    "hash": "f01d28539dab30b97e48caf6a0406ae4641ecf3af97c367602b3bdb1525f362e",
+    "name": "Cannage Grand Sofa",
+    "url": "Cannage_Grand_Sofa.zip"
+  },
+  {
+    "bbox_max": [
+      0.24390891194343567,
+      0.3926125764846802,
+      0.3222528100013733
+    ],
+    "bbox_min": [
+      -0.24178865551948547,
+      0.2025737166404724,
+      -0.0032534312922507524
+    ],
+    "category": "Decoration",
+    "hash": "0b280779346729b534428280feab3f243d547fac04bc1ae6ffb060c1f6afecaa",
+    "name": "Chicken Couple",
+    "url": "Chicken_Couple.zip"
+  },
+  {
+    "bbox_max": [
+      0.33644357323646545,
+      0.2380562275648117,
+      0.6061012148857117
+    ],
+    "bbox_min": [
+      -0.31973403692245483,
+      -0.1351962685585022,
+      -7.733347592875361e-05
+    ],
+    "category": "Decoration",
+    "hash": "76b2cba0accc52b669a444337f81bc5122129b91afc4eee84dc2bcb937b64ace",
+    "name": "Clear Glasses Candle Air",
+    "url": "Clear_Glasses_Candle_Air.zip"
+  },
+  {
+    "bbox_max": [
+      0.16928350925445557,
+      0.34650373458862305,
+      0.33642467856407166
+    ],
+    "bbox_min": [
+      -0.3625450134277344,
+      0.07598668336868286,
+      -0.05455688387155533
+    ],
+    "category": "Decoration",
+    "hash": "1107b7bb73a27027489729b23cec034a711c64bb222e490c19c1ae5d10a3f605",
+    "name": "Collection Cactus 2",
+    "url": "Collection_Cactus_2.zip"
+  },
+  {
+    "bbox_max": [
+      0.2144230306148529,
+      0.14744587242603302,
+      0.233665332198143
+    ],
+    "bbox_min": [
+      -0.5868322849273682,
+      -0.17108912765979767,
+      -0.05455688387155533
+    ],
+    "category": "Decoration",
+    "hash": "bd85c66b9ebc78febe9d053b7d4b835e62e190ab014698882e8c4d37072751e7",
+    "name": "Collection Cactus 3",
+    "url": "Collection_Cactus_3.zip"
+  },
+  {
+    "bbox_max": [
+      0.2682034373283386,
+      0.3695320785045624,
+      0.4054235816001892
+    ],
+    "bbox_min": [
+      -0.28481346368789673,
+      -0.18836241960525513,
+      -0.0008303130744025111
+    ],
+    "category": "Decoration",
+    "hash": "fd0bf8aa16d66e6be482c7de1fe49d50fd741e7bb6e155c285c6abd545dd3871",
+    "name": "Cookie Glass",
+    "url": "Cookie_Glass.zip"
+  },
+  {
+    "bbox_max": [
+      0.27770841121673584,
+      0.6600964665412903,
+      0.45834457874298096
+    ],
+    "bbox_min": [
+      -0.2977716326713562,
+      0.344820499420166,
+      -5.6750501187252667e-08
+    ],
+    "category": "Decoration",
+    "hash": "6f90a8fa1bb5112414e58f00fbe4e63433e3814f10535938e0aa3fcc533c5473",
+    "name": "Copper Black",
+    "url": "Copper_Black.zip"
+  },
+  {
+    "bbox_max": [
+      0.30654752254486084,
+      0.1355566531419754,
+      0.4591562747955322
+    ],
+    "bbox_min": [
+      -0.3066413104534149,
+      -0.10753435641527176,
+      -0.003898472525179386
+    ],
+    "category": "Decoration",
+    "hash": "5509a6139ed55c30d16c94b066cd7a26dd71b278952c69ac624e25a89cccb594",
+    "name": "Ethno Potte",
+    "url": "Ethno_Potte.zip"
+  },
+  {
+    "bbox_max": [
+      0.5404947996139526,
+      0.295090913772583,
+      0.7076926231384277
+    ],
+    "bbox_min": [
+      -0.4656369388103485,
+      -0.5695712566375732,
+      -0.0025493816938251257
+    ],
+    "category": "Decoration",
+    "hash": "940ee7986d0554bdb84db51af90af3f34fa8c6e2eba3b6ccbf8a0afea39a8c9b",
+    "name": "Fish Afro Arts",
+    "url": "Fish_Afro_Arts.zip"
+  },
+  {
+    "bbox_max": [
+      0.22077742218971252,
+      0.4570339620113373,
+      0.2947748303413391
+    ],
+    "bbox_min": [
+      -0.22696846723556519,
+      0.2750927209854126,
+      -0.0011306069791316986
+    ],
+    "category": "Decoration",
+    "hash": "4847a38d0b7975bbfe1ee4d14145ae4fa1a6eac1d7fe75bf2df678d3eb4ce402",
+    "name": "Fish  Palm",
+    "url": "Fish__Palm.zip"
+  },
+  {
+    "bbox_max": [
+      0.7410158514976501,
+      0.4653053879737854,
+      0.41623783111572266
+    ],
+    "bbox_min": [
+      0.2281484305858612,
+      0.1037965640425682,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "fac6571d3a7e48904577118f15c36006a7f2fe1d433ce2291cd5fc956ccb3347",
+    "name": "Glass  Pattern Arts Design",
+    "url": "Glass__Pattern_Arts_Design.zip"
+  },
+  {
+    "bbox_max": [
+      0.19809691607952118,
+      0.3779686391353607,
+      0.2811529040336609
+    ],
+    "bbox_min": [
+      -0.1834760159254074,
+      0.21257705986499786,
+      -0.0007645114092156291
+    ],
+    "category": "Decoration",
+    "hash": "a8439c12965b1657745d7fac5ccff24a1b35ac9e2ef20a8dc8b70416a1a2b301",
+    "name": "Glasses Master V1",
+    "url": "Glasses_Master_V1.zip"
+  },
+  {
+    "bbox_max": [
+      0.14948488771915436,
+      0.362806499004364,
+      0.23451027274131775
+    ],
+    "bbox_min": [
+      -0.14839954674243927,
+      0.12501925230026245,
+      -0.00048526376485824585
+    ],
+    "category": "Decoration",
+    "hash": "14d8fe539b239c5cc6b0d492e3ae1dc0f8f2ca8dbe335e3b0630d24a1dc80dde",
+    "name": "Glass Container 1",
+    "url": "Glass_Container_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.15307016670703888,
+      0.37246525287628174,
+      0.23042486608028412
+    ],
+    "bbox_min": [
+      -0.1513274759054184,
+      0.12929335236549377,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "7e570f3511f7fe03c34812be47fbb5de59b64cb1aa560fcc617d933fa6892b4e",
+    "name": "Glass Container 2",
+    "url": "Glass_Container_2.zip"
+  },
+  {
+    "bbox_max": [
+      0.19570276141166687,
+      0.44165804982185364,
+      0.31944718956947327
+    ],
+    "bbox_min": [
+      -0.2034713327884674,
+      0.24187040328979492,
+      -0.00024659978225827217
+    ],
+    "category": "Decoration",
+    "hash": "05c9d15a3192b0529f2e3d3ba8a8af97d058f5bd8ce7ef264a65c94ed01db178",
+    "name": "Golden Vases",
+    "url": "Golden_Vases.zip"
+  },
+  {
+    "bbox_max": [
+      0.39259621500968933,
+      0.23993805050849915,
+      0.5122607946395874
+    ],
+    "bbox_min": [
+      -0.34293991327285767,
+      -0.28052493929862976,
+      -0.002345085609704256
+    ],
+    "category": "Decoration",
+    "hash": "63cc656fd954e1810303393e9d34fa712de50ba94581188d7dab829aca42f5d9",
+    "name": "Head Deco",
+    "url": "Head_Deco.zip"
+  },
+  {
+    "bbox_max": [
+      0.34563690423965454,
+      0.16793404519557953,
+      0.3398604989051819
+    ],
+    "bbox_min": [
+      -0.32300472259521484,
+      -0.33072584867477417,
+      -0.0003535559808369726
+    ],
+    "category": "Decoration",
+    "hash": "2368bf46935f799dcc5a0c0fce60f96badba78c2646b0a5fa5c91da473e24730",
+    "name": "Home Desir",
+    "url": "Home_Desir.zip"
+  },
+  {
+    "bbox_max": [
+      0.20345261693000793,
+      0.2088480293750763,
+      0.4168590009212494
+    ],
+    "bbox_min": [
+      -0.24784323573112488,
+      -0.06983473896980286,
+      -0.001606408623047173
+    ],
+    "category": "Decoration",
+    "hash": "dbcee0bb3d4d5e04e2edd8f1c27788c162f0fe4c7b15dd1793050c660efe3b04",
+    "name": "Ikea Candle Mod",
+    "url": "Ikea_Candle_Mod.zip"
+  },
+  {
+    "bbox_max": [
+      0.33363157510757446,
+      0.196163147687912,
+      0.39196866750717163
+    ],
+    "bbox_min": [
+      -0.3404337763786316,
+      -0.13558119535446167,
+      -0.003617156995460391
+    ],
+    "category": "Decoration",
+    "hash": "37b93c4e30c9494bc9fa44520e430784885db925ae28c00ebf5dd41165c3eac3",
+    "name": "Ikea Deco Pack",
+    "url": "Ikea_Deco_Pack.zip"
+  },
+  {
+    "bbox_max": [
+      0.18272185325622559,
+      0.4034273624420166,
+      0.37569504976272583
+    ],
+    "bbox_min": [
+      -0.11547666043043137,
+      0.16060642898082733,
+      -0.0006029918440617621
+    ],
+    "category": "Decoration",
+    "hash": "295a924dab5b92b2327624d97a5ce37e478fb771db0a4fb252e093d9054ec667",
+    "name": "King Kong Palm",
+    "url": "King_Kong_Palm.zip"
+  },
+  {
+    "bbox_max": [
+      0.22266042232513428,
+      0.4428926706314087,
+      0.41115930676460266
+    ],
+    "bbox_min": [
+      -0.2146407663822174,
+      0.1372603178024292,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "c71e0e6f815258eacbd537f46a4094a8c9ba9d8a97db81da1b339f03c103a03e",
+    "name": "Leaf Box",
+    "url": "Leaf_Box.zip"
+  },
+  {
+    "bbox_max": [
+      0.3101007044315338,
+      0.1758127063512802,
+      0.42691218852996826
+    ],
+    "bbox_min": [
+      -0.3102307617664337,
+      0.05581267178058624,
+      0.0017955601215362549
+    ],
+    "category": "Decoration",
+    "hash": "28929f861592a284f8263b0ebc02425e246f829cd0112335c28190083e2e6b7b",
+    "name": "Little Things",
+    "url": "Little_Things.zip"
+  },
+  {
+    "bbox_max": [
+      0.330111026763916,
+      0.21251998841762543,
+      0.8398621678352356
+    ],
+    "bbox_min": [
+      -0.330111026763916,
+      -0.39065152406692505,
+      0.00023335190780926496
+    ],
+    "category": "Furniture",
+    "hash": "edaeb0197edcc0a223b94aaa05a98ba3030718313bad93c30ab80be0a6438229",
+    "name": "Lord V Chair",
+    "url": "Lord_V_Chair.zip"
+  },
+  {
+    "bbox_max": [
+      0.22588175535202026,
+      0.02834276296198368,
+      0.38975393772125244
+    ],
+    "bbox_min": [
+      -0.20977263152599335,
+      -0.24386416375637054,
+      -0.0010863448260352015
+    ],
+    "category": "Decoration",
+    "hash": "9ef361d9f484e85c7abb56d0223b61b8b5c8c095e9e22cd783df0a8c6a9cefae",
+    "name": "Maison Deco 1",
+    "url": "Maison_Deco_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.35590860247612,
+      0.18685995042324066,
+      0.8399360775947571
+    ],
+    "bbox_min": [
+      -0.33073484897613525,
+      -0.32529217004776,
+      -0.0009747147560119629
+    ],
+    "category": "Decoration",
+    "hash": "8f2b7ff364e96193fb2513b7c7e85e8abf4b3a4cba254eed3a49cb8a6693f838",
+    "name": "Mediterranean Beach Set",
+    "url": "Mediterranean_Beach_Set.zip"
+  },
+  {
+    "bbox_max": [
+      0.2976106107234955,
+      0.20424772799015045,
+      0.751420795917511
+    ],
+    "bbox_min": [
+      -0.2955682873725891,
+      -0.38893112540245056,
+      0.0005639083683490753
+    ],
+    "category": "Decoration",
+    "hash": "beee52a56aaf35d58f51deee736751cf7a615baead7a6fd1637e149005e60a5b",
+    "name": "Mediterranean Deco Set",
+    "url": "Mediterranean_Deco_Set.zip"
+  },
+  {
+    "bbox_max": [
+      0.29861995577812195,
+      0.5069725513458252,
+      0.4952614903450012
+    ],
+    "bbox_min": [
+      -0.28841423988342285,
+      0.1122199222445488,
+      -0.002372229704633355
+    ],
+    "category": "Decoration",
+    "hash": "d7571d463dd94d5a15036617dbad25c880d8eb789f6d053086190f9a2391a31a",
+    "name": "Nuts Ginkgo Leaves",
+    "url": "Nuts_Ginkgo_Leaves.zip"
+  },
+  {
+    "bbox_max": [
+      0.21389999985694885,
+      0.3968110680580139,
+      0.28049346804618835
+    ],
+    "bbox_min": [
+      -0.19267156720161438,
+      0.19487719237804413,
+      -0.000526163203176111
+    ],
+    "category": "Decoration",
+    "hash": "e0de405a984ed17ba4c595b90626dd8df6498fcb060eb383088af4350cec3d86",
+    "name": "Olifant Ceramic Wood",
+    "url": "Olifant_Ceramic_Wood.zip"
+  },
+  {
+    "bbox_max": [
+      0.24590204656124115,
+      0.4241704046726227,
+      0.2621399164199829
+    ],
+    "bbox_min": [
+      -0.2165403664112091,
+      0.07587004452943802,
+      -0.0009666929836384952
+    ],
+    "category": "Decoration",
+    "hash": "4656314a86f4330927f0eb0eb850fe0eaa2847c778966c3b7c64026567645ef5",
+    "name": "Pastel Setup",
+    "url": "Pastel_Setup.zip"
+  },
+  {
+    "bbox_max": [
+      0.23138850927352905,
+      0.44437429308891296,
+      0.43229344487190247
+    ],
+    "bbox_min": [
+      -0.16061297059059143,
+      0.10852458328008652,
+      -0.00038913715980015695
+    ],
+    "category": "Decoration",
+    "hash": "aff1c46700d027575ed225447eb1fe44d62bccceea81c13a3dafbbe7662dc5ab",
+    "name": "Pepita Florale Set",
+    "url": "Pepita_Florale_Set.zip"
+  },
+  {
+    "bbox_max": [
+      0.25808313488960266,
+      0.15662895143032074,
+      0.36264193058013916
+    ],
+    "bbox_min": [
+      -0.25880247354507446,
+      -0.0672769546508789,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "e87129552dc67e6c11dd13fb395fd7b13ab00b9c021c77bd6333b39a0b715e28",
+    "name": "Queen Glasses",
+    "url": "Queen_Glasses.zip"
+  },
+  {
+    "bbox_max": [
+      0.677603542804718,
+      0.24077151715755463,
+      1.7053945064544678
+    ],
+    "bbox_min": [
+      -0.6407716274261475,
+      -0.24077151715755463,
+      0.0049916161224246025
+    ],
+    "category": "Furniture",
+    "hash": "edee634a1b711d847e8c087d31f86762ac82048f296283aaa745acf93fafafd0",
+    "name": "Ray Floor lamp",
+    "url": "Ray_Floor_lamp.zip"
+  },
+  {
+    "bbox_max": [
+      0.8456547856330872,
+      0.4858816862106323,
+      0.6410571932792664
+    ],
+    "bbox_min": [
+      -0.855178952217102,
+      -0.41545093059539795,
+      -0.0002802314702421427
+    ],
+    "category": "Furniture",
+    "hash": "769fd0d1bea3f3987b2ebc2374874dd1be737486b8a2d6eb076f99c6a8924c8c",
+    "name": "Rod Sofa 2Pc",
+    "url": "Rod_Sofa_2Pc.zip"
+  },
+  {
+    "bbox_max": [
+      1.1946797370910645,
+      0.4858817458152771,
+      0.6410571932792664
+    ],
+    "bbox_min": [
+      -1.2037688493728638,
+      -0.41545093059539795,
+      -0.0002802314702421427
+    ],
+    "category": "Furniture",
+    "hash": "63b5c20cf3e8a7d9c3a4a25d47e25f90be7664fc184021bd2a682d412a693315",
+    "name": "Rod Sofa 3P",
+    "url": "Rod_Sofa_3P.zip"
+  },
+  {
+    "bbox_max": [
+      0.670030415058136,
+      0.26003268361091614,
+      1.5937446355819702
+    ],
+    "bbox_min": [
+      -0.7000311017036438,
+      -0.2600286602973938,
+      0.0027599299792200327
+    ],
+    "category": "Furniture",
+    "hash": "1409016172cc24f217d7e7b9c6f2416f28ed48c63ec40ed17cb4016ba21a5697",
+    "name": "Romeo Moon lamp",
+    "url": "Romeo_Moon_lamp.zip"
+  },
+  {
+    "bbox_max": [
+      1.3624686002731323,
+      0.45489591360092163,
+      0.6016380786895752
+    ],
+    "bbox_min": [
+      -1.9954631328582764,
+      -1.5085994005203247,
+      0.00017645946354605258
+    ],
+    "category": "Furniture",
+    "hash": "a839c935e512b4da951cd5e7158c99c93c08689d6cba822a6f7ae9a3ceb66a21",
+    "name": "R Sofa 3pc 1",
+    "url": "R_Sofa_3pc_1.zip"
+  },
+  {
+    "bbox_max": [
+      1.3624686002731323,
+      0.4550960659980774,
+      0.5987787842750549
+    ],
+    "bbox_min": [
+      -1.3624686002731323,
+      -0.44741860032081604,
+      0.0008291153353638947
+    ],
+    "category": "Furniture",
+    "hash": "1eddd2b20476a50265f2de61b14f26581e0be48682f813a8b4980629e3dff16a",
+    "name": "R sofa 2A",
+    "url": "R_sofa_2A.zip"
+  },
+  {
+    "bbox_max": [
+      0.48199185729026794,
+      0.48588165640830994,
+      0.6410571932792664
+    ],
+    "bbox_min": [
+      -0.5128291249275208,
+      -0.37083104252815247,
+      -0.0002802314702421427
+    ],
+    "category": "Furniture",
+    "hash": "6483a1bf571bc3ca718a131f35078c3a80976d8dead492c27bcb8f2b55b5fcf1",
+    "name": "R Sofa Mono",
+    "url": "R_Sofa_Mono.zip"
+  },
+  {
+    "bbox_max": [
+      1.38126540184021,
+      0.4548959732055664,
+      0.8891536593437195
+    ],
+    "bbox_min": [
+      -0.800602912902832,
+      -0.4521029591560364,
+      0.0001763850450515747
+    ],
+    "category": "Furniture",
+    "hash": "9c566767f795d66a5a43697bf100893d026fd7bef0746bced3d2369b8e3aef24",
+    "name": "R  sofa 1 1",
+    "url": "R__sofa_1_1.zip"
+  },
+  {
+    "bbox_max": [
+      0.25188931822776794,
+      0.2480836808681488,
+      0.3695198595523834
+    ],
+    "bbox_min": [
+      -0.2548161745071411,
+      -0.12307951599359512,
+      -0.0011885809944942594
+    ],
+    "category": "Decoration",
+    "hash": "a2c2dc49f6ac3e4541b34f30df861eabe18d26c4c241096a9e0004eec9c72593",
+    "name": "Safari Beach",
+    "url": "Safari_Beach.zip"
+  },
+  {
+    "bbox_max": [
+      0.18364617228507996,
+      0.12022258341312408,
+      0.3610185384750366
+    ],
+    "bbox_min": [
+      -0.18492549657821655,
+      -0.04932505637407303,
+      0.0
+    ],
+    "category": "Decoration",
+    "hash": "3c42778a4f043394d2e7c6b7b5eb9618f8af91166c2935bb992fe93bc25348fc",
+    "name": "Scuderia Racer",
+    "url": "Scuderia_Racer.zip"
+  },
+  {
+    "bbox_max": [
+      0.18703675270080566,
+      0.2923533618450165,
+      0.294058620929718
+    ],
+    "bbox_min": [
+      -0.1985405683517456,
+      -0.03223155438899994,
+      -0.002540220506489277
+    ],
+    "category": "Decoration",
+    "hash": "48ff621c131c1d6f307d1d1b0cfd8014902ce7b60a1f223bb211f51d4c5d5042",
+    "name": "Smile Deco Set",
+    "url": "Smile_Deco_Set.zip"
+  },
+  {
+    "bbox_max": [
+      0.7492249011993408,
+      0.2492251843214035,
+      1.779867172241211
+    ],
+    "bbox_min": [
+      -0.8492251634597778,
+      -0.2492247223854065,
+      -5.843730832566507e-05
+    ],
+    "category": "Furniture",
+    "hash": "5c8173556765f95e9e7ec6362d3dac1125831e144ce5f7786cecbd980482cd77",
+    "name": "Spun floor lamp",
+    "url": "Spun_floor_lamp.zip"
+  },
+  {
+    "bbox_max": [
+      0.897665798664093,
+      0.3890242278575897,
+      1.0201301574707031
+    ],
+    "bbox_min": [
+      -0.897665798664093,
+      -0.3071054518222809,
+      -0.0021490652579814196
+    ],
+    "category": "Furniture",
+    "hash": "74383c657c50b10e63ef6b0d48aecd916b27f271406d9b4cb68a264b43daee26",
+    "name": "St TN Sofa 3plc",
+    "url": "St_TN_Sofa_3plc.zip"
+  },
+  {
+    "bbox_max": [
+      0.20539958775043488,
+      -0.020320462062954903,
+      0.8391952514648438
+    ],
+    "bbox_min": [
+      -0.20539957284927368,
+      -0.538909912109375,
+      -0.000548193755093962
+    ],
+    "category": "Furniture",
+    "hash": "2f7a39f68f3aaf50bf09fa4fd4ced0193de0f4c869225d5a862890ca1d114ce3",
+    "name": "T1 Chair",
+    "url": "T1_Chair.zip"
+  },
+  {
+    "bbox_max": [
+      0.22558021545410156,
+      0.25485527515411377,
+      0.8653811812400818
+    ],
+    "bbox_min": [
+      -0.22558020055294037,
+      -0.25603464245796204,
+      0.0
+    ],
+    "category": "Furniture",
+    "hash": "bef4e4fdceead3a30702cfae231c96bd6f80fc16632d5b6c29d9e95f6d6a1685",
+    "name": "T2 Chair",
+    "url": "T2_Chair.zip"
+  },
+  {
+    "bbox_max": [
+      0.32812249660491943,
+      0.24857868254184723,
+      0.4108235239982605
+    ],
+    "bbox_min": [
+      -0.2859826385974884,
+      -0.030876552686095238,
+      -0.001369702396914363
+    ],
+    "category": "Decoration",
+    "hash": "ab66e8eb0e63c065074cdb8eb51136df15004a4911b3800b7450cee3b1c399fe",
+    "name": "The Minimal",
+    "url": "The_Minimal.zip"
+  },
+  {
+    "bbox_max": [
+      0.20880752801895142,
+      0.20972445607185364,
+      0.19270093739032745
+    ],
+    "bbox_min": [
+      -0.21527615189552307,
+      -0.07149811834096909,
+      -0.001699950429610908
+    ],
+    "category": "Decoration",
+    "hash": "bfd42589ad030d8a3e5f599b8842c06a64c22378d2d13351256a6276aa8c36bb",
+    "name": "World Home Pictures Frame",
+    "url": "World_Home_Pictures_Frame.zip"
+  }
+]

@@ -1,0 +1,12 @@
+Authors:
+
+Addon:
+Michael "neo2068" Klemm <>
+
+Assets:
+Charles Nandeya "Sharlybg" Ehouman <>
+
+The addon is based on the Blenderkit Addon shipped with Blender
+
+Homepage: https://www.blenderkit.com/
+Sourcecode: https://github.com/blender/blender-addons/tree/master/blenderkit
