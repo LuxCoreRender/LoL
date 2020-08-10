@@ -5,7 +5,7 @@ LoL is a materials and objects library for LuxCoreRender users.
 ### File system structure
 
 The "assets" directory includes all the preview thumbnail and assets. The scripts
-includes script ot generate the asset content (for instance thumbnail).
+includes script to generate the asset content (for instance thumbnail).
 
 ### Authors
 
