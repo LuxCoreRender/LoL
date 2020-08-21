@@ -3,6 +3,7 @@
     "name": "Average Curtain",
     "url": "Average_Curtain.zip",
     "category": "Curtain",
+    "hash": "54e97487376e3abd98e2601d9fab702078319694ed801def31caef64888cde77",
     "bbox_min": [
       -1.0012123584747314,
       -0.38329607248306274,
@@ -12,13 +13,13 @@
       0.7187661528587341,
       0.17492040991783142,
       3.1584534645080566
-    ],
-    "hash": "54e97487376e3abd98e2601d9fab702078319694ed801def31caef64888cde77"
+    ]
   },
   {
     "name": "Average Curtain 01",
     "url": "Average_Curtain_01.zip",
     "category": "Curtain",
+    "hash": "3675ff3dea61be8c7ca6b5f5ee5349381153a078012d06f00f52d8f1d10863ad",
     "bbox_min": [
       -1.1612718105316162,
       -0.09010598063468933,
@@ -28,13 +29,13 @@
       1.0693714618682861,
       0.48340561985969543,
       3.153250217437744
-    ],
-    "hash": "3675ff3dea61be8c7ca6b5f5ee5349381153a078012d06f00f52d8f1d10863ad"
+    ]
   },
   {
     "name": "Average Curtain 02",
     "url": "Average_Curtain_02.zip",
     "category": "Curtain",
+    "hash": "4fcf9ff65862d2173bb0998f5a1ae330b4451c0bd2d639e1e29f4c0f1aa98b89",
     "bbox_min": [
       -0.7296327948570251,
       -0.5154650211334229,
@@ -44,13 +45,13 @@
       0.8390384316444397,
       0.14775457978248596,
       3.164161205291748
-    ],
-    "hash": "4fcf9ff65862d2173bb0998f5a1ae330b4451c0bd2d639e1e29f4c0f1aa98b89"
+    ]
   },
   {
     "name": "Average Curtain 03",
     "url": "Average_Curtain_03.zip",
     "category": "Curtain",
+    "hash": "c8ccd5288e002bcc84a1c96d8e0703c65b94442bc0156236dabb4a01810031c7",
     "bbox_min": [
       -0.9467933177947998,
       -0.49881237745285034,
@@ -60,13 +61,13 @@
       0.6810373663902283,
       0.2998856008052826,
       3.165123701095581
-    ],
-    "hash": "c8ccd5288e002bcc84a1c96d8e0703c65b94442bc0156236dabb4a01810031c7"
+    ]
   },
   {
     "name": "Baobab supension",
     "url": "Baobab_supension.zip",
     "category": "Light",
+    "hash": "9e8dcd7a21d8b425ffe3481217997187699717d0e00eb7c2ab93f36166cea3f0",
     "bbox_min": [
       -0.06753435730934143,
       -0.06753435730934143,
@@ -76,13 +77,13 @@
       0.06753435730934143,
       0.06753435730934143,
       2.1992032527923584
-    ],
-    "hash": "9e8dcd7a21d8b425ffe3481217997187699717d0e00eb7c2ab93f36166cea3f0"
+    ]
   },
   {
     "name": "BB Metro",
     "url": "BB_Metro.zip",
     "category": "Furniture",
+    "hash": "bb886b80e1ca1585537ce3cd2da5255b50b0980b90f51cc51606c300dff7bbe4",
     "bbox_min": [
       -0.3133104145526886,
       -0.2996206283569336,
@@ -92,13 +93,13 @@
       0.3133104145526886,
       0.2996206283569336,
       0.4212642312049866
-    ],
-    "hash": "bb886b80e1ca1585537ce3cd2da5255b50b0980b90f51cc51606c300dff7bbe4"
+    ]
   },
   {
     "name": "Bed Paradise",
     "url": "Bed_Paradise.zip",
     "category": "Furniture",
+    "hash": "b6c7a3c28def1bd80f2587c7b32802f920785c872601b8228a619839f3f617c2",
     "bbox_min": [
       -1.165493369102478,
       -1.1011978387832642,
@@ -108,13 +109,13 @@
       1.1700950860977173,
       1.1562198400497437,
       0.9867900609970093
-    ],
-    "hash": "b6c7a3c28def1bd80f2587c7b32802f920785c872601b8228a619839f3f617c2"
+    ]
   },
   {
     "name": "Bed Grey",
     "url": "Bed__Grey.zip",
     "category": "Furniture",
+    "hash": "fb51d5f2417b98bd7b2f043dfa8699d6351920dff5fa11b8d5e6cd7d249f0603",
     "bbox_min": [
       -0.9088952541351318,
       -1.194119930267334,
@@ -124,13 +125,13 @@
       0.8590196371078491,
       1.0968259572982788,
       0.8805398941040039
-    ],
-    "hash": "fb51d5f2417b98bd7b2f043dfa8699d6351920dff5fa11b8d5e6cd7d249f0603"
+    ]
   },
   {
     "name": "Bed Master",
     "url": "Bed__Master.zip",
     "category": "Furniture",
+    "hash": "71e8d256b8ccda5e0d2dbcfef6cafc15ade16a73a8e828f35efaaa14669138b0",
     "bbox_min": [
       -0.9134187698364258,
       -1.0651181936264038,
@@ -140,13 +141,13 @@
       1.0732996463775635,
       1.2350616455078125,
       1.0594695806503296
-    ],
-    "hash": "71e8d256b8ccda5e0d2dbcfef6cafc15ade16a73a8e828f35efaaa14669138b0"
+    ]
   },
   {
     "name": "Bed Master 1",
     "url": "Bed__Master__1.zip",
     "category": "Furniture",
+    "hash": "b805513d270f4aef6238bd12d2c53bb40de057166552fc437f287ca7908d3a7b",
     "bbox_min": [
       -0.996169924736023,
       -0.9236776232719421,
@@ -156,13 +157,13 @@
       0.9869385361671448,
       1.112457036972046,
       0.903247594833374
-    ],
-    "hash": "b805513d270f4aef6238bd12d2c53bb40de057166552fc437f287ca7908d3a7b"
+    ]
   },
   {
     "name": "Bellini TV Stand",
     "url": "Bellini_Tv_Stand.zip",
     "category": "Furniture",
+    "hash": "a7a8b8f935f82777cfb93df36307d3d54d22dbec217b324bb803ad16de36d60f",
     "bbox_min": [
       -0.8999999761581421,
       -0.20000000298023224,
@@ -172,13 +173,13 @@
       0.8544422388076782,
       0.20131848752498627,
       0.38999995589256287
-    ],
-    "hash": "a7a8b8f935f82777cfb93df36307d3d54d22dbec217b324bb803ad16de36d60f"
+    ]
   },
   {
     "name": "Blender Mixer",
     "url": "Blender_Mixer.zip",
     "category": "Kitchen",
+    "hash": "2f3e17705ce3cf8982ba0b48149913bbae0de994e40d6ce7e27e83434c529133",
     "bbox_min": [
       -0.1316491663455963,
       -0.10572141408920288,
@@ -188,13 +189,13 @@
       0.10614139586687088,
       0.10265438258647919,
       0.42851272225379944
-    ],
-    "hash": "2f3e17705ce3cf8982ba0b48149913bbae0de994e40d6ce7e27e83434c529133"
+    ]
   },
   {
     "name": "Cabinet Yellow",
     "url": "Cabinet_Yellow.zip",
     "category": "Furniture",
+    "hash": "5437eaea220186939f26ee392dac5f0695e9ec167ddf1306c3e5ac4a04adbadc",
     "bbox_min": [
       -0.6357031464576721,
       -0.31540045142173767,
@@ -204,13 +205,13 @@
       0.6357037425041199,
       0.2904995381832123,
       1.205033540725708
-    ],
-    "hash": "5437eaea220186939f26ee392dac5f0695e9ec167ddf1306c3e5ac4a04adbadc"
+    ]
   },
   {
     "name": "Corbusier LC",
     "url": "Corbusier_LC.zip",
     "category": "Furniture",
+    "hash": "91977c76ee6c1581fd7acd4b39227e76f78ebe479cccbf320cddaef8980825f0",
     "bbox_min": [
       -0.3875148296356201,
       -0.014463022351264954,
@@ -220,13 +221,13 @@
       0.3875148296356201,
       0.7101821899414062,
       0.6716548204421997
-    ],
-    "hash": "91977c76ee6c1581fd7acd4b39227e76f78ebe479cccbf320cddaef8980825f0"
+    ]
   },
   {
     "name": "Corbusier LColor",
     "url": "Corbusier_LColor.zip",
     "category": "Furniture",
+    "hash": "d955be3eb3034d9eff026882452d1bb128c2766794302fbd170b9a29939d8720",
     "bbox_min": [
       -0.3875148296356201,
       -0.014463022351264954,
@@ -236,13 +237,13 @@
       0.3875148296356201,
       0.7064306139945984,
       0.6748648881912231
-    ],
-    "hash": "d955be3eb3034d9eff026882452d1bb128c2766794302fbd170b9a29939d8720"
+    ]
   },
   {
     "name": "Floor Lamp 2head",
     "url": "Floor_Lamp_2head.zip",
     "category": "Light",
+    "hash": "6822499460bcc98c82d87d82d4fa48c60b261c39962f2a735152754e740ed7d8",
     "bbox_min": [
       -0.7080751061439514,
       -0.18363171815872192,
@@ -252,13 +253,13 @@
       0.8720859885215759,
       0.18363195657730103,
       1.672533631324768
-    ],
-    "hash": "6822499460bcc98c82d87d82d4fa48c60b261c39962f2a735152754e740ed7d8"
+    ]
   },
   {
     "name": "Flos Fussica f12",
     "url": "Flos_Fussica_f12.zip",
     "category": "Light",
+    "hash": "64a1b57856d233995ebca6cd0417caf703589a768e7e2584551471db15f3defb",
     "bbox_min": [
       -0.5821597576141357,
       -0.1721542775630951,
@@ -268,13 +269,13 @@
       0.5821510553359985,
       0.1721542477607727,
       1.1228680705244187e-05
-    ],
-    "hash": "64a1b57856d233995ebca6cd0417caf703589a768e7e2584551471db15f3defb"
+    ]
   },
   {
     "name": "Flos Glo Ball",
     "url": "Flos_Glo_Ball.zip",
     "category": "Light",
+    "hash": "4a9b67889c1742572eb3a54f2a39972f149e8a31ff616219d3e4a900e578a5cd",
     "bbox_min": [
       -0.23702535033226013,
       -0.23702512681484222,
@@ -284,13 +285,13 @@
       0.237025186419487,
       0.23702555894851685,
       4.936532604915556e-07
-    ],
-    "hash": "4a9b67889c1742572eb3a54f2a39972f149e8a31ff616219d3e4a900e578a5cd"
+    ]
   },
   {
     "name": "Flos IC S",
     "url": "Flos_IC_S.zip",
     "category": "Light",
+    "hash": "642921034f2c01f098b733670ea6bd7e955ec6402c3bc3d56949bab6dc3b9924",
     "bbox_min": [
       -0.15002228319644928,
       -0.14940586686134338,
@@ -300,13 +301,13 @@
       0.1658337414264679,
       0.14940592646598816,
       1.2520096959178773e-08
-    ],
-    "hash": "642921034f2c01f098b733670ea6bd7e955ec6402c3bc3d56949bab6dc3b9924"
+    ]
   },
   {
     "name": "Flos IC S1",
     "url": "Flos_IC_S1.zip",
     "category": "Light",
+    "hash": "1304f1770d7623ae97a04cfb19315d53dcb8aa88dfe91a6b8d3cac27a7a5c5df",
     "bbox_min": [
       -0.49704477190971375,
       -0.1495361477136612,
@@ -316,13 +317,13 @@
       0.5362786650657654,
       0.14927572011947632,
       0.054254285991191864
-    ],
-    "hash": "1304f1770d7623ae97a04cfb19315d53dcb8aa88dfe91a6b8d3cac27a7a5c5df"
+    ]
   },
   {
     "name": "Flos Wan Ceiling",
     "url": "Flos_Wan_Ceil.zip",
     "category": "Light",
+    "hash": "dfd40ba0c4231f9d12200e641f4dda0c2189e00382596a405ac5bb810b197be5",
     "bbox_min": [
       -0.05704871565103531,
       -0.05704865977168083,
@@ -332,13 +333,13 @@
       0.05704858899116516,
       0.05704863369464874,
       -2.995855174958706e-05
-    ],
-    "hash": "dfd40ba0c4231f9d12200e641f4dda0c2189e00382596a405ac5bb810b197be5"
+    ]
   },
   {
     "name": "Flos Wan Suspension",
     "url": "Flos_Wan_Susp.zip",
     "category": "Light",
+    "hash": "1a337d1e58cad22210125640a78de39a4638de76fdcd929e355157d7b3e5089a",
     "bbox_min": [
       -0.05704871565103531,
       -0.05704865977168083,
@@ -348,13 +349,13 @@
       0.05704858899116516,
       0.05704863369464874,
       0.00010347366333007812
-    ],
-    "hash": "1a337d1e58cad22210125640a78de39a4638de76fdcd929e355157d7b3e5089a"
+    ]
   },
   {
     "name": "Furniture Low Green",
     "url": "Furniture_Low_Green.zip",
     "category": "Furniture",
+    "hash": "e2785689f43095df1f2b1967c825975281b03a2469e309831005a9920419f630",
     "bbox_min": [
       -1.2586228847503662,
       -0.60589998960495,
@@ -364,13 +365,13 @@
       1.2586228847503662,
       0.0,
       0.705500066280365
-    ],
-    "hash": "e2785689f43095df1f2b1967c825975281b03a2469e309831005a9920419f630"
+    ]
   },
   {
     "name": "Furniture Low Grey wood",
     "url": "Furniture_Low_Grey_wood.zip",
     "category": "Furniture",
+    "hash": "eea07632a9f527ef038abdcfaed0a04e57596a48233089aa1131d05f5bde3d08",
     "bbox_min": [
       -1.0,
       0.0,
@@ -380,13 +381,13 @@
       1.0,
       0.5,
       0.5
-    ],
-    "hash": "eea07632a9f527ef038abdcfaed0a04e57596a48233089aa1131d05f5bde3d08"
+    ]
   },
   {
     "name": "Hotte Aspirante 1",
     "url": "Hotte_Aspirante_1.zip",
     "category": "Kitchen",
+    "hash": "aa4b4637e12520517451fe682315b1c876081f151236c8806fd3cbaf691a9138",
     "bbox_min": [
       -0.40058156847953796,
       -0.39022257924079895,
@@ -396,13 +397,13 @@
       0.3905816078186035,
       0.12000003457069397,
       1.0230001211166382
-    ],
-    "hash": "aa4b4637e12520517451fe682315b1c876081f151236c8806fd3cbaf691a9138"
+    ]
   },
   {
     "name": "Imac 27 2019",
     "url": "Imac_27_2019.zip",
     "category": "Electronics",
+    "hash": "c1c38e34a4194ee3aa5d5c4737e8bcfa092b5213a5283a789a9e031d46a58c68",
     "bbox_min": [
       -0.329633504152298,
       -0.3635692298412323,
@@ -412,13 +413,13 @@
       0.3265870213508606,
       -0.002116585848852992,
       0.5116908550262451
-    ],
-    "hash": "c1c38e34a4194ee3aa5d5c4737e8bcfa092b5213a5283a789a9e031d46a58c68"
+    ]
   },
   {
     "name": "Interior Plant 2",
     "url": "Interior_Plant_2.zip",
     "category": "Plants",
+    "hash": "1697d76d973bec5488a558f8b05584c3d883f035bb2dd080678295323bcefe06",
     "bbox_min": [
       -0.25150781869888306,
       -0.3067425489425659,
@@ -428,13 +429,13 @@
       0.3992820680141449,
       0.24309754371643066,
       1.5110803842544556
-    ],
-    "hash": "1697d76d973bec5488a558f8b05584c3d883f035bb2dd080678295323bcefe06"
+    ]
   },
   {
     "name": "Interior Plant 3",
     "url": "Interior_Plant_3.zip",
     "category": "Plants",
+    "hash": "94b541bd92bfc1c61de71a6d2480288d29136456f9746556d6fe78b196500f7d",
     "bbox_min": [
       -0.27000418305397034,
       -0.2977888882160187,
@@ -444,13 +445,13 @@
       0.26834559440612793,
       0.35559961199760437,
       1.6791298389434814
-    ],
-    "hash": "94b541bd92bfc1c61de71a6d2480288d29136456f9746556d6fe78b196500f7d"
+    ]
   },
   {
     "name": "Kitchen Tap",
     "url": "Kitchen_Tap.zip",
     "category": "Kitchen",
+    "hash": "45f002f66459270adce2a3b5d984fc7749d473661df25551d0a4dacb8566add4",
     "bbox_min": [
       -0.02506902627646923,
       -0.23603247106075287,
@@ -460,13 +461,13 @@
       0.07375015318393707,
       0.02506895922124386,
       0.2687438726425171
-    ],
-    "hash": "45f002f66459270adce2a3b5d984fc7749d473661df25551d0a4dacb8566add4"
+    ]
   },
   {
     "name": "Kitchen Ware S1",
     "url": "Kitchen_Ware_S1.zip",
     "category": "Kitchen",
+    "hash": "f40035a8b11990717bb3ecdd169bea9cbb3d6ef9cf591dc74675dfada572f10b",
     "bbox_min": [
       -0.5575706362724304,
       -0.2090798318386078,
@@ -476,13 +477,13 @@
       0.5233033299446106,
       0.052219849079847336,
       0.4724788963794708
-    ],
-    "hash": "f40035a8b11990717bb3ecdd169bea9cbb3d6ef9cf591dc74675dfada572f10b"
+    ]
   },
   {
     "name": "Kitchen Ware S2",
     "url": "Kitchen_Ware_S2.zip",
     "category": "Kitchen",
+    "hash": "656a73e9bcbeaca235fea8416098f71a2d7b8934f69af0bf6e5344266c746f61",
     "bbox_min": [
       -0.5487103462219238,
       -0.2044379860162735,
@@ -492,13 +493,13 @@
       0.541353166103363,
       0.06789686530828476,
       0.8424789309501648
-    ],
-    "hash": "656a73e9bcbeaca235fea8416098f71a2d7b8934f69af0bf6e5344266c746f61"
+    ]
   },
   {
     "name": "Large Curtain",
     "url": "Large_Curtain.zip",
     "category": "Curtain",
+    "hash": "ad351c68775c42f6a28d7d67838abf80a5a43ca0e8279ba1695e3a83e8556aa3",
     "bbox_min": [
       -1.2970607280731201,
       2.0936977863311768,
@@ -508,13 +509,13 @@
       1.4457314014434814,
       2.716362476348877,
       3.16512393951416
-    ],
-    "hash": "ad351c68775c42f6a28d7d67838abf80a5a43ca0e8279ba1695e3a83e8556aa3"
+    ]
   },
   {
     "name": "Large Curtain 01",
     "url": "Large_Curtain_01.zip",
     "category": "Curtain",
+    "hash": "dfdd2bb044cbced21ed9d3d95c1ddd55aec9f85372e3954d29a1a155507f3634",
     "bbox_min": [
       -1.1674154996871948,
       -0.4026811718940735,
@@ -524,13 +525,13 @@
       1.2416177988052368,
       0.3120366334915161,
       3.16512393951416
-    ],
-    "hash": "dfdd2bb044cbced21ed9d3d95c1ddd55aec9f85372e3954d29a1a155507f3634"
+    ]
   },
   {
     "name": "LG Fridge",
     "url": "LG_Fridge.zip",
     "category": "Home Appliance",
+    "hash": "4db7d0dedf2dc8f978b8e48b3dd95449c6190f22c5e55c2c21627e216e3b6c9e",
     "bbox_min": [
       -0.3061600625514984,
       -0.33356496691703796,
@@ -540,13 +541,13 @@
       0.31190797686576843,
       0.30392783880233765,
       1.7982732057571411
-    ],
-    "hash": "4db7d0dedf2dc8f978b8e48b3dd95449c6190f22c5e55c2c21627e216e3b6c9e"
+    ]
   },
   {
     "name": "Light Switch",
     "url": "Light_Switch.zip",
     "category": "Electronics",
+    "hash": "98ee95d62c0d8d308b37a397926f47357ce0badad61a4c8984f49f3e3e7a5318",
     "bbox_min": [
       -0.05195333808660507,
       -0.018665693700313568,
@@ -556,13 +557,13 @@
       0.05195333808660507,
       0.0002572274534031749,
       0.04873025044798851
-    ],
-    "hash": "98ee95d62c0d8d308b37a397926f47357ce0badad61a4c8984f49f3e3e7a5318"
+    ]
   },
   {
     "name": "Moderne Tap",
     "url": "Moderne_Tap.zip",
     "category": "Kitchen",
+    "hash": "f7a29976904eb698817e007d2c324e95b5d925907b967ade3b500ee842baf531",
     "bbox_min": [
       -0.025229889899492264,
       -0.23396825790405273,
@@ -572,13 +573,13 @@
       0.06873144209384918,
       0.02522990107536316,
       0.4088399112224579
-    ],
-    "hash": "f7a29976904eb698817e007d2c324e95b5d925907b967ade3b500ee842baf531"
+    ]
   },
   {
     "name": "Oven 1",
     "url": "Oven_1.zip",
     "category": "Kitchen",
+    "hash": "18f8fe402f70c7fe91762f1c2b25ea46a3de10f36acdde5d3de00f90f02a03d4",
     "bbox_min": [
       -0.2946668267250061,
       -0.1898840069770813,
@@ -588,13 +589,13 @@
       0.29466694593429565,
       0.32064002752304077,
       0.5964478850364685
-    ],
-    "hash": "18f8fe402f70c7fe91762f1c2b25ea46a3de10f36acdde5d3de00f90f02a03d4"
+    ]
   },
   {
     "name": "Photo frame",
     "url": "Photo_frame.zip",
     "category": "Decoration",
+    "hash": "8f112892a78c2052609461038d4450be77a2e8ed8cb30a185b6894045fd41fea",
     "bbox_min": [
       -0.4579199552536011,
       -0.03987687826156616,
@@ -604,13 +605,13 @@
       0.45792022347450256,
       1.1842477931622852e-07,
       0.45792004466056824
-    ],
-    "hash": "8f112892a78c2052609461038d4450be77a2e8ed8cb30a185b6894045fd41fea"
+    ]
   },
   {
     "name": "pliss cabinet",
     "url": "pliss_cabinet.zip",
     "category": "Furniture",
+    "hash": "53ab8794c6511fdddf527e9be76ea04b4a3c535648902177bea13918ceb7ab8a",
     "bbox_min": [
       -1.0000100135803223,
       -0.516772449016571,
@@ -620,13 +621,13 @@
       0.9935125112533569,
       0.0,
       1.100000023841858
-    ],
-    "hash": "53ab8794c6511fdddf527e9be76ea04b4a3c535648902177bea13918ceb7ab8a"
+    ]
   },
   {
     "name": "pliss cabinet low",
     "url": "pliss_cabinet_low.zip",
     "category": "Furniture",
+    "hash": "c393c7c70bf8373267423857fb6931ee1200456e862a2baaf70b81ca9601c118",
     "bbox_min": [
       -1.0000100135803223,
       -0.516772449016571,
@@ -636,13 +637,13 @@
       0.9935125112533569,
       0.0,
       0.5129702687263489
-    ],
-    "hash": "c393c7c70bf8373267423857fb6931ee1200456e862a2baaf70b81ca9601c118"
+    ]
   },
   {
     "name": "P Table",
     "url": "P_Table.zip",
     "category": "Furniture",
+    "hash": "28cc152c518db336b00a4dbdb908ab74f6ce5e77527262131b3749d64d07086a",
     "bbox_min": [
       -0.463784784078598,
       -0.22806470096111298,
@@ -652,13 +653,13 @@
       0.14999985694885254,
       0.22806550562381744,
       0.5614126324653625
-    ],
-    "hash": "28cc152c518db336b00a4dbdb908ab74f6ce5e77527262131b3749d64d07086a"
+    ]
   },
   {
     "name": "Samsung OLED TV",
     "url": "Samsung_OLED_TV.zip",
     "category": "Electronics",
+    "hash": "5975354565f06d0ddef8ee9c415bc3c914dd3f1fe5dce824d9da5753bd426e56",
     "bbox_min": [
       -0.5400588512420654,
       -0.08779638260602951,
@@ -668,13 +669,13 @@
       0.5400588512420654,
       0.13055503368377686,
       0.6294314861297607
-    ],
-    "hash": "5975354565f06d0ddef8ee9c415bc3c914dd3f1fe5dce824d9da5753bd426e56"
+    ]
   },
   {
     "name": "Scandinavian low cabin",
     "url": "Scandinavian_low_cabin.zip",
     "category": "Furniture",
+    "hash": "4405e936d69c0b9360b556498fe94d99c36d83db8bfd0b1981ff2166f3ad14ff",
     "bbox_min": [
       -0.9999999403953552,
       -0.250118613243103,
@@ -684,13 +685,13 @@
       0.9999999403953552,
       0.24988138675689697,
       0.699999988079071
-    ],
-    "hash": "4405e936d69c0b9360b556498fe94d99c36d83db8bfd0b1981ff2166f3ad14ff"
+    ]
   },
   {
     "name": "Scandinavian low cabinet",
     "url": "Scandinavian_low_cabinet.zip",
     "category": "Furniture",
+    "hash": "db064758b58287ff9691e148bb74c9ebb86546717bcc76669c11c4979505deb3",
     "bbox_min": [
       -0.75,
       -0.2579194903373718,
@@ -700,13 +701,13 @@
       0.75,
       0.2537204921245575,
       0.6499999761581421
-    ],
-    "hash": "db064758b58287ff9691e148bb74c9ebb86546717bcc76669c11c4979505deb3"
+    ]
   },
   {
     "name": "Small Curtain",
     "url": "Small_Curtain.zip",
     "category": "Curtain",
+    "hash": "4068fb45d0a5ab07450561af0caabb7f61fe912a05ee53bb5b502f5688e5ae9e",
     "bbox_min": [
       -0.9456009268760681,
       -0.550250768661499,
@@ -716,13 +717,13 @@
       0.7070559859275818,
       0.1411764919757843,
       3.165123701095581
-    ],
-    "hash": "4068fb45d0a5ab07450561af0caabb7f61fe912a05ee53bb5b502f5688e5ae9e"
+    ]
   },
   {
     "name": "Small Curtain 01",
     "url": "Small_Curtain_01.zip",
     "category": "Curtain",
+    "hash": "c32918bf0c2d1f17b2deae7700fdca3b9587bf41d052363ebf22b93417d23702",
     "bbox_min": [
       -0.6963663697242737,
       -0.4181641936302185,
@@ -732,13 +733,13 @@
       0.6363450288772583,
       0.16334153711795807,
       3.1800146102905273
-    ],
-    "hash": "c32918bf0c2d1f17b2deae7700fdca3b9587bf41d052363ebf22b93417d23702"
+    ]
   },
   {
     "name": "Small Curtain 02",
     "url": "Small_Curtain_02.zip",
     "category": "Curtain",
+    "hash": "32f6d5f0765771c1faa515fba6287b3a7e9c42161997a770e400599d019ddf78",
     "bbox_min": [
       -0.6291695833206177,
       -0.32083117961883545,
@@ -748,13 +749,13 @@
       0.7266528010368347,
       0.30406883358955383,
       3.1593151092529297
-    ],
-    "hash": "32f6d5f0765771c1faa515fba6287b3a7e9c42161997a770e400599d019ddf78"
+    ]
   },
   {
     "name": "Stool Aava Arp",
     "url": "Stool_Aava_Arp.zip",
     "category": "Furniture",
+    "hash": "c40f59771ecdd7d51685b754a64e76542b8b7beafc17b3d144f69fb51b6b22c8",
     "bbox_min": [
       -0.26164740324020386,
       -0.2682665288448334,
@@ -764,13 +765,13 @@
       0.26164740324020386,
       0.2543603777885437,
       1.0061794519424438
-    ],
-    "hash": "c40f59771ecdd7d51685b754a64e76542b8b7beafc17b3d144f69fb51b6b22c8"
+    ]
   },
   {
     "name": "Stool Babar Arp",
     "url": "Stool_Babar_Arp.zip",
     "category": "Furniture",
+    "hash": "a7cd8f5bf0812c3524f43ccb87d385f7facc94540c31a2e868d471aec08e6a8d",
     "bbox_min": [
       -0.21033155918121338,
       -0.18713338673114777,
@@ -780,13 +781,13 @@
       0.21033155918121338,
       0.21732020378112793,
       0.8409671187400818
-    ],
-    "hash": "a7cd8f5bf0812c3524f43ccb87d385f7facc94540c31a2e868d471aec08e6a8d"
+    ]
   },
   {
     "name": "Stool Catifa Arp",
     "url": "Stool_Catifa_Arp.zip",
     "category": "Furniture",
+    "hash": "056fb3d9ecb40ee2122ae7638cb61c415c1804289275f753a8175e8af891da16",
     "bbox_min": [
       -0.3027798533439636,
       -0.26766282320022583,
@@ -796,13 +797,13 @@
       0.3027798533439636,
       0.2677750587463379,
       0.9922356605529785
-    ],
-    "hash": "056fb3d9ecb40ee2122ae7638cb61c415c1804289275f753a8175e8af891da16"
+    ]
   },
   {
     "name": "Table Listerby",
     "url": "Table_Listerby.zip",
     "category": "Furniture",
+    "hash": "e477eb10119e7f1196a9b46adf88bb30c1bb24687526d80d31e945550426db8d",
     "bbox_min": [
       -0.699999988079071,
       -0.29999998211860657,
@@ -812,13 +813,13 @@
       0.699999988079071,
       0.29999998211860657,
       0.44999998807907104
-    ],
-    "hash": "e477eb10119e7f1196a9b46adf88bb30c1bb24687526d80d31e945550426db8d"
+    ]
   },
   {
     "name": "Table Ovale",
     "url": "Table_Ovale.zip",
     "category": "Furniture",
+    "hash": "7c3a1392e7742205db00311c1aaf80248fddccfe2e6480c68ac2c3422b19bf97",
     "bbox_min": [
       -0.3549100160598755,
       -0.3648362159729004,
@@ -828,13 +829,13 @@
       0.3596493899822235,
       0.35677188634872437,
       0.22662070393562317
-    ],
-    "hash": "7c3a1392e7742205db00311c1aaf80248fddccfe2e6480c68ac2c3422b19bf97"
+    ]
   },
   {
     "name": "Tingby Table IK",
     "url": "Tingby_Table_IK.zip",
     "category": "Furniture",
+    "hash": "1510fd7d5da0dec765b1a9d6966ada9382f2162f663695ff57d42a32623729f4",
     "bbox_min": [
       -0.2693556249141693,
       -0.2521606981754303,
@@ -844,13 +845,13 @@
       0.2660715878009796,
       0.25258517265319824,
       0.44999998807907104
-    ],
-    "hash": "1510fd7d5da0dec765b1a9d6966ada9382f2162f663695ff57d42a32623729f4"
+    ]
   },
   {
     "name": "TOFTERYD IK",
     "url": "TOFTERYD_IK.zip",
     "category": "Furniture",
+    "hash": "60ab2e72a147f333ae36672794e02f347a2ee227d40d8a26ddc6583709cd360a",
     "bbox_min": [
       -0.4749999940395355,
       -0.4749999940395355,
@@ -860,13 +861,13 @@
       0.4749999940395355,
       0.4750000238418579,
       0.3100000023841858
-    ],
-    "hash": "60ab2e72a147f333ae36672794e02f347a2ee227d40d8a26ddc6583709cd360a"
+    ]
   },
   {
     "name": "Trash Black",
     "url": "Trash_Black.zip",
     "category": "Furniture",
+    "hash": "2e10b53c654229eac345f0aa55bc25545b55e9bee4dc9af7218b383e71031620",
     "bbox_min": [
       -0.19031789898872375,
       -0.21079765260219574,
@@ -876,13 +877,13 @@
       0.19035565853118896,
       0.1606460064649582,
       0.8521627187728882
-    ],
-    "hash": "2e10b53c654229eac345f0aa55bc25545b55e9bee4dc9af7218b383e71031620"
+    ]
   },
   {
     "name": "Trash inox",
     "url": "Trash_inox.zip",
     "category": "Furniture",
+    "hash": "0317bcb81a52331cf90c052f45604964aad67c1ab5391142378b8df8b26b8761",
     "bbox_min": [
       -0.14979340136051178,
       -0.12874647974967957,
@@ -892,13 +893,13 @@
       0.14979338645935059,
       0.10388977825641632,
       0.5796367526054382
-    ],
-    "hash": "0317bcb81a52331cf90c052f45604964aad67c1ab5391142378b8df8b26b8761"
+    ]
   },
   {
     "name": "VITTSJ\u00d6 Table IK",
     "url": "VITTSJO_Table_IK.zip",
     "category": "Furniture",
+    "hash": "c6dbfa8156742c5ce3493e598364dfdaa142543a589271d856c3ed32ad3b014f",
     "bbox_min": [
       -0.44999998807907104,
       -0.44999998807907104,
@@ -908,13 +909,13 @@
       0.44999998807907104,
       0.44999998807907104,
       0.45588937401771545
-    ],
-    "hash": "c6dbfa8156742c5ce3493e598364dfdaa142543a589271d856c3ed32ad3b014f"
+    ]
   },
   {
     "name": "YPPERLIG table IK",
     "url": "YPPERLIG_table_IK.zip",
     "category": "Furniture",
+    "hash": "86d5445122897f8f3e0b7208e092bef813485dd5b54451be14a2d35f4b7b8be2",
     "bbox_min": [
       -0.3033427894115448,
       -0.3033427894115448,
@@ -924,7 +925,374 @@
       0.3033427894115448,
       0.3033427894115448,
       0.4000000059604645
+    ]
+  },
+  {
+    "name": "heating plate",
+    "url": "heating_plate.zip",
+    "category": "Kitchen",
+    "hash": "035ae69f5cdd32e03d81d25e3520b88ceab47c365c1efabcc248af46a2e9117a",
+    "bbox_min": [
+      -0.2742812931537628,
+      -0.24220608174800873,
+      -0.0038774246349930763
     ],
-    "hash": "86d5445122897f8f3e0b7208e092bef813485dd5b54451be14a2d35f4b7b8be2"
+    "bbox_max": [
+      0.2742812931537628,
+      0.24220608174800873,
+      0.04635059833526611
+    ]
+  },
+  {
+    "name": "heating plate 1",
+    "url": "heating_plate_1.zip",
+    "category": "Kitchen",
+    "hash": "f5b2df2a63998d6da02dcc7fe485e88a943392d40f663542284eafdf1e6fcb96",
+    "bbox_min": [
+      -0.27723750472068787,
+      -0.23929864168167114,
+      -0.010403892025351524
+    ],
+    "bbox_max": [
+      0.27723750472068787,
+      0.2372993677854538,
+      0.033502332866191864
+    ]
+  },
+  {
+    "name": "heating plate 3",
+    "url": "heating_plate_3.zip",
+    "category": "Kitchen",
+    "hash": "e98f4a99b08290069598eb47da0dfa1cb203f59f38c96bd8bbdc7c07bf28ca7d",
+    "bbox_min": [
+      -0.3532746136188507,
+      -0.24854984879493713,
+      -0.013360496610403061
+    ],
+    "bbox_max": [
+      0.3532746136188507,
+      0.25089630484580994,
+      0.04484589770436287
+    ]
+  },
+  {
+    "name": "Heating plate 4",
+    "url": "Heating_plate_4.zip",
+    "category": "Kitchen",
+    "hash": "0f0fa4688b1405db308b99bebdc9eb40d9354be13a3dd76af207845cb9aa3872",
+    "bbox_min": [
+      -0.34860119223594666,
+      -0.2427515983581543,
+      -0.025066671893000603
+    ],
+    "bbox_max": [
+      0.34860119223594666,
+      0.2435506284236908,
+      0.028547953814268112
+    ]
+  },
+  {
+    "name": "heating plate 5",
+    "url": "heating_plate_5.zip",
+    "category": "Kitchen",
+    "hash": "527d5d7a2edbaacd0b59d1aa6968666c6d2f76e554291cd04da1467ad79d755d",
+    "bbox_min": [
+      -0.2801196575164795,
+      -0.25925326347351074,
+      -0.02800217643380165
+    ],
+    "bbox_max": [
+      0.27747008204460144,
+      0.23232264816761017,
+      0.04902385547757149
+    ]
+  },
+  {
+    "name": "heating plate 6",
+    "url": "heating_plate_6.zip",
+    "category": "Kitchen",
+    "hash": "be352366c1cf6fa72ad09c2ff04ef65b1f898e819948697fd804824439006b14",
+    "bbox_min": [
+      -0.39598774909973145,
+      -0.2159876972436905,
+      0.0
+    ],
+    "bbox_max": [
+      0.39598774909973145,
+      0.2159876972436905,
+      0.08607404679059982
+    ]
+  },
+  {
+    "name": "Kitchen 1",
+    "url": "Kitch_1.zip",
+    "category": "Kitchen",
+    "hash": "fbd0617149e02d42da23ceb6a637cf24fea8c7e089315afce607bad094aa47fb",
+    "bbox_min": [
+      -2.4093918800354004,
+      -0.20322152972221375,
+      0.0
+    ],
+    "bbox_max": [
+      2.6901004314422607,
+      0.4067784547805786,
+      2.4000000953674316
+    ]
+  },
+  {
+    "name": "Kitchen 2",
+    "url": "Kitch_2.zip",
+    "category": "Kitchen",
+    "hash": "3dda8fce7e37991ab59f5b216741c73560aefed0552d717b840f0f43ae38e6cd",
+    "bbox_min": [
+      -2.425100803375244,
+      -0.6153460741043091,
+      -0.0010013580322265625
+    ],
+    "bbox_max": [
+      3.2739462852478027,
+      -0.00533825159072876,
+      2.4000000953674316
+    ]
+  },
+  {
+    "name": "Oven K",
+    "url": "Oven_K.zip",
+    "category": "Kitchen",
+    "hash": "316a33c15f8259593d9db97abba6809e308ac4a9a138c955637e1ca3b03c9092",
+    "bbox_min": [
+      -0.30000001192092896,
+      -0.03394666686654091,
+      0.0
+    ],
+    "bbox_max": [
+      0.30000001192092896,
+      0.5085175037384033,
+      0.593451738357544
+    ]
+  },
+  {
+    "name": "Oven K1",
+    "url": "Oven_K1.zip",
+    "category": "Kitchen",
+    "hash": "aadfa64fcd846be5bc0a81b4016bca5ba3643dcdc8b8de2370f77af8a78c566c",
+    "bbox_min": [
+      -0.29999998211860657,
+      -0.013600741513073444,
+      0.00043517351150512695
+    ],
+    "bbox_max": [
+      0.29999998211860657,
+      0.5085175037384033,
+      0.5913641452789307
+    ]
+  },
+  {
+    "name": "Oven K3",
+    "url": "Oven_K3.zip",
+    "category": "Kitchen",
+    "hash": "63261b8005aab00aa3b76fc182f6b9b8c5e76f4f60624f1cf37731364c26b0d9",
+    "bbox_min": [
+      -0.29999998211860657,
+      -0.013600741513073444,
+      -0.0025741662830114365
+    ],
+    "bbox_max": [
+      0.29999998211860657,
+      0.5085175037384033,
+      0.5913641452789307
+    ]
+  },
+  {
+    "name": "Oven K4",
+    "url": "Oven_K4.zip",
+    "category": "Kitchen",
+    "hash": "96a5cf2d79e2d32588faf5eeef7036df54e9f2128d2c2e4de7572558cef6b72c",
+    "bbox_min": [
+      -0.29999998211860657,
+      -0.014206299558281898,
+      0.00043517351150512695
+    ],
+    "bbox_max": [
+      0.29999998211860657,
+      0.5085175037384033,
+      0.5913641452789307
+    ]
+  },
+  {
+    "name": "Sink San 1",
+    "url": "Sink_San_1.zip",
+    "category": "Kitchen",
+    "hash": "7af1910cea36a26592807f8dcb4044f9c9214def1cd24bc053c8f29092a352c1",
+    "bbox_min": [
+      -0.2959784269332886,
+      -0.2620840072631836,
+      -0.24428844451904297
+    ],
+    "bbox_max": [
+      0.2959784269332886,
+      0.258968323469162,
+      0.007389163598418236
+    ]
+  },
+  {
+    "name": "Sink San 2",
+    "url": "Sink_San_2.zip",
+    "category": "Kitchen",
+    "hash": "870b74f65264f9ebded48a5681d8a6bc90884c554999ef340ca18c373ad54472",
+    "bbox_min": [
+      -0.22622008621692657,
+      -0.29752475023269653,
+      -0.26594769954681396
+    ],
+    "bbox_max": [
+      0.22622008621692657,
+      0.29752475023269653,
+      0.012028565630316734
+    ]
+  },
+  {
+    "name": "Sink San 3",
+    "url": "Sink_San_3.zip",
+    "category": "Kitchen",
+    "hash": "2c8ec289d178764ce57c18e692d23b1b2c14adcd98b43962b149e62e5b40cc03",
+    "bbox_min": [
+      -0.49789664149284363,
+      -0.2544878423213959,
+      0.0071540772914886475
+    ],
+    "bbox_max": [
+      0.4997444152832031,
+      0.25448787212371826,
+      0.24093498289585114
+    ]
+  },
+  {
+    "name": "Sink San 4",
+    "url": "Sink_San_4.zip",
+    "category": "Kitchen",
+    "hash": "ce54ad4ae5b906798b8368d6cecb9a48f650b4f9637121266b16ed7c5c01b350",
+    "bbox_min": [
+      -0.5628848075866699,
+      -0.24965891242027283,
+      -0.23124265670776367
+    ],
+    "bbox_max": [
+      0.5569530725479126,
+      0.24965891242027283,
+      0.021865740418434143
+    ]
+  },
+  {
+    "name": "Tap S1",
+    "url": "Tap_S1.zip",
+    "category": "Kitchen",
+    "hash": "e4ccad5dbbaae348a924d4316c946fb555eeae79605c186fc7bd689896d4e623",
+    "bbox_min": [
+      -0.02441423013806343,
+      -0.21174289286136627,
+      -0.0063895368948578835
+    ],
+    "bbox_max": [
+      0.024414217099547386,
+      0.03834579885005951,
+      0.2614624500274658
+    ]
+  },
+  {
+    "name": "Tap S2",
+    "url": "Tap_S2.zip",
+    "category": "Kitchen",
+    "hash": "452683a5860df6d2126d5a9cc01478c2829f1d73642909487a823517007d49dc",
+    "bbox_min": [
+      -0.02595147117972374,
+      -0.25992006063461304,
+      -0.015321560204029083
+    ],
+    "bbox_max": [
+      0.025951454415917397,
+      0.05324304848909378,
+      0.17878173291683197
+    ]
+  },
+  {
+    "name": "Tap S3",
+    "url": "Tap_S3.zip",
+    "category": "Kitchen",
+    "hash": "37dc9f838518aaeb441013f82fc5ddaebeec85510851f2dafae7dbc04f5310bf",
+    "bbox_min": [
+      -0.029808659106492996,
+      -0.2525663673877716,
+      -0.010459230281412601
+    ],
+    "bbox_max": [
+      0.029808558523654938,
+      0.059072766453027725,
+      0.2034304440021515
+    ]
+  },
+  {
+    "name": "Tap S4",
+    "url": "Tap_S4.zip",
+    "category": "Kitchen",
+    "hash": "452a8d66cd654a1d5257497f2be3643d742fb61bd674c847245c0692a7ef9bab",
+    "bbox_min": [
+      -0.02567150443792343,
+      -0.1379162073135376,
+      -0.0029574469663202763
+    ],
+    "bbox_max": [
+      0.02567150443792343,
+      0.028006661683321,
+      0.24643366038799286
+    ]
+  },
+  {
+    "name": "Tap S6",
+    "url": "Tap_S6.zip",
+    "category": "Kitchen",
+    "hash": "1cdec6592c62f2b3d51640795641572b5def1c167b14bf35e46e73cb2132b306",
+    "bbox_min": [
+      -0.11297659575939178,
+      -0.17993827164173126,
+      -0.0339224748313427
+    ],
+    "bbox_max": [
+      0.11297659575939178,
+      0.0021330907475203276,
+      0.10560014098882675
+    ]
+  },
+  {
+    "name": "Tap S8",
+    "url": "Tap_S8.zip",
+    "category": "Kitchen",
+    "hash": "5fdd800a1a137a532ae8f66b4e2abaf52e5c8ef88c5ca8be94676c9d61e33668",
+    "bbox_min": [
+      -0.02587079256772995,
+      -0.2536206841468811,
+      -0.004005627240985632
+    ],
+    "bbox_max": [
+      0.09912164509296417,
+      0.02587099000811577,
+      0.5215837359428406
+    ]
+  },
+  {
+    "name": "Tap S9",
+    "url": "Tap_S9.zip",
+    "category": "Kitchen",
+    "hash": "92685debb15aaadab5b4e81e7169228e80180ea4a2287388bfecfd59a38224a2",
+    "bbox_min": [
+      -0.1362452208995819,
+      -0.23583072423934937,
+      0.0
+    ],
+    "bbox_max": [
+      0.17641961574554443,
+      0.0788223147392273,
+      0.6661861538887024
+    ]
   }
 ]
