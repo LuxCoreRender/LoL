@@ -1646,5 +1646,21 @@
     ],
     "hash": "26fedf3a174ed2bdec6bc2e55605afb692ab75622782193fdd643f783722fbb0",
     "url": "Table__White__Marble.zip"
+  },
+  {
+    "name": "Books",
+    "category": "Decoration",
+    "bbox_min": [
+      -0.557702362537384,
+      -0.08350261300802231,
+      0.0027391656767576933
+    ],
+    "bbox_max": [
+      0.770492672920227,
+      0.20725657045841217,
+      0.6997637748718262
+    ],
+    "hash": "618dac10e36a314b72ccffbdf7d5d259edd2a1a3ae5511fabf29ae34a9fc3e21",
+    "url": "Books.zip"
   }
 ]
