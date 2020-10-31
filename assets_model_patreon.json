@@ -2738,7 +2738,7 @@
   {
     "name": "Porcelanosa ZH Bsink",
     "url": "Porcelanosa_ZH_Bsink.zip",
-    "category": "Furniture",
+    "category": "Bathroom",
     "hash": "30ff13efe17d70e07bab982d24b2d42a7e15cb9a2f357887fae356352c3bb9ca",
     "bbox_min": [
       -1.4901161193847656e-08,
@@ -2786,7 +2786,7 @@
   {
     "name": "Wassily Chair",
     "url": "Wassily_Chair.zip",
-    "category": "Electronics",
+    "category": "Furniture",
     "hash": "871066a091a49f4b92ed1955e82e825ea64ced5be3453fc0419978ae3a71ed3f",
     "bbox_min": [
       -0.39809665083885193,
