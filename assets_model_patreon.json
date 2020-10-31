@@ -2382,5 +2382,453 @@
       0.32519155740737915,
       0.43219196796417236
     ]
+  },
+  {
+    "name": "Audio technica reader",
+    "url": "Audio_technica_reader.zip",
+    "category": "Electronics",
+    "hash": "2dd3b82cd0421f6ec00725379c41fd37b75573490e78690e98eb5fa2f168ac57",
+    "bbox_min": [
+      -0.2002089023590088,
+      -0.18765605986118317,
+      0.0
+    ],
+    "bbox_max": [
+      0.1697911024093628,
+      0.2223266065120697,
+      0.36996880173683167
+    ]
+  },
+  {
+    "name": "Bathtub",
+    "url": "Bathtub.zip",
+    "category": "Bathroom",
+    "hash": "08d623543319a541a047df0bc734d5d9b0d091c15d7eaf51a4f53e15c018c369",
+    "bbox_min": [
+      -0.869676411151886,
+      -0.38936206698417664,
+      -0.00014638900756835938
+    ],
+    "bbox_max": [
+      0.8696730732917786,
+      0.3893621265888214,
+      0.559592604637146
+    ]
+  },
+  {
+    "name": "Bathtub G Cube",
+    "url": "Bathtub_G_Cube.zip",
+    "category": "Bathroom",
+    "hash": "0f9ec33dd42d3309cd1a2ff696a1bcf0911de63fa3c4ee9a0211c7514178019b",
+    "bbox_min": [
+      -0.8974268436431885,
+      -0.42507854104042053,
+      -6.237859793145617e-07
+    ],
+    "bbox_max": [
+      0.8879085183143616,
+      0.41215214133262634,
+      0.5963214039802551
+    ]
+  },
+  {
+    "name": "Cloe Dining Chair",
+    "url": "Cloe_Dining_Chair.zip",
+    "category": "Furniture",
+    "hash": "080b6c04763bd5633b13e0eadaf088d13e6bf35a1f6a9f6c40073f3cd3bec791",
+    "bbox_min": [
+      -0.22925269603729248,
+      -0.26332199573516846,
+      -0.0008227446814998984
+    ],
+    "bbox_max": [
+      0.22925269603729248,
+      0.25778958201408386,
+      0.8160595297813416
+    ]
+  },
+  {
+    "name": "Daybed Charles",
+    "url": "Daybed_Charles.zip",
+    "category": "Furniture",
+    "hash": "a6f8b9acaf0cceb485c573a6d021a7852be53685bced46895acb37e4f40ae4fc",
+    "bbox_min": [
+      -1.091505527496338,
+      -0.46576252579689026,
+      0.00031469532405026257
+    ],
+    "bbox_max": [
+      1.1058976650238037,
+      0.46576258540153503,
+      0.6287342309951782
+    ]
+  },
+  {
+    "name": "Flos Ktribe Floor",
+    "url": "Flos_Ktribe_Floor.zip",
+    "category": "Light",
+    "hash": "37486b753686bbcc9fe7e23b527168d3091fc46d4ee17d0453ab64da039e0320",
+    "bbox_min": [
+      -0.27644598484039307,
+      -0.2764456272125244,
+      0.005661889910697937
+    ],
+    "bbox_max": [
+      0.2764457166194916,
+      0.27644604444503784,
+      1.8310699462890625
+    ]
+  },
+  {
+    "name": "Gessi Cono Sink",
+    "url": "Gessi_Cono_Sink.zip",
+    "category": "Bathroom",
+    "hash": "e8f6663d9bbbc01e5af512c27f9ee88860d1fe475ce47f83b3e60d7830c06ba1",
+    "bbox_min": [
+      -0.3694421350955963,
+      -0.2504197657108307,
+      -0.0028453455306589603
+    ],
+    "bbox_max": [
+      0.36944207549095154,
+      0.2504197359085083,
+      0.3644541800022125
+    ]
+  },
+  {
+    "name": "Lampshade",
+    "url": "Lampshade.zip",
+    "category": "Light",
+    "hash": "bdcafa96afacad69c607531f2e7374a2e12028d236f42f6e636bc6104db10972",
+    "bbox_min": [
+      -0.1982782632112503,
+      -0.2096005529165268,
+      0.0
+    ],
+    "bbox_max": [
+      0.28248363733291626,
+      0.2096005082130432,
+      0.6938088536262512
+    ]
+  },
+  {
+    "name": "landscape chair",
+    "url": "landscape_chair.zip",
+    "category": "Furniture",
+    "hash": "9fc06cff187d2a679351fce28c017c57d7efc8505d91eeadbd417c70acfdc2ed",
+    "bbox_min": [
+      -0.3150469958782196,
+      -0.8680214881896973,
+      0.0
+    ],
+    "bbox_max": [
+      0.3151588439941406,
+      0.768000602722168,
+      0.8053925037384033
+    ]
+  },
+  {
+    "name": "LG CineBeam",
+    "url": "LG_CineBeam.zip",
+    "category": "Electronics",
+    "hash": "58d818086cdacd942bfc648dadabb4e5b1609232007a01cfc4f87b8009850b74",
+    "bbox_min": [
+      -0.15377478301525116,
+      -0.07850299030542374,
+      -0.00010024799121310934
+    ],
+    "bbox_max": [
+      0.15377478301525116,
+      0.129360631108284,
+      0.0606439933180809
+    ]
+  },
+  {
+    "name": "Pipistrello Medium Luce",
+    "url": "Pipistrello_Medium_Luce.zip",
+    "category": "Light",
+    "hash": "a5c21c98cb36c43458fa0c4b8101429033e944eae3d4888081bd7dfc79452277",
+    "bbox_min": [
+      -1.4499247074127197,
+      -1.2070608139038086,
+      -1.0019876956939697
+    ],
+    "bbox_max": [
+      1.0,
+      1.2913792133331299,
+      1.033270239830017
+    ]
+  },
+  {
+    "name": "Sanindusa Sink 02",
+    "url": "Sanindusa_Sink_02.zip",
+    "category": "Bathroom",
+    "hash": "d4fa05b53a5511101fa0a85a588b6b927127ef27549ed7737b2676b7464e4338",
+    "bbox_min": [
+      0.0,
+      -0.22561272978782654,
+      -0.09586533159017563
+    ],
+    "bbox_max": [
+      0.6004418730735779,
+      0.22574684023857117,
+      0.0
+    ]
+  },
+  {
+    "name": "Senna Helmet",
+    "url": "Senna_Helmet.zip",
+    "category": "Decoration",
+    "hash": "5bd743744d464788dba2ea2d39e6486881ca59fa8001de7aaa1c194c0665d972",
+    "bbox_min": [
+      -0.21185776591300964,
+      -0.2739226818084717,
+      -0.0007097080815583467
+    ],
+    "bbox_max": [
+      0.21185778081417084,
+      0.28852415084838867,
+      0.4382198750972748
+    ]
+  },
+  {
+    "name": "bathroom sink",
+    "url": "bathroom_sink.zip",
+    "category": "Bathroom",
+    "hash": "964d40d9d2df8b969f3d6d60605984dadc315869c16092afd4ea32fbf2469381",
+    "bbox_min": [
+      -0.6120514869689941,
+      -0.513786792755127,
+      -0.0011876157950609922
+    ],
+    "bbox_max": [
+      0.5995807647705078,
+      -0.00023445530678145587,
+      1.2831124067306519
+    ]
+  },
+  {
+    "name": "Brionvega TV",
+    "url": "Brionvega_TV.zip",
+    "category": "Electronics",
+    "hash": "aa95d460fba053d37821988145ff0278b4e6dc575d4bbc605eb07a74df78dcef",
+    "bbox_min": [
+      -0.13926438987255096,
+      -0.18260332942008972,
+      0.0008792090229690075
+    ],
+    "bbox_max": [
+      0.13926441967487335,
+      0.1710185408592224,
+      0.2502097189426422
+    ]
+  },
+  {
+    "name": "Febo dining chair",
+    "url": "Febo_dining_chair.zip",
+    "category": "Furniture",
+    "hash": "511b7f3a0a61959d419847f0c8e67f15d587f4f82b079ef87c835b97615e77ba",
+    "bbox_min": [
+      -0.24692843854427338,
+      -0.24221275746822357,
+      0.0010010788682848215
+    ],
+    "bbox_max": [
+      0.24692843854427338,
+      0.3509480059146881,
+      0.780763566493988
+    ]
+  },
+  {
+    "name": "Febo Dining Long chair",
+    "url": "Febo_Dining_Long_chair.zip",
+    "category": "Furniture",
+    "hash": "57038cb3e589cefec77d014ab05063b96560a4925a1e886e150133467406cec3",
+    "bbox_min": [
+      0.0,
+      -0.2347564995288849,
+      -0.00035756826400756836
+    ],
+    "bbox_max": [
+      0.25791680812835693,
+      0.38223856687545776,
+      0.9075839519500732
+    ]
+  },
+  {
+    "name": "Gessi Cono Bath Shower Mixer",
+    "url": "Gessi_Cono_Bath_Shower_Mixer.zip",
+    "category": "Bathroom",
+    "hash": "e2ed38e3d34405ee0e4360afc4502b3fe6fd3060839ab93699d43548cfc78a0e",
+    "bbox_min": [
+      -0.14834271371364594,
+      -0.21403326094150543,
+      0.0
+    ],
+    "bbox_max": [
+      0.07724499702453613,
+      0.05172913148999214,
+      0.8996690511703491
+    ]
+  },
+  {
+    "name": "Ikea ALEFJALL",
+    "url": "Ikea ALEFJALL.zip",
+    "category": "Furniture",
+    "hash": "9e9c0eaa6ec7b66f8a03b293b6ad08aafbf14b47f633cb2a3572b7d27a045a0a",
+    "bbox_min": [
+      -0.37537044286727905,
+      -0.4112403988838196,
+      -0.0006193730514496565
+    ],
+    "bbox_max": [
+      0.38074302673339844,
+      0.34829387068748474,
+      0.9679543375968933
+    ]
+  },
+  {
+    "name": "Joe Coupe light",
+    "url": "Joe_Coupe_light.zip",
+    "category": "Light",
+    "hash": "542e9adb9aadbd82abb489915752b5e4c806249e8003d1c2d4b5df0f9071681f",
+    "bbox_min": [
+      -1.0014019012451172,
+      -1.103136658668518,
+      -1.000388503074646
+    ],
+    "bbox_max": [
+      1.058751106262207,
+      1.209993839263916,
+      2.5014753341674805
+    ]
+  },
+  {
+    "name": "Olivetti Lettera 35",
+    "url": "Olivetti_Lettera_35.zip",
+    "category": "Decoration",
+    "hash": "423131274c34e5fa1ec77a4b81bef7aba7e27980a801d823190f303bc3851197",
+    "bbox_min": [
+      -0.2416413128376007,
+      -0.2203734666109085,
+      -1.4062385162105784e-05
+    ],
+    "bbox_max": [
+      0.23323367536067963,
+      0.22642605006694794,
+      0.1576344519853592
+    ]
+  },
+  {
+    "name": "PH5 Poulsen Light",
+    "url": "PH5_Poulsen_Light.zip",
+    "category": "Light",
+    "hash": "f5eb90aa3fe595488ace045553988d47ac38e6ace3df4a2afbc570a69921a331",
+    "bbox_min": [
+      -1.663162350654602,
+      -1.663162350654602,
+      -2.6375374794006348
+    ],
+    "bbox_max": [
+      1.663162350654602,
+      1.6631624698638916,
+      1.6678580045700073
+    ]
+  },
+  {
+    "name": "Pipistrello Grande Luce",
+    "url": "Pipistrello_Grande_Luce.zip",
+    "category": "Light",
+    "hash": "4c438fc1ba03e421967eda092f489bfd0e3327f214e80249697f2a177619558d",
+    "bbox_min": [
+      -1.0,
+      -1.1730413436889648,
+      -0.9921768307685852
+    ],
+    "bbox_max": [
+      1.4499247074127197,
+      1.3253984451293945,
+      1.0430809259414673
+    ]
+  },
+  {
+    "name": "Porcelanosa ZH Bsink",
+    "url": "Porcelanosa_ZH_Bsink.zip",
+    "category": "Furniture",
+    "hash": "30ff13efe17d70e07bab982d24b2d42a7e15cb9a2f357887fae356352c3bb9ca",
+    "bbox_min": [
+      -1.4901161193847656e-08,
+      -0.4609183967113495,
+      -0.44356614351272583
+    ],
+    "bbox_max": [
+      1.360671043395996,
+      0.09285766631364822,
+      1.1034276485443115
+    ]
+  },
+  {
+    "name": "Salco Winged chair",
+    "url": "Salco_Winged_chair.zip",
+    "category": "Furniture",
+    "hash": "37513649bdbfe6e087b6cdfba9dc02013d2786975ab126e9e86883a800d2ec19",
+    "bbox_min": [
+      -0.2644604444503784,
+      -0.2748171091079712,
+      -0.0006089824018999934
+    ],
+    "bbox_max": [
+      0.2644604444503784,
+      0.26017358899116516,
+      0.7733746767044067
+    ]
+  },
+  {
+    "name": "Tobi Ishi Table",
+    "url": "Tobi_Ishi_Table.zip",
+    "category": "Furniture",
+    "hash": "4ee5dec4581f1f1a63db54eb8165c3db4c550fe65359a06d1429ea591a2149f0",
+    "bbox_min": [
+      -0.799816906452179,
+      -0.799816906452179,
+      -0.0008501316769979894
+    ],
+    "bbox_max": [
+      0.7998167872428894,
+      0.799816906452179,
+      0.7300332188606262
+    ]
+  },
+  {
+    "name": "Wassily Chair",
+    "url": "Wassily_Chair.zip",
+    "category": "Electronics",
+    "hash": "871066a091a49f4b92ed1955e82e825ea64ced5be3453fc0419978ae3a71ed3f",
+    "bbox_min": [
+      -0.39809665083885193,
+      -0.3299786150455475,
+      -0.003721511922776699
+    ],
+    "bbox_max": [
+      0.39809665083885193,
+      0.3542903661727905,
+      0.7377073168754578
+    ]
+  },
+  {
+    "name": "Waterfall victoria speaker",
+    "url": "Waterfall_victoria_speaker.zip",
+    "category": "Electronics",
+    "hash": "4bf037f505b0aa714f9f8788cd3cd5b6cc211b6ba8d3ecbdc0314b5ab3e10a1c",
+    "bbox_min": [
+      -0.12931878864765167,
+      -0.1316918581724167,
+      -0.0002568966301623732
+    ],
+    "bbox_max": [
+      0.12931878864765167,
+      0.1628676801919937,
+      1.01491379737854
+    ]
   }
 ]
