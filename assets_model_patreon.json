@@ -2672,22 +2672,6 @@
     ]
   },
   {
-    "name": "Ikea ALEFJALL",
-    "url": "Ikea ALEFJALL.zip",
-    "category": "Furniture",
-    "hash": "9e9c0eaa6ec7b66f8a03b293b6ad08aafbf14b47f633cb2a3572b7d27a045a0a",
-    "bbox_min": [
-      -0.37537044286727905,
-      -0.4112403988838196,
-      -0.0006193730514496565
-    ],
-    "bbox_max": [
-      0.38074302673339844,
-      0.34829387068748474,
-      0.9679543375968933
-    ]
-  },
-  {
     "name": "Joe Coupe light",
     "url": "Joe_Coupe_light.zip",
     "category": "Light",
@@ -2829,6 +2813,22 @@
       0.12931878864765167,
       0.1628676801919937,
       1.01491379737854
+    ]
+  },
+  {
+    "name": "Ikea ALEFJALL",
+    "url": "Ikea_ALEFJALL.zip",
+    "category": "Furniture",
+    "hash": "9e9c0eaa6ec7b66f8a03b293b6ad08aafbf14b47f633cb2a3572b7d27a045a0a",
+    "bbox_min": [
+      -0.37537044286727905,
+      -0.4112403988838196,
+      -0.0006193730514496565
+    ],
+    "bbox_max": [
+      0.38074302673339844,
+      0.34829387068748474,
+      0.9679543375968933
     ]
   }
 ]
