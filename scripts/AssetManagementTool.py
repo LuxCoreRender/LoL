@@ -109,6 +109,10 @@ def update_repopath(self, context):
         ui_props.progress_info = 'Updating repository'
         
         chdir(ui_props.repopath)
+
+        process = subprocess.Popen('git pull', stdout=subprocess.PIPE)
+        process.wait()
+
         process = subprocess.Popen('git-lfs fetch', stdout=subprocess.PIPE)
         process.wait()
         
@@ -999,6 +1003,9 @@ if exists(join(ui_props.repopath,'.git')):
     ui_props.progress_info = 'Updating repository'
     
     chdir(ui_props.repopath)
+    process = subprocess.Popen('git pull', stdout=subprocess.PIPE)
+    process.wait()
+
     process = subprocess.Popen('git-lfs fetch', stdout=subprocess.PIPE)
     process.wait()
     
