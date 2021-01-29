@@ -364,9 +364,13 @@ class LOLLoadTOCfromGitRepositoy(Operator):
     
     def cloneRepository(self, context):
         import subprocess
-        ui_props = context.scene.editAsset 
-        chdir(ui_props.repopath)
-        process = subprocess.Popen("git clone https://github.com/LuxCoreRender/LoL.git", stdout=subprocess.PIPE)
+        ui_props = context.scene.editAsset
+        if ui_props.repopath[-1] == '\\':
+            path = ui_props.repopath[:-1]
+        else:
+            path = ui_props.repopath
+        process = subprocess.Popen('git clone https://github.com/LuxCoreRender/LoL.git "' + path + '"', shell=True, stdout=subprocess.PIPE)
+        process.wait()
 
                 
     def execute(self, context):
@@ -661,9 +665,11 @@ class BackgroundThread(threading.Thread):
         ui_props.progress_info = 'Cloning git repository...'
         print('Cloning git repository...')
         self.context.window_manager.windows.update()
-        
-        chdir(ui_props.repopath)
-        process = subprocess.Popen("git clone https://github.com/LuxCoreRender/LoL.git", stdout=subprocess.PIPE)
+        if ui_props.repopath[-1] == '\\':
+            path = ui_props.repopath[:-1]
+        else:
+            path = ui_props.repopath
+        process = subprocess.Popen('git clone https://github.com/LuxCoreRender/LoL.git "' + path + '"', shell=True, stdout=subprocess.PIPE)
         process.wait()
         
         ui_props.progress_info = 'Fetching LFS objects...'
@@ -696,13 +702,10 @@ class LOLCloneGitRepositoy(Operator):
     
     def execute(self, context):
         ui_props = context.scene.editAsset
-        wm = bpy.context.window_manager
         
         if not ui_props.gitclone:
             ui_props.gitclone = True
             thread = BackgroundThread(context)
-            wm.progress_begin(0, 100)
-            wm.progress_update(1)
         
             thread.start()
             return {'PASS_THROUGH'}
@@ -710,16 +713,7 @@ class LOLCloneGitRepositoy(Operator):
             if ui_props.git_repo:
                 ui_props.gitclone = False
                 bpy.ops.scene.luxcore_ol_load_toc_from_git_repository()
-                wm.progress_end()
                 return {'FINISHED'}
-            else:
-                wm.progress_begin(0, 100)
-                if ui_props.progress_info == 'Cloning git repository...':
-                    wm.progress_update(1)
-                elif ui_props.progress_info == 'Fetching LFS objects...':
-                    wm.progress_update(33)
-                elif ui_props.progress_info == 'Checkout LFS objects...':
-                    wm.progress_update(66)
                     
             return {'PASS_THROUGH'}
 
