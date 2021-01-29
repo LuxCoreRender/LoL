@@ -408,7 +408,7 @@ class LOLLoadTOCfromGitRepositoy(Operator):
         return {'FINISHED'}
 
     
-class LOLUploadToCOperator(Operator):
+class LOLUploadTOCOperator(Operator):
     bl_idname = 'scene.luxcore_ol_upload_toc'
     bl_label = 'LuxCore Online Library Upload ToC'
     bl_options = {'REGISTER', 'UNDO', 'INTERNAL'}
@@ -944,8 +944,7 @@ class LuxCoreOnlineLibraryEditAsset(PropertyGroup):
 
 def register():
     bpy.utils.register_class(VIEW3D_PT_LUXCORE_ONLINE_LIBRARY_EDIT_ASSETS)
-    bpy.utils.register_class(LOLUploadToCOperator)
-#    bpy.utils.register_class(LOLDownloadToCOperator)
+    bpy.utils.register_class(LOLUploadTOCOperator)
     bpy.utils.register_class(LOLAddAssetOperator)
     bpy.utils.register_class(LOLAddAllAssetOperator)
     bpy.utils.register_class(LOLCheckPathOperator)
@@ -958,8 +957,7 @@ def register():
 def unregister():
     bpy.utils.unregister_class(VIEW3D_PT_LUXCORE_ONLINE_LIBRARY_EDIT_ASSETS)
     bpy.utils.unregister_class(LuxCoreOnlineLibraryEditAsset)
-    bpy.utils.unregister_class(LOLUploadToCOperator)
-#    bpy.utils.unregister_class(LOLDownloadToCOperator)
+    bpy.utils.unregister_class(LOLUploadTOCOperator)
     bpy.utils.unregister_class(LuxCoreOnlineLibraryAsset)
     bpy.utils.unregister_class(LOLAddAssetOperator)
     bpy.utils.unregister_class(LOLAddAllAssetOperator)
