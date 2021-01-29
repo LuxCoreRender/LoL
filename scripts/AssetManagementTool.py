@@ -365,7 +365,8 @@ class LOLLoadTOCfromGitRepositoy(Operator):
     def cloneRepository(self, context):
         import subprocess
         ui_props = context.scene.editAsset 
-        process = subprocess.Popen("git clone https://github.com/LuxCoreRender/LoL " + ui_props.repopath, stdout=subprocess.PIPE)
+        chdir(ui_props.repopath)
+        process = subprocess.Popen("git clone https://github.com/LuxCoreRender/LoL.git", stdout=subprocess.PIPE)
 
                 
     def execute(self, context):
@@ -660,7 +661,9 @@ class BackgroundThread(threading.Thread):
         ui_props.progress_info = 'Cloning git repository...'
         print('Cloning git repository...')
         self.context.window_manager.windows.update()
-        process = subprocess.Popen('git clone https://github.com/LuxCoreRender/LoL ' + ui_props.repopath, stdout=subprocess.PIPE)
+        
+        chdir(ui_props.repopath)
+        process = subprocess.Popen("git clone https://github.com/LuxCoreRender/LoL.git", stdout=subprocess.PIPE)
         process.wait()
         
         ui_props.progress_info = 'Fetching LFS objects...'
