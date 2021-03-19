@@ -3310,5 +3310,581 @@
       0.42666077613830566,
       0.47999387979507446
     ]
+  },
+  {
+    "name": "AC lounge oneseat",
+    "url": "AC_lounge_oneseat.zip",
+    "category": "Furniture",
+    "hash": "f5f4aaf4b139d683475d7c5456db5476f95bf9c9841fd3b7c57ee983438f0960",
+    "bbox_min": [
+      -0.4673266112804413,
+      -0.5395111441612244,
+      0.0013902031350880861
+    ],
+    "bbox_max": [
+      0.4693516492843628,
+      0.386300653219223,
+      0.7972306609153748
+    ]
+  },
+  {
+    "name": "AC lounge sofa",
+    "url": "AC_lounge_sofa.zip",
+    "category": "Furniture",
+    "hash": "0dfbcfa4e934db546a2c6d6189ad89e9a67e783419a4d62cab00fcfd238d2e9e",
+    "bbox_min": [
+      -0.8278627991676331,
+      -0.47045907378196716,
+      -0.0005089449696242809
+    ],
+    "bbox_max": [
+      0.8252686262130737,
+      0.4601006507873535,
+      0.7953314781188965
+    ]
+  },
+  {
+    "name": "Arco Flos 01",
+    "url": "Arco_Flos_01.zip",
+    "category": "Light",
+    "hash": "a036eb146ed1b607b6c449dc01ba72975e2d1a5424b184ad369abbc047ff7ff2",
+    "bbox_min": [
+      -0.024932634085416794,
+      -0.18356552720069885,
+      0.0
+    ],
+    "bbox_max": [
+      2.2031610012054443,
+      0.18356622755527496,
+      2.5162339210510254
+    ]
+  },
+  {
+    "name": "Arco Flos 02",
+    "url": "Arco_Flos_02.zip",
+    "category": "Light",
+    "hash": "c5b654cbd5053e5125422be8dbedf0cbd85c5d89678d21111005a0b4a5d978b9",
+    "bbox_min": [
+      -0.024932634085416794,
+      -0.18356552720069885,
+      0.0
+    ],
+    "bbox_max": [
+      2.1792728900909424,
+      0.18356622755527496,
+      2.5162339210510254
+    ]
+  },
+  {
+    "name": "Bridget Armchair",
+    "url": "Bridget_Armchair.zip",
+    "category": "Furniture",
+    "hash": "6029a7454eb82376851579c150551e775d85721fd0176f97c4c377b1b1a3c0b3",
+    "bbox_min": [
+      -0.4338080883026123,
+      -0.38217613101005554,
+      -0.0004904678207822144
+    ],
+    "bbox_max": [
+      0.43399718403816223,
+      0.5409600734710693,
+      0.9889100790023804
+    ]
+  },
+  {
+    "name": "camaleonda Full",
+    "url": "camaleonda_Full.zip",
+    "category": "Furniture",
+    "hash": "195c38435b9c7f2a1dae78ec14726a0f61a466c85bd9fd714a34526752a95c2d",
+    "bbox_min": [
+      -1.5360299348831177,
+      -1.504537582397461,
+      -0.0017925165593624115
+    ],
+    "bbox_max": [
+      1.5110890865325928,
+      0.5390940308570862,
+      0.7582926750183105
+    ]
+  },
+  {
+    "name": "camaleonda Module",
+    "url": "camaleonda_Module.zip",
+    "category": "Furniture",
+    "hash": "2d41f404390eaf5165059d627e9e0eff4c2363cfd14e73b31ec5e31aa39c9f9c",
+    "bbox_min": [
+      -0.5277320742607117,
+      -0.5228954553604126,
+      -0.001575566828250885
+    ],
+    "bbox_max": [
+      0.5278471112251282,
+      0.5315316319465637,
+      0.740860104560852
+    ]
+  },
+  {
+    "name": "camaleonda Module 01",
+    "url": "camaleonda_Module_01.zip",
+    "category": "Furniture",
+    "hash": "a007f2c4e719c7b8d92f479ed87ffdc74fdc438721e1737ec95a9e177c3834ba",
+    "bbox_min": [
+      -0.5296827554702759,
+      -0.521045982837677,
+      -0.0017925165593624115
+    ],
+    "bbox_max": [
+      0.526531457901001,
+      0.5325454473495483,
+      0.7582926750183105
+    ]
+  },
+  {
+    "name": "camaleonda Module Block",
+    "url": "camaleonda_Module_Block.zip",
+    "category": "Furniture",
+    "hash": "b6283ab6db187f57d6b54c21e94412c395aa910d2e4db508a2e63e072f5f16ae",
+    "bbox_min": [
+      -0.8706719875335693,
+      -0.5227514505386353,
+      -0.0016546063125133514
+    ],
+    "bbox_max": [
+      0.8743882179260254,
+      0.531531572341919,
+      0.43838244676589966
+    ]
+  },
+  {
+    "name": "camaleonda oneseat armless",
+    "url": "camaleonda_oneseat_armless.zip",
+    "category": "Furniture",
+    "hash": "d7c9c063a68e96ccd90d67631f8b626a76fa5dc327f8474a6fe9d830cf4311de",
+    "bbox_min": [
+      -0.5278422832489014,
+      -0.531531572341919,
+      -0.0012735240161418915
+    ],
+    "bbox_max": [
+      0.5293218493461609,
+      0.5227514505386353,
+      0.7549644112586975
+    ]
+  },
+  {
+    "name": "Chaise longue Springtime",
+    "url": "Chaise_longue_Springtime.zip",
+    "category": "Furniture",
+    "hash": "09a7badb33864f13a3ac6f97eb8079451f85ce85558b250c5a08c42cd518c2f7",
+    "bbox_min": [
+      -0.8768719434738159,
+      -1.009242296218872,
+      -0.008087413385510445
+    ],
+    "bbox_max": [
+      0.8723355531692505,
+      1.0464988946914673,
+      0.7271720170974731
+    ]
+  },
+  {
+    "name": "Flower seat",
+    "url": "Flower_seat.zip",
+    "category": "Furniture",
+    "hash": "3d9720f7b4a75be40fd18e02094bb3b2c08dae96a5fe9793b9ba72e38d1b13e5",
+    "bbox_min": [
+      -0.49028071761131287,
+      -0.46636542677879333,
+      -0.003447706578299403
+    ],
+    "bbox_max": [
+      0.490476131439209,
+      0.4763047397136688,
+      0.676251232624054
+    ]
+  },
+  {
+    "name": "Lucie Armchair",
+    "url": "Lucie_Armchair.zip",
+    "category": "Furniture",
+    "hash": "091bdfaba900750b67e21417293b171a2964c18bf850e8a44a79125bb82ad26e",
+    "bbox_min": [
+      -0.4505939483642578,
+      -0.48043859004974365,
+      -0.004782811738550663
+    ],
+    "bbox_max": [
+      0.44944438338279724,
+      0.35286349058151245,
+      0.8687368631362915
+    ]
+  },
+  {
+    "name": "Merle Armchair",
+    "url": "Merle_Armchair.zip",
+    "category": "Furniture",
+    "hash": "a66357bc87f0ceae6542e77cb92ec95c9b84b316d39377d7be1e6b920fd3e8bb",
+    "bbox_min": [
+      -2.148343725139057e-09,
+      -0.6256318092346191,
+      -0.004369764588773251
+    ],
+    "bbox_max": [
+      0.3206891417503357,
+      0.2134620100259781,
+      0.9543141722679138
+    ]
+  },
+  {
+    "name": "Monterosso Corner Sofa",
+    "url": "Monterosso_Corner_Sofa.zip",
+    "category": "Furniture",
+    "hash": "cd9bc968d3fb2dfdf008d67b39ccdeffeb56eb9e7199658c083d2aaeb97fa5ca",
+    "bbox_min": [
+      -1.4286956787109375,
+      -1.3032965660095215,
+      -0.0005303025245666504
+    ],
+    "bbox_max": [
+      2.0354907512664795,
+      0.9914056062698364,
+      0.8907201290130615
+    ]
+  },
+  {
+    "name": "Pouf Seat",
+    "url": "Pouf_Seat.zip",
+    "category": "Furniture",
+    "hash": "b5c7b79bd237b11d853a9244ab83747fb458673eede72ef65800658ba26b0dce",
+    "bbox_min": [
+      -0.6477509140968323,
+      -0.5831518173217773,
+      -0.001294309040531516
+    ],
+    "bbox_max": [
+      0.6522490382194519,
+      0.2536775767803192,
+      0.37637007236480713
+    ]
+  },
+  {
+    "name": "Scott Sofa",
+    "url": "Scott_Sofa.zip",
+    "category": "Furniture",
+    "hash": "8473de22933e8f25069965b709eaeda03a6aa314aa1345516dceab1f028b805d",
+    "bbox_min": [
+      -1.5524503282904334e-07,
+      -0.7978324294090271,
+      -0.005826556123793125
+    ],
+    "bbox_max": [
+      1.1322641372680664,
+      0.21002709865570068,
+      0.8472846746444702
+    ]
+  },
+  {
+    "name": "Sesann Sofa 2S",
+    "url": "Sesann_Sofa_2S.zip",
+    "category": "Furniture",
+    "hash": "61252b8ed48085c31b9f57981b3815870cc2335cdb7326fa95060058cacb2a48",
+    "bbox_min": [
+      -0.8984044194221497,
+      -0.5335554480552673,
+      -0.005117867607623339
+    ],
+    "bbox_max": [
+      0.8984047174453735,
+      0.5938864350318909,
+      0.7519204616546631
+    ]
+  },
+  {
+    "name": "Sesann Sofa 3S",
+    "url": "Sesann_Sofa_3S.zip",
+    "category": "Furniture",
+    "hash": "540ad4f923bf0192a8e3dd15b5a54e5ff57998e936d18aefc4e385e1791c0b13",
+    "bbox_min": [
+      -1.1785212755203247,
+      -0.552155613899231,
+      -0.00512101873755455
+    ],
+    "bbox_max": [
+      1.1782097816467285,
+      0.5942145586013794,
+      0.7518038749694824
+    ]
+  },
+  {
+    "name": "Sesann Sofa oneseat",
+    "url": "Sesann_Sofa_oneseat.zip",
+    "category": "Furniture",
+    "hash": "f606d4d401034525e54edf48eb0e85cc6ee2d405da2cdf8e09e4c88a928c6284",
+    "bbox_min": [
+      -0.6209173202514648,
+      -0.5296904444694519,
+      -0.005117833614349365
+    ],
+    "bbox_max": [
+      0.6209176182746887,
+      0.5977084636688232,
+      0.7491685748100281
+    ]
+  },
+  {
+    "name": "Sesann Sofa oneseat 01",
+    "url": "Sesann_Sofa_oneseat_01.zip",
+    "category": "Furniture",
+    "hash": "50426bd466d3ba02401dd4a2fbbd80e98c59608ada16446dd53baaf5027b1ea0",
+    "bbox_min": [
+      -0.6231853365898132,
+      -1.1360301971435547,
+      -0.005133879836648703
+    ],
+    "bbox_max": [
+      0.6237843632698059,
+      -0.015566776506602764,
+      0.7456322908401489
+    ]
+  },
+  {
+    "name": "Sesann Sofa wrinkle light 3S",
+    "url": "Sesann_Sofa_wrinkle_light_3S.zip",
+    "category": "Furniture",
+    "hash": "2f3c88eab15852a7312d86d9e5529b37fe9f398a985bce48c5a04bc61bc4cd95",
+    "bbox_min": [
+      -1.176422119140625,
+      -0.5349952578544617,
+      -0.005127963609993458
+    ],
+    "bbox_max": [
+      1.1764215230941772,
+      0.5942685008049011,
+      0.7486940026283264
+    ]
+  },
+  {
+    "name": "Shona Accent Armchair",
+    "url": "Shona_Accent_Armchair.zip",
+    "category": "Furniture",
+    "hash": "92699e76ba533d54231765ad49a638daffea39641fdbd6e384e9d89f04289aa6",
+    "bbox_min": [
+      -0.4149163067340851,
+      -0.6889891028404236,
+      0.0014355109306052327
+    ],
+    "bbox_max": [
+      0.41491633653640747,
+      0.07695506513118744,
+      0.7051846385002136
+    ]
+  },
+  {
+    "name": "Simple Seat",
+    "url": "Simple_Seat.zip",
+    "category": "Furniture",
+    "hash": "29eb56e761026dc5e775d5e92066715b255b1fffdecc16da41c42b46ccf25d7a",
+    "bbox_min": [
+      -0.47212228178977966,
+      -0.4477710723876953,
+      0.0013902023201808333
+    ],
+    "bbox_max": [
+      0.47211888432502747,
+      0.4478618800640106,
+      0.34419113397598267
+    ]
+  },
+  {
+    "name": "Simpliciter 2S",
+    "url": "Simpliciter_2S.zip",
+    "category": "Furniture",
+    "hash": "09cfa96977b4ca9840902bd5f2e790e6ae26f0248f20d16f76d88b8a76ba91a1",
+    "bbox_min": [
+      -0.9495184421539307,
+      -0.4888879656791687,
+      -0.0004867428506258875
+    ],
+    "bbox_max": [
+      0.9495202302932739,
+      0.4557798504829407,
+      0.7647626399993896
+    ]
+  },
+  {
+    "name": "Simpliciter oneseat",
+    "url": "Simpliciter_oneseat.zip",
+    "category": "Furniture",
+    "hash": "3f65c195278b97c7dc7cad6847f32820b99ab09d1d7c4e4fb1b43eff3f91a422",
+    "bbox_min": [
+      -0.518984317779541,
+      -0.5766178965568542,
+      0.0013295195531100035
+    ],
+    "bbox_max": [
+      0.518984317779541,
+      0.3683212995529175,
+      0.7984914183616638
+    ]
+  },
+  {
+    "name": "Tubby Sofa",
+    "url": "Tubby_Sofa.zip",
+    "category": "Furniture",
+    "hash": "bae09076c832652a48b3d9383fa3f0623599afec1f3eeac83de94ac59b5aecb5",
+    "bbox_min": [
+      -6.812438613224003e-08,
+      -0.40538957715034485,
+      -0.0007202029228210449
+    ],
+    "bbox_max": [
+      0.42216360569000244,
+      0.3896261155605316,
+      0.7583092451095581
+    ]
+  },
+  {
+    "name": "Tubby Twoseat",
+    "url": "Tubby_Twoseat.zip",
+    "category": "Furniture",
+    "hash": "4de33b2805b1e0c28d8316bf4e2da8e5b98f0a715d282287adad43a7aaf313f2",
+    "bbox_min": [
+      -0.00823304709047079,
+      -0.4066680669784546,
+      -0.001092374324798584
+    ],
+    "bbox_max": [
+      0.6977615356445312,
+      0.38962605595588684,
+      0.7579370737075806
+    ]
+  },
+  {
+    "name": "Tuffy Time Sofa",
+    "url": "Tuffy_Time_Sofa.zip",
+    "category": "Furniture",
+    "hash": "08fb3dc4b5d8ddfb897e11185e146e181448b293cf220282503e3cbffc4b1bb2",
+    "bbox_min": [
+      -1.4959676265716553,
+      -0.5323480367660522,
+      0.0
+    ],
+    "bbox_max": [
+      -0.003111067693680525,
+      0.5620269775390625,
+      0.6944831013679504
+    ]
+  },
+  {
+    "name": "TuffyTime Module",
+    "url": "TuffyTime_Module.zip",
+    "category": "Furniture",
+    "hash": "b772408054cc21dbe926830235c44b6f0098e0cfb8c0918674fd2a16e4ecd8ce",
+    "bbox_min": [
+      -1.5283515453338623,
+      -1.6364341974258423,
+      9.252876043319702e-05
+    ],
+    "bbox_max": [
+      1.5347354412078857,
+      0.49032968282699585,
+      0.6942594051361084
+    ]
+  },
+  {
+    "name": "Up 2000",
+    "url": "Up_2000.zip",
+    "category": "Furniture",
+    "hash": "029f3152e94abe60279896a8e2386fc57c6e22111ab659f7d3004876dde227ec",
+    "bbox_min": [
+      -1.0255955457687378,
+      -1.0419232845306396,
+      -0.010941177606582642
+    ],
+    "bbox_max": [
+      0.5568395256996155,
+      0.6279752850532532,
+      1.032861590385437
+    ]
+  },
+  {
+    "name": "Zanotta 2S Brown",
+    "url": "Zanotta_2S_Brown.zip",
+    "category": "Furniture",
+    "hash": "49c15d3db1c6c545372ccdc86de3f46d36600b1216f9ddf6e41e854fc308b0e4",
+    "bbox_min": [
+      -0.9046669006347656,
+      -0.4135843515396118,
+      -7.815780918463133e-06
+    ],
+    "bbox_max": [
+      0.9326719641685486,
+      0.5012847185134888,
+      0.7965928912162781
+    ]
+  },
+  {
+    "name": "Zanotta William 3S",
+    "url": "Zanotta_William_3S.zip",
+    "category": "Furniture",
+    "hash": "c229f4713ac40ba31f5fb9e95e105424ef2ac230116c45459ba5d9abf26de7ae",
+    "bbox_min": [
+      -1.3322720527648926,
+      -0.415058970451355,
+      4.6664987166877836e-05
+    ],
+    "bbox_max": [
+      1.3389238119125366,
+      0.5000667572021484,
+      0.8011298775672913
+    ]
+  },
+  {
+    "name": "Zanotta william Brown",
+    "url": "Zanotta_william_Brown.zip",
+    "category": "Furniture",
+    "hash": "1598e2f417a2bf13ffe242dc4ce95c1c2c6e31309bc6acce35f47cdf4713d8e6",
+    "bbox_min": [
+      -1.3314796686172485,
+      -1.1162689924240112,
+      3.095953070442192e-05
+    ],
+    "bbox_max": [
+      1.3388450145721436,
+      0.5979111790657043,
+      0.8010298013687134
+    ]
+  },
+  {
+    "name": "Zanotta william ClearBrown",
+    "url": "Zanotta_william_ClearBrown.zip",
+    "category": "Furniture",
+    "hash": "96105f3cbdeb8a8dd75a7f12657b80499740cf938f1cd5a36ea88246eeb2e8f4",
+    "bbox_min": [
+      -1.3300002813339233,
+      -1.240404486656189,
+      5.5080872698454186e-05
+    ],
+    "bbox_max": [
+      1.3397949934005737,
+      0.5062307715415955,
+      0.8011189699172974
+    ]
+  },
+  {
+    "name": "Zanotta William oneseat",
+    "url": "Zanotta_William_oneseat.zip",
+    "category": "Furniture",
+    "hash": "578c80e1a0076090e8044aacbeff2ba198547f48a796bdad2d823ef91b1ebd42",
+    "bbox_min": [
+      -0.5004417300224304,
+      -0.4156264066696167,
+      0.0
+    ],
+    "bbox_max": [
+      0.49907857179641724,
+      0.5,
+      0.7996412515640259
+    ]
   }
 ]
