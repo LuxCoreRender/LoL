@@ -202,7 +202,8 @@ class LOLCheckPathOperator(Operator):
         
         new_assets_prop = ui_props.new_assets
         new_assets_prop.clear()
-        new_assets = load_assets(self.filepath)
+      
+        new_assets = load_assets(bpy.path.abspath(self.filepath))
         namelist = [asset['name'] for asset in ui_props.assets]
         
         sorted_assets = sorted(new_assets, key=lambda c: c['name'].lower())
@@ -388,7 +389,7 @@ class LOLLoadTOCfromGitRepositoy(Operator):
         else: 
             filename = 'assets_model.json'
         
-        filepath = join(ui_props.repopath, filename)
+        filepath = join(bpy.path.abspath(ui_props.repopath), filename)
         if isfile(filepath):
             with open(filepath) as file_handle:
                 assets = json.loads(file_handle.read())
