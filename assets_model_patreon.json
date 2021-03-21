@@ -4542,5 +4542,245 @@
       5.556568145751953,
       8.417136192321777
     ]
+  },
+  {
+    "name": "Average Curtain",
+    "url": "Average_Curtain.zip",
+    "category": "Curtain",
+    "hash": "c7515e53394a9167fa8cee2d7583158be60e5b5b253939f53eae2faa0f8d54d8",
+    "bbox_min": [
+      -0.8827141523361206,
+      -0.38329607248306274,
+      -0.0038404464721679688
+    ],
+    "bbox_max": [
+      0.8372644186019897,
+      0.17492040991783142,
+      3.142188787460327
+    ]
+  },
+  {
+    "name": "Average Curtain 01",
+    "url": "Average_Curtain_01.zip",
+    "category": "Curtain",
+    "hash": "eb437982eac836b559f25c2b24d726baea7454d99f9c2d1b0cf0cf8903fb89e9",
+    "bbox_min": [
+      -1.1612718105316162,
+      -0.09010598063468933,
+      -0.028095006942749023
+    ],
+    "bbox_max": [
+      1.0693714618682861,
+      0.48340561985969543,
+      3.153250217437744
+    ]
+  },
+  {
+    "name": "Average Curtain 02",
+    "url": "Average_Curtain_02.zip",
+    "category": "Curtain",
+    "hash": "6aed945cf4577c97895da9b7d420af5e1d70386391b4f5bb768be48c60779107",
+    "bbox_min": [
+      -0.7296327948570251,
+      -0.5154650211334229,
+      -0.02065253257751465
+    ],
+    "bbox_max": [
+      0.8390384316444397,
+      0.14775457978248596,
+      3.164161205291748
+    ]
+  },
+  {
+    "name": "Average Curtain 03",
+    "url": "Average_Curtain_03.zip",
+    "category": "Curtain",
+    "hash": "638cded3d6e341acebfec818ddeb4d68b195cc7239bfc7626ea1dc14016eba7b",
+    "bbox_min": [
+      -0.8321660757064819,
+      -0.49881237745285034,
+      -0.024458646774291992
+    ],
+    "bbox_max": [
+      0.7956645488739014,
+      0.2998856008052826,
+      3.165123701095581
+    ]
+  },
+  {
+    "name": "Baobab supension",
+    "url": "Baobab_supension.zip",
+    "category": "Light",
+    "hash": "ba2f402d9f25cb5ebc5803eb8ec6c0d23be29d356a7268125e23e9ebfbc4e21a",
+    "bbox_min": [
+      -0.06753435730934143,
+      -0.06753435730934143,
+      -1.8450580835342407
+    ],
+    "bbox_max": [
+      0.06753435730934143,
+      0.06753435730934143,
+      -0.0007967272540554404
+    ]
+  },
+  {
+    "name": "BedGrey",
+    "url": "BedGrey.zip",
+    "category": "Furniture",
+    "hash": "04215dcef60c2aa838c7375bfe92679c6fc69776399e088426eac8a670d1fede",
+    "bbox_min": [
+      -0.9088952541351318,
+      -1.194119930267334,
+      -0.003484361106529832
+    ],
+    "bbox_max": [
+      0.8590196371078491,
+      1.0968259572982788,
+      0.8805398941040039
+    ]
+  },
+  {
+    "name": "BedMaster",
+    "url": "BedMaster.zip",
+    "category": "Furniture",
+    "hash": "0616efa853af074dbb0f4b8b7f15dcada778cad6ef9933943967128e8edeeea0",
+    "bbox_min": [
+      -0.9134187698364258,
+      -1.0651181936264038,
+      -0.434973806142807
+    ],
+    "bbox_max": [
+      1.0732996463775635,
+      1.2350616455078125,
+      1.0594695806503296
+    ]
+  },
+  {
+    "name": "BedMaster1",
+    "url": "BedMaster1.zip",
+    "category": "Furniture",
+    "hash": "5dec6c168f3a11b7e6c30188af56999caa8f0e0d5772e6fa66b2f7940efa42d8",
+    "bbox_min": [
+      -0.996169924736023,
+      -0.9236776232719421,
+      -0.3989165425300598
+    ],
+    "bbox_max": [
+      0.9869385361671448,
+      1.112457036972046,
+      0.903247594833374
+    ]
+  },
+  {
+    "name": "BedParadise",
+    "url": "BedParadise.zip",
+    "category": "Furniture",
+    "hash": "da98042596c62f3f8e1a75e9c394028512f36e73b1680a993dffe9f1d77d8711",
+    "bbox_min": [
+      -1.165493369102478,
+      -1.1011978387832642,
+      -0.0010482370853424072
+    ],
+    "bbox_max": [
+      1.1700950860977173,
+      1.1562198400497437,
+      0.9867900609970093
+    ]
+  },
+  {
+    "name": "Ikea ALEFJALL",
+    "url": "Ikea_ALEFJALL.zip",
+    "category": "Furniture",
+    "hash": "9800d562b3ba0ab2f4ccde310d893dab05f342fbb1a361c13be58b32364dafcc",
+    "bbox_min": [
+      -0.37537044286727905,
+      -0.4112403988838196,
+      -0.0006193730514496565
+    ],
+    "bbox_max": [
+      0.38074302673339844,
+      0.34829387068748474,
+      0.9679543375968933
+    ]
+  },
+  {
+    "name": "InteriorPlant02",
+    "url": "InteriorPlant02.zip",
+    "category": "Plants",
+    "hash": "33b1e5d3004293cb1aac95d8a11559215de6228955f7a5f2093a809e94613d4b",
+    "bbox_min": [
+      -0.25150781869888306,
+      -0.3067425489425659,
+      0.0
+    ],
+    "bbox_max": [
+      0.3992820680141449,
+      0.24309754371643066,
+      1.5110803842544556
+    ]
+  },
+  {
+    "name": "InteriorPlant03",
+    "url": "InteriorPlant03.zip",
+    "category": "Plants",
+    "hash": "62f9dd005d40bfe4c36f7439af4e861ec78baa747bd6cda9b275a2ef7d97f36e",
+    "bbox_min": [
+      -0.27000418305397034,
+      -0.2977888882160187,
+      0.0
+    ],
+    "bbox_max": [
+      0.26834559440612793,
+      0.35559961199760437,
+      1.6791298389434814
+    ]
+  },
+  {
+    "name": "LG Fridge",
+    "url": "LG_Fridge.zip",
+    "category": "Home Appliance",
+    "hash": "dae60261129025c4ea757f5dede52a7cda08066ee4b66f0afb1cb4875eeebf89",
+    "bbox_min": [
+      -0.3061600625514984,
+      -0.33356496691703796,
+      0.0015898634446784854
+    ],
+    "bbox_max": [
+      0.31190797686576843,
+      0.30392783880233765,
+      1.7982732057571411
+    ]
+  },
+  {
+    "name": "Light Switch",
+    "url": "Light_Switch.zip",
+    "category": "Electronics",
+    "hash": "f084f6a6ef0a724413e928642c4d145e9c37f49b6f1ead3c21e125124ecf2d29",
+    "bbox_min": [
+      -0.05195333808660507,
+      -0.01866569183766842,
+      -0.04873025044798851
+    ],
+    "bbox_max": [
+      0.05195333808660507,
+      0.00025722666759975255,
+      0.04873025044798851
+    ]
+  },
+  {
+    "name": "PHILIPS PASTA MAKER",
+    "url": "PHILIPS_PASTA_MAKER.zip",
+    "category": "Kitchen",
+    "hash": "5981214c2cf2948206fa1d3c2ef57e7cd61a760adccd94682a1112537fb6a503",
+    "bbox_min": [
+      -0.19136597216129303,
+      -0.09928665310144424,
+      -8.213162772108262e-08
+    ],
+    "bbox_max": [
+      0.30044031143188477,
+      0.09928666055202484,
+      0.39778339862823486
+    ]
   }
 ]
