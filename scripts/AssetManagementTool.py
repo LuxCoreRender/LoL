@@ -202,7 +202,8 @@ class LOLCheckPathOperator(Operator):
         
         new_assets_prop = ui_props.new_assets
         new_assets_prop.clear()
-        new_assets = load_assets(self.filepath)
+      
+        new_assets = load_assets(bpy.path.abspath(self.filepath))
         namelist = [asset['name'] for asset in ui_props.assets]
         
         sorted_assets = sorted(new_assets, key=lambda c: c['name'].lower())
@@ -388,7 +389,7 @@ class LOLLoadTOCfromGitRepositoy(Operator):
         else: 
             filename = 'assets_model.json'
         
-        filepath = join(ui_props.repopath, filename)
+        filepath = join(bpy.path.abspath(ui_props.repopath), filename)
         if isfile(filepath):
             with open(filepath) as file_handle:
                 assets = json.loads(file_handle.read())
@@ -802,9 +803,12 @@ class VIEW3D_PT_LUXCORE_ONLINE_LIBRARY_EDIT_ASSETS(Panel):
             if ui_props.show_assets:
                 if ui_props.asset_sorttype == 'NAME':
                     sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
-                if ui_props.asset_sorttype == 'CATEGORY':
+                elif ui_props.asset_sorttype == 'CATEGORY':
                     sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
                     sorted_assets = sorted(sorted_assets, key=lambda c: c.category.lower())
+                elif ui_props.asset_sorttype == 'NEW':
+                    sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
+                    sorted_assets = sorted(sorted_assets, key=lambda c: c.new, reverse=True)
                       
                 for idx, asset in enumerate(sorted_assets):
                     if not asset.deleted:
@@ -929,7 +933,8 @@ class LuxCoreOnlineLibraryEditAsset(PropertyGroup):
     asset_sortitems = [
         ('NAME', 'Name', 'CATEGORY', '', 0),
         ('CATEGORY', 'Category', 'Category', '', 1),
-        #('DATE', 'Date', 'Date', '', 2),
+        ('NEW', 'New', 'New', '', 2),
+        #('DATE', 'Date', 'Date', '', 3),
     ]
     
     asset_sorttype: EnumProperty(name='Asset Sort Type', items=asset_sortitems, description='Sort assets by ...',
