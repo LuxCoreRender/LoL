@@ -215,7 +215,7 @@ class LOLCheckPathOperator(Operator):
             new_asset = new_assets_prop.add()
             new_asset['name'] = asset['name']
             new_asset['url'] = asset['url']
-            new_asset['category'] = 'Misc'
+            new_asset['category'] =  asset['category']
             new_asset['hash'] =  asset['hash']
             if ui_props.asset_type == 'MODEL':
                 new_asset['bbox_min'] = asset['bbox_min']
