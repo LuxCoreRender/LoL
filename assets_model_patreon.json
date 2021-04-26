@@ -6894,5 +6894,901 @@
       13.931198120117188,
       6.208192348480225
     ]
+  },
+  {
+    "name": "Analogue Table 185",
+    "url": "Analogue_Table_185.zip",
+    "category": "Furniture",
+    "hash": "546e7d32bc105b5b0b4bcbe78be104a02445f6c493bca05251ad3ee19052a09a",
+    "bbox_min": [
+      -0.916274905204773,
+      -0.5272876620292664,
+      0.00020551971101667732
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7193989157676697
+    ]
+  },
+  {
+    "name": "Analogue Table 245",
+    "url": "Analogue_Table_245.zip",
+    "category": "Furniture",
+    "hash": "7bf00169c56eab224f63064fbbd95f5d6e0951ce6156405770bf16de41827d3e",
+    "bbox_min": [
+      -1.2162748575210571,
+      -0.5272876620292664,
+      0.00020551971101667732
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7193989157676697
+    ]
+  },
+  {
+    "name": "Bed Cannage Set",
+    "url": "Bed_Cannage_Set.zip",
+    "category": "Furniture",
+    "hash": "bc4090860928d41aeaea089edd0dca2b87ce5a8137d60dce962b03cf9611d111",
+    "bbox_min": [
+      -1.1927459239959717,
+      -1.344160556793213,
+      -0.0027715861797332764
+    ],
+    "bbox_max": [
+      1.2331265211105347,
+      0.9497509002685547,
+      1.1480188369750977
+    ]
+  },
+  {
+    "name": "Bed Cannage Set Five",
+    "url": "Bed_Cannage_Set_Five.zip",
+    "category": "Furniture",
+    "hash": "037b5f09e98912450c851b869db1d4ceb84d6ea590681d8dad3ccedc0745ca66",
+    "bbox_min": [
+      -1.4445024728775024,
+      -1.05791175365448,
+      -0.0003975454601459205
+    ],
+    "bbox_max": [
+      1.444502353668213,
+      1.0375566482543945,
+      1.2151182889938354
+    ]
+  },
+  {
+    "name": "Bed Cannage Set Four",
+    "url": "Bed_Cannage_Set_Four.zip",
+    "category": "Furniture",
+    "hash": "5797eb910f5b9562639a98506c67c39e8dd805bf4537fcbdb1d2895e39ec6e04",
+    "bbox_min": [
+      -0.9597280025482178,
+      -1.528931736946106,
+      -0.00092363974545151
+    ],
+    "bbox_max": [
+      0.961255669593811,
+      0.5535956621170044,
+      0.9214721918106079
+    ]
+  },
+  {
+    "name": "Bed Cannage Set one",
+    "url": "Bed_Cannage_Set_one.zip",
+    "category": "Furniture",
+    "hash": "1a9b1427e696088ec1551d950463e997b643ca81c88d4a7939de2c2c1671c18e",
+    "bbox_min": [
+      -1.3674589395523071,
+      -1.2126359939575195,
+      -0.004919243045151234
+    ],
+    "bbox_max": [
+      1.3681142330169678,
+      1.0002881288528442,
+      1.2031673192977905
+    ]
+  },
+  {
+    "name": "Bed Cannage Set Three",
+    "url": "Bed_Cannage_Set_Three.zip",
+    "category": "Furniture",
+    "hash": "41663e75f876b915f81d4e63de8007468773e5b76f8c31de33e639cba912bf7d",
+    "bbox_min": [
+      -1.3764863014221191,
+      -1.0210185050964355,
+      -0.020838407799601555
+    ],
+    "bbox_max": [
+      1.3857150077819824,
+      1.021018385887146,
+      1.0708385705947876
+    ]
+  },
+  {
+    "name": "Bed Cannage Set Two",
+    "url": "Bed_Cannage_Set_Two.zip",
+    "category": "Furniture",
+    "hash": "88b3118ca017a82f1f152d12d3886a4d070674ed96a9c71e0d9e8ef2ccf816a4",
+    "bbox_min": [
+      -1.3047876358032227,
+      -0.9995096921920776,
+      -0.001934647560119629
+    ],
+    "bbox_max": [
+      1.3145349025726318,
+      1.0955824851989746,
+      1.21327805519104
+    ]
+  },
+  {
+    "name": "Bertoia Knoll",
+    "url": "Bertoia_Knoll.zip",
+    "category": "Furniture",
+    "hash": "4fa96301c6fea505850cc63d8f8331f6f15a93df551081ef93d260e97fe9a149",
+    "bbox_min": [
+      -0.4187648296356201,
+      -0.2839576303958893,
+      -0.004080456681549549
+    ],
+    "bbox_max": [
+      0.1750248670578003,
+      0.2517615556716919,
+      0.7990036606788635
+    ]
+  },
+  {
+    "name": "Bertoia Knoll Grilled",
+    "url": "Bertoia_Knoll_Grilled.zip",
+    "category": "Furniture",
+    "hash": "53cb01f50b689cc872e533787c04976210213fe78568cec5feb40b583283a14e",
+    "bbox_min": [
+      -0.3008642792701721,
+      -0.28739941120147705,
+      -0.0040858443826437
+    ],
+    "bbox_max": [
+      0.3008643090724945,
+      0.25291770696640015,
+      0.7993204593658447
+    ]
+  },
+  {
+    "name": "Ceiling Fan",
+    "url": "Ceiling_Fan.zip",
+    "category": "Home Appliance",
+    "hash": "05e7abf2c49194ed969e4f0c58149a1f0c6f8c3b81da302db8e58de894a17ccd",
+    "bbox_min": [
+      -0.49556368589401245,
+      -0.49556368589401245,
+      -0.23322689533233643
+    ],
+    "bbox_max": [
+      0.49556368589401245,
+      0.49556368589401245,
+      0.003167893271893263
+    ]
+  },
+  {
+    "name": "Ceiling Fan X",
+    "url": "Ceiling_Fan_X.zip",
+    "category": "Home Appliance",
+    "hash": "648418dfcef4cb9a349459a1e74345b4b5002fcbeb452a294cf7a5043368898d",
+    "bbox_min": [
+      -0.49556368589401245,
+      -0.49556368589401245,
+      -0.23322689533233643
+    ],
+    "bbox_max": [
+      0.49556368589401245,
+      0.49556368589401245,
+      0.003167893271893263
+    ]
+  },
+  {
+    "name": "Chair S33",
+    "url": "Chair_S33.zip",
+    "category": "Furniture",
+    "hash": "8f9554f5587ba237e257c94274c63dccc851e70aefeb864b2acf9d60af8cba60",
+    "bbox_min": [
+      -0.26236289739608765,
+      -0.26286375522613525,
+      -0.006109519395977259
+    ],
+    "bbox_max": [
+      0.26236289739608765,
+      0.43061521649360657,
+      0.8383700847625732
+    ]
+  },
+  {
+    "name": "Chair S34",
+    "url": "Chair_S34.zip",
+    "category": "Furniture",
+    "hash": "50af3ed61108ef2f1645abcbc7fc1794544a4dd8cbb2b8caafe8ade6b8ff5ac3",
+    "bbox_min": [
+      -0.2849271595478058,
+      -0.2287881225347519,
+      -0.006109519395977259
+    ],
+    "bbox_max": [
+      0.2849271595478058,
+      0.4097125828266144,
+      0.8452084064483643
+    ]
+  },
+  {
+    "name": "Chair Serie7",
+    "url": "Chair_Serie7.zip",
+    "category": "Furniture",
+    "hash": "eab8181b4ced42f7ff79cc25ade545d616185c16379015d4f1a483b15140f780",
+    "bbox_min": [
+      -0.26315388083457947,
+      -0.2694561779499054,
+      -0.001912684179842472
+    ],
+    "bbox_max": [
+      0.26315388083457947,
+      0.2679995894432068,
+      0.8057886958122253
+    ]
+  },
+  {
+    "name": "Chaise Longue Caravelle",
+    "url": "Chaise_Longue_Caravelle.zip",
+    "category": "Furniture",
+    "hash": "74c4c9acd835c165534983100a353e7cf0bf242cb060dce5ec46ec1f548649f6",
+    "bbox_min": [
+      -0.4240480363368988,
+      -0.8391321897506714,
+      -0.0008118236437439919
+    ],
+    "bbox_max": [
+      0.42404788732528687,
+      1.1717267036437988,
+      0.7177754044532776
+    ]
+  },
+  {
+    "name": "Essay Table",
+    "url": "Essay_Table.zip",
+    "category": "Furniture",
+    "hash": "685c04eda85bddb77c0f441479493acd6e044c53e7524441a6b805f079b6db54",
+    "bbox_min": [
+      0.0,
+      -0.5,
+      0.0008178353309631348
+    ],
+    "bbox_max": [
+      0.949999988079071,
+      0.5,
+      0.7193527817726135
+    ]
+  },
+  {
+    "name": "Ferre Phoenix",
+    "url": "Ferre_Phoenix.zip",
+    "category": "Furniture",
+    "hash": "6e17a2b8590e085d5ed2404a4af8a4551a47c6bd47f487bc8f43a9e8a252778b",
+    "bbox_min": [
+      -0.6402004957199097,
+      -0.37366223335266113,
+      0.0026061127427965403
+    ],
+    "bbox_max": [
+      0.6402004957199097,
+      0.5527212619781494,
+      0.7000631093978882
+    ]
+  },
+  {
+    "name": "Fritz Swan Chair",
+    "url": "Fritz_Swan_Chair.zip",
+    "category": "Furniture",
+    "hash": "206e3031224e0b021b3aa16826f432be7c848c1442a0a87a267b0b0fa583bbf1",
+    "bbox_min": [
+      -0.37987926602363586,
+      -0.36495938897132874,
+      -5.1394104957580566e-05
+    ],
+    "bbox_max": [
+      0.37987926602363586,
+      0.3049798607826233,
+      0.7802718281745911
+    ]
+  },
+  {
+    "name": "Gio LongChair",
+    "url": "Gio_LongChair.zip",
+    "category": "Furniture",
+    "hash": "f44711af4cea5d07e0a997dc6b192f45967136902fafa889cec3cb46585aa306",
+    "bbox_min": [
+      -0.3740215003490448,
+      -1.0000003576278687,
+      -0.0015298392390832305
+    ],
+    "bbox_max": [
+      0.37402206659317017,
+      1.0000003576278687,
+      0.7430105209350586
+    ]
+  },
+  {
+    "name": "Jules Chair",
+    "url": "Jules_Chair.zip",
+    "category": "Furniture",
+    "hash": "be8ca0254d9beca94973838cb6cb8295c7bc611990159622185ff94d0c22765a",
+    "bbox_min": [
+      0.0,
+      -0.41235238313674927,
+      0.0001042234871420078
+    ],
+    "bbox_max": [
+      0.3193293809890747,
+      0.41590771079063416,
+      0.6460278630256653
+    ]
+  },
+  {
+    "name": "Kaiser Idell Luxus",
+    "url": "Kaiser_Idell_Luxus.zip",
+    "category": "Light",
+    "hash": "9e816b3be08b5190b7b7cf63657b4c1f6af371ed021c2e0884ed326501b7d1b0",
+    "bbox_min": [
+      -0.21524442732334137,
+      -0.144070565700531,
+      8.077407983364537e-05
+    ],
+    "bbox_max": [
+      0.12335972487926483,
+      0.14407047629356384,
+      0.42500996589660645
+    ]
+  },
+  {
+    "name": "Lyla chair",
+    "url": "Lyla_chair.zip",
+    "category": "Furniture",
+    "hash": "2afd2eb1a2dd7e93815d71e192a943b61edc9400b41c2be36f9a667c3d53f3bc",
+    "bbox_min": [
+      -0.4919927418231964,
+      -0.492868036031723,
+      -0.0007056291215121746
+    ],
+    "bbox_max": [
+      0.4922497868537903,
+      0.4243370592594147,
+      0.7770315408706665
+    ]
+  },
+  {
+    "name": "Margarete Industrial Chair ",
+    "url": "Margarete_Industrial_Chair .zip",
+    "category": "Furniture",
+    "hash": "e6db6a37d1d2f66f9539a1288974330a6a1408c7672099d0b47190f3c7286eeb",
+    "bbox_min": [
+      -0.23296110332012177,
+      -0.2815932631492615,
+      -0.0006928173825144768
+    ],
+    "bbox_max": [
+      0.23513463139533997,
+      0.2777727544307709,
+      0.9467350840568542
+    ]
+  },
+  {
+    "name": "Mathsson Karin",
+    "url": "Mathsson_Karin.zip",
+    "category": "Furniture",
+    "hash": "e5d7384e01d15ab066e4e76a808fdec680e2c447f62d40c6d5276dae3d314fc6",
+    "bbox_min": [
+      -0.41831955313682556,
+      -0.5499126315116882,
+      -0.0008924671565182507
+    ],
+    "bbox_max": [
+      0.41831958293914795,
+      0.3207712173461914,
+      0.8654607534408569
+    ]
+  },
+  {
+    "name": "Mirto Outdoor Cloth",
+    "url": "Mirto_Outdoor_Cloth.zip",
+    "category": "Furniture",
+    "hash": "2fc0004208def08792badd9bc13574cf93265902bc80853efb01ea68632033c4",
+    "bbox_min": [
+      -0.36900627613067627,
+      -0.8858686089515686,
+      -0.0007104277610778809
+    ],
+    "bbox_max": [
+      1.0370872871590109e-07,
+      0.9235554933547974,
+      0.8857532739639282
+    ]
+  },
+  {
+    "name": "Mirto Outdoor Flat",
+    "url": "Mirto_Outdoor_Flat.zip",
+    "category": "Furniture",
+    "hash": "8d30bc4e13974f47d5964e4bc288488aa85aebe4a4e6c1593661d4229c5cb40c",
+    "bbox_min": [
+      -0.36900627613067627,
+      -0.8858686089515686,
+      -0.0007025599479675293
+    ],
+    "bbox_max": [
+      4.769056616282796e-08,
+      1.0910329818725586,
+      0.3725457489490509
+    ]
+  },
+  {
+    "name": "Mirto Outdoor Soft",
+    "url": "Mirto_Outdoor_Soft.zip",
+    "category": "Furniture",
+    "hash": "34db5697820b43bf3620b78fbab382efeb798ee0705d8cbb8613c8b656f0bd9d",
+    "bbox_min": [
+      -0.36900627613067627,
+      -0.9034570455551147,
+      0.002288341522216797
+    ],
+    "bbox_max": [
+      4.361864114343916e-08,
+      0.9978781938552856,
+      0.8217573761940002
+    ]
+  },
+  {
+    "name": "Nap Chair Arm",
+    "url": "Nap_Chair_Arm.zip",
+    "category": "Furniture",
+    "hash": "001e6996fe2335cd75bc321a423d0a647d24bac7bc3277cacf818589a222862b",
+    "bbox_min": [
+      -0.30115920305252075,
+      -0.2538939416408539,
+      -0.002062626648694277
+    ],
+    "bbox_max": [
+      0.30115920305252075,
+      0.2499939352273941,
+      0.7682095766067505
+    ]
+  },
+  {
+    "name": "Nap Chair Armless Chrome",
+    "url": "Nap_Chair_Armless_Chrome.zip",
+    "category": "Furniture",
+    "hash": "8a61137fdde585e3e17b3498dd1d43bb7bc68d74502eef82de9da02c057cd7d4",
+    "bbox_min": [
+      -0.26296523213386536,
+      -0.2551319897174835,
+      -0.002062626648694277
+    ],
+    "bbox_max": [
+      0.26296523213386536,
+      0.2499939352273941,
+      0.7695522308349609
+    ]
+  },
+  {
+    "name": "Nap Chair Wood",
+    "url": "Nap_Chair_Wood.zip",
+    "category": "Furniture",
+    "hash": "c8197dfd589f60ffb91e9f832a097aca9d3de388fe1a87f9b8e668e517db91a9",
+    "bbox_min": [
+      -0.4554768204689026,
+      -0.26573896408081055,
+      -0.0026594698429107666
+    ],
+    "bbox_max": [
+      0.08000104129314423,
+      0.2499939352273941,
+      0.7695522308349609
+    ]
+  },
+  {
+    "name": "Nap Chair WoodX",
+    "url": "Nap_Chair_WoodX.zip",
+    "category": "Furniture",
+    "hash": "94412294efa801b8c8b30cb4869e074d5d1a0ac9ffbbddc475eb25e4a0d76622",
+    "bbox_min": [
+      -0.30115920305252075,
+      -0.26573896408081055,
+      -0.0026594698429107666
+    ],
+    "bbox_max": [
+      0.30115920305252075,
+      0.2499939352273941,
+      0.7682095766067505
+    ]
+  },
+  {
+    "name": "PK31 Fritz Hansen",
+    "url": "PK31_Fritz_Hansen.zip",
+    "category": "Furniture",
+    "hash": "433e6e2adcd78c04acc91f4e56e9b2457e3e48ce1017cf76c344be7b4e18322d",
+    "bbox_min": [
+      -0.36047348380088806,
+      -0.28848761320114136,
+      0.00496829766780138
+    ],
+    "bbox_max": [
+      0.36417004466056824,
+      0.39569661021232605,
+      0.7618600130081177
+    ]
+  },
+  {
+    "name": "Pk54 Table",
+    "url": "Pk54_Table.zip",
+    "category": "Furniture",
+    "hash": "14a9b3bb82d7cb4b52e5ab79ee04714a43de32cdb0c04e28d521bf8f1492b0ae",
+    "bbox_min": [
+      -0.6893574595451355,
+      -0.6893575191497803,
+      0.0
+    ],
+    "bbox_max": [
+      0.6893575191497803,
+      0.6893575191497803,
+      0.6871544718742371
+    ]
+  },
+  {
+    "name": "PK61 Table",
+    "url": "PK61_Table.zip",
+    "category": "Furniture",
+    "hash": "00fb690f74405ac4fbccadb29be15a882f91711365caa75f8b5cc3ed8d7c1b1a",
+    "bbox_min": [
+      -0.6169722080230713,
+      -0.6169720888137817,
+      0.0008877344662323594
+    ],
+    "bbox_max": [
+      0.6169720888137817,
+      0.6169722080230713,
+      0.32380053400993347
+    ]
+  },
+  {
+    "name": "Pk62 Table",
+    "url": "Pk62_Table.zip",
+    "category": "Furniture",
+    "hash": "42161300273dcb23dfc689a3a3350da1242c6aee6aba4bd4764ee8b118f41cc9",
+    "bbox_min": [
+      -0.408555805683136,
+      -0.14500001072883606,
+      0.0
+    ],
+    "bbox_max": [
+      0.408555805683136,
+      0.14500001072883606,
+      0.17000000178813934
+    ]
+  },
+  {
+    "name": "Pk65 Table",
+    "url": "Pk65_Table.zip",
+    "category": "Furniture",
+    "hash": "32c6ebead6f32d553b596d4306f1da3c58ae6a72faec5725a18950725164fa37",
+    "bbox_min": [
+      -0.6139967441558838,
+      -0.6139967441558838,
+      0.0
+    ],
+    "bbox_max": [
+      0.6139967441558838,
+      0.6139967441558838,
+      0.3199999928474426
+    ]
+  },
+  {
+    "name": "PK8 Chair",
+    "url": "PK8_Chair.zip",
+    "category": "Furniture",
+    "hash": "5ab4ba4440f77484f18434877c4aee200fd45c4f3207c39c3660207e978809df",
+    "bbox_min": [
+      -0.2924405336380005,
+      -0.25853869318962097,
+      -5.215545752434991e-05
+    ],
+    "bbox_max": [
+      0.2924405336380005,
+      0.24001552164554596,
+      0.7688784599304199
+    ]
+  },
+  {
+    "name": "Plona Chair",
+    "url": "Plona_Chair.zip",
+    "category": "Furniture",
+    "hash": "8db02a61fdb34b90497f3d2207f6804fa44ebf974675db5553398305e52905c2",
+    "bbox_min": [
+      -0.3648221790790558,
+      -0.29217031598091125,
+      -0.0021166950464248657
+    ],
+    "bbox_max": [
+      0.3648221790790558,
+      0.3090113401412964,
+      0.7877117395401001
+    ]
+  },
+  {
+    "name": "Pluralis Table 180",
+    "url": "Pluralis_Table_180.zip",
+    "category": "Furniture",
+    "hash": "72687f6d00f3a4be6ea144f0ea31a3cfe10dc4ce9b6c869a96b90529a20f0975",
+    "bbox_min": [
+      -0.44610247015953064,
+      -0.9052561521530151,
+      9.443449380341917e-05
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7154300212860107
+    ]
+  },
+  {
+    "name": "Pluralis Table 200",
+    "url": "Pluralis_Table_200.zip",
+    "category": "Furniture",
+    "hash": "b7a935e5ce0a0c36370ab2be0e091ad8d2561599775ed3045fec59642a7f18b2",
+    "bbox_min": [
+      -0.4961024820804596,
+      -1.005256175994873,
+      9.443449380341917e-05
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7154300212860107
+    ]
+  },
+  {
+    "name": "Pluralis Table 240",
+    "url": "Pluralis_Table_240.zip",
+    "category": "Furniture",
+    "hash": "5544e60e794aa079b2c3184ae6e16414b6c5366f05247ef08f7d8cdbf1c263ea",
+    "bbox_min": [
+      -0.47530946135520935,
+      -1.259677529335022,
+      9.44363564485684e-05
+    ],
+    "bbox_max": [
+      0.12079300731420517,
+      -0.05442133918404579,
+      0.7154300212860107
+    ]
+  },
+  {
+    "name": "Pluralis Table 240X",
+    "url": "Pluralis_Table_240X.zip",
+    "category": "Furniture",
+    "hash": "59f76913e9cc9edddd7c66a6b8d7ba3d43b4a66ac911dc188c1b6289697b38c4",
+    "bbox_min": [
+      -0.5961024761199951,
+      -1.2052562236785889,
+      9.443449380341917e-05
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7154300212860107
+    ]
+  },
+  {
+    "name": "Ray Chaise Longue",
+    "url": "Ray_Chaise_Longue.zip",
+    "category": "Furniture",
+    "hash": "f0d8f97b33a7dbbb15c2c39535d373e6225e8a7cf8588beaaa631bb926cb6e1f",
+    "bbox_min": [
+      -0.4302070140838623,
+      -1.0509029626846313,
+      -0.0006206594407558441
+    ],
+    "bbox_max": [
+      0.42841842770576477,
+      1.0155572891235352,
+      0.7952102422714233
+    ]
+  },
+  {
+    "name": "Ray Chaise Longue Flat",
+    "url": "Ray_Chaise_Longue_Flat.zip",
+    "category": "Furniture",
+    "hash": "b55d99d52f91d9f2e49e21485da85d1e25543114d6f08044e6f1c3b6564d030c",
+    "bbox_min": [
+      -0.4300731122493744,
+      -1.0508729219436646,
+      -0.0008969772607088089
+    ],
+    "bbox_max": [
+      0.4285694360733032,
+      1.0356498956680298,
+      0.5779956579208374
+    ]
+  },
+  {
+    "name": "Rolf Benz 580 ",
+    "url": "Rolf_Benz_580 .zip",
+    "category": "Furniture",
+    "hash": "fa1c97cd32d5b9557f62e9fff24ece2df41ee08feed48eee3ef9a746f2e17e56",
+    "bbox_min": [
+      0.0,
+      -0.40867266058921814,
+      -0.002204025164246559
+    ],
+    "bbox_max": [
+      0.340640664100647,
+      0.4028138220310211,
+      0.7783107161521912
+    ]
+  },
+  {
+    "name": "Rondo Armchair",
+    "url": "Rondo_Armchair.zip",
+    "category": "Furniture",
+    "hash": "832b073f562ecc9d01cb941ec9ba9968ed5fb4c6cb5bf4b514bb5fa26a7c015b",
+    "bbox_min": [
+      -0.4930509924888611,
+      -0.48113375902175903,
+      -0.00010246769670629874
+    ],
+    "bbox_max": [
+      0.28314390778541565,
+      0.4506073296070099,
+      0.7598775029182434
+    ]
+  },
+  {
+    "name": "Slip covered Sofa",
+    "url": "Slip_covered_Sofa.zip",
+    "category": "Furniture",
+    "hash": "555914973e31ed25e0c793ab133e6c4a4f3ed63be826cb873150660636dea816",
+    "bbox_min": [
+      -1.2618951797485352,
+      -0.4663071036338806,
+      0.0002737386676017195
+    ],
+    "bbox_max": [
+      1.2593427896499634,
+      0.5177635550498962,
+      0.7903364896774292
+    ]
+  },
+  {
+    "name": "Stub",
+    "url": "Stub.zip",
+    "category": "Furniture",
+    "hash": "b6f855955b2faf735147127fee1c792d9bcc0200665a299c908ae80ad4218db8",
+    "bbox_min": [
+      -0.24161897599697113,
+      -0.24161897599697113,
+      0.0
+    ],
+    "bbox_max": [
+      0.24161897599697113,
+      0.24161897599697113,
+      0.4407232701778412
+    ]
+  },
+  {
+    "name": "Super Elliptical",
+    "url": "Super_Elliptical.zip",
+    "category": "Furniture",
+    "hash": "b17f0d6cb0ae8e5b9d095bd96669208ab960cccb98f4c3a1bcb3cb8a717f77f0",
+    "bbox_min": [
+      -1.1990103721618652,
+      -0.6116161942481995,
+      -0.0024037978146225214
+    ],
+    "bbox_max": [
+      1.1990102529525757,
+      0.6116161942481995,
+      0.7029736638069153
+    ]
+  },
+  {
+    "name": "Super Elliptical 01",
+    "url": "Super_Elliptical_01.zip",
+    "category": "Furniture",
+    "hash": "3bbd59a05d63ebef52e36614cbb4943c8f0a764035d76079986857a4dc1e234c",
+    "bbox_min": [
+      -0.9198941588401794,
+      -0.6116161942481995,
+      -0.0024037978146225214
+    ],
+    "bbox_max": [
+      0.9198935031890869,
+      0.6116161942481995,
+      0.7029736638069153
+    ]
+  },
+  {
+    "name": "Tabacoff Sphere Armchair",
+    "url": "Tabacoff_Sphere_Armchair.zip",
+    "category": "Furniture",
+    "hash": "20ebde88d95cf899c833bcb36d348266d0c52afa37266cbebddd44cd7d65deb6",
+    "bbox_min": [
+      -0.40627577900886536,
+      -0.47130894660949707,
+      -0.018977347761392593
+    ],
+    "bbox_max": [
+      0.40627577900886536,
+      0.3243710398674011,
+      0.824088990688324
+    ]
+  },
+  {
+    "name": "Table Planner Slim",
+    "url": "Table_Planner_Slim.zip",
+    "category": "Furniture",
+    "hash": "829b726062ee10ebac6f009baa95c8f52c82d582349a33c1e93c442df43643e9",
+    "bbox_min": [
+      -0.6500000357627869,
+      -0.3500000834465027,
+      -0.0002673563431017101
+    ],
+    "bbox_max": [
+      0.6500000357627869,
+      0.3500000834465027,
+      0.3907110095024109
+    ]
+  },
+  {
+    "name": "Table Planner Square",
+    "url": "Table_Planner_Square.zip",
+    "category": "Furniture",
+    "hash": "9224a1597b2eaba2c6e8e7fbe1a095980bd9df813611e3de12855fdf2c0f6eb1",
+    "bbox_min": [
+      -0.5,
+      -0.5,
+      -0.0002673563431017101
+    ],
+    "bbox_max": [
+      0.5,
+      0.5,
+      0.3907110095024109
+    ]
+  },
+  {
+    "name": "Table Planner Tiny",
+    "url": "Table_Planner_Tiny.zip",
+    "category": "Furniture",
+    "hash": "5d982835f4e035affb3a8c1de11213100049141d6e9cede0f6209221f800b432",
+    "bbox_min": [
+      -0.22500000894069672,
+      -0.22499997913837433,
+      -0.0002673563431017101
+    ],
+    "bbox_max": [
+      0.22500000894069672,
+      0.22499997913837433,
+      0.3907110095024109
+    ]
+  },
+  {
+    "name": "Theodore Armchair",
+    "url": "Theodore_Armchair.zip",
+    "category": "Furniture",
+    "hash": "dedee2b19955a906bc4d95f892334fb1d4d0cbca9acb6bb48f486012ff7fc099",
+    "bbox_min": [
+      -0.41262227296829224,
+      -0.45729365944862366,
+      0.0061664460226893425
+    ],
+    "bbox_max": [
+      0.41262227296829224,
+      0.4333660304546356,
+      0.7345081567764282
+    ]
   }
 ]
