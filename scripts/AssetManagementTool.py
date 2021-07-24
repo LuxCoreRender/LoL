@@ -7,7 +7,7 @@ import zlib
 import tempfile
 
 from os import listdir, chdir, remove
-from os.path import isfile, join, basename, dirname, splitext, exists
+from os.path import isfile, isdir, join, basename, dirname, splitext, exists
 from shutil import copyfile
 
 from bpy.types import Panel, Operator, PropertyGroup
@@ -16,6 +16,7 @@ from bpy.props import BoolProperty, EnumProperty, FloatVectorProperty, IntProper
 from mathutils import Vector, Matrix
 from ftplib import FTP_TLS
 from io import BytesIO, StringIO
+from datetime import date
 
 import subprocess
 import threading
@@ -31,7 +32,8 @@ ERROR = "CANCEL"
 ADD = "ADD"  # + sign
 REMOVE = "REMOVE"  # - sign, used to remove one element from a collection
 CLEAR = "X"  # x sign, used to clear a link (e.g. the world volume)
-    
+
+version = 'v2.5'  
 
 def calc_bbox(objects):
     bbox_min = [10000, 10000, 10000]
@@ -126,47 +128,115 @@ def update_repopath(self, context):
 
 def load_assets(filepath):
     new_assets = []
+
+    subdir = []
+    subdir.append('')
     
-    for f in [file for file in listdir(filepath) if isfile(join(filepath, file)) and splitext(file)[1] == '.blend']:
-        asset = {}
-        asset['name'] = splitext(f)[0].replace('_',' ') 
-        asset['url'] = splitext(f)[0]+'.zip'
-        asset['category'] = 'Misc'
-
-        filename = asset['url']
-        blendfile = join(filepath, splitext(filename)[0] + '.blend')
+    # use subdirectories as category
+    for dir in [file for file in listdir(filepath) if isdir(join(filepath, file))]:
+        subdir.append(dir)
 
 
-        with bpy.data.libraries.load(blendfile, link=True) as (data_from, data_to):
-            data_to.objects = [name for name in data_from.objects]
+    for dir in subdir:
+        for blendfile in [file for file in listdir(join(filepath, dir)) if isfile(join(filepath, dir, file)) and splitext(file)[1] == '.blend']:
+            if ui_props.asset_type == 'MODEL':
+                with bpy.data.libraries.load(join(filepath, dir, blendfile), link=True) as (data_from, data_to):
+                    data_to.objects = [name for name in data_from.objects]
+            elif ui_props.asset_type == 'MATERIAL':
+                with bpy.data.libraries.load(join(filepath, dir, blendfile), link=False) as (data_from, data_to):
+                    data_to.materials = [name for name in data_from.materials]
         
-        if ui_props.asset_type == 'MODEL':
-            (bbox_min, bbox_max) = calc_bbox(data_to.objects)
-            asset['bbox_min'] = bbox_min
-            asset['bbox_max'] = bbox_max
-        asset['hash'] = calc_hash(blendfile)
-        
-        tpath = join(filepath, splitext(filename)[0] + '.jpg')
-
-        img = None
-        if exists(tpath):
-            img = bpy.data.images.load(tpath)
-            img.name = '.LOL_preview'
-
-        asset['thumbnail'] = img
+            hash = calc_hash(join(filepath, dir, blendfile))
             
-        new_assets.append(asset)
+            if ui_props.asset_type == 'MODEL':
+                asset = {}
+                asset['name'] = splitext(blendfile)[0].replace('_',' ') 
+                (bbox_min, bbox_max) = calc_bbox(data_to.objects)
+                asset['bbox_min'] = bbox_min
+                asset['bbox_max'] = bbox_max
+                if dir == '':
+                    asset['category'] = 'Misc'
+                else:
+                    asset['category'] = dir
+                
+                asset['url'] = splitext(blendfile)[0]+'.zip'
+                asset['hash'] = hash
+                asset['date'] = str(date.today())
+                tpath = join(filepath, dir, splitext(blendfile)[0] + '.jpg')
+
+                img = None
+                if exists(tpath):
+                    img = bpy.data.images.load(tpath)
+                    img.name = '.LOL_preview'
+
+                asset['thumbnail'] = img
+                new_assets.append(asset)
+                bpy.ops.object.delete()  
+                leftOverObjBlocks = [block for block in bpy.data.objects if block.users == 0]
+                for block in leftOverObjBlocks:
+                    bpy.data.objects.remove(block)
+
+                leftOverMeshBlocks = [block for block in bpy.data.meshes if block.users == 0]
+                for block in leftOverMeshBlocks:
+                    bpy.data.meshes.remove(block)
+
+ 
+            elif ui_props.asset_type == 'MATERIAL':
+                if len(data_to.materials) > 1:
+                    for mat in data_to.materials:
+                        bpy.data.libraries.write(join(filepath, dir, mat.name+".blend"), {mat}, fake_user = True)
+                        hash = calc_hash(join(filepath, dir, mat.name+".blend"))
                         
-        bpy.ops.object.delete() 
+                        asset = {}
+                        asset['name'] = mat.name
+                        asset['url'] = mat.name+'.zip'
+                        if dir == '':
+                            asset['category'] = mat.name.split('_')[0]
+                        else:
+                            asset['category'] = dir
+                        
+                        asset['hash'] = hash
+                        asset['date'] = str(date.today())
+                        
+                        tpath = join(filepath, dir, mat.name + '.jpg')
 
-        leftOverObjBlocks = [block for block in bpy.data.objects if block.users == 0]
-        for block in leftOverObjBlocks:
-            bpy.data.objects.remove(block)
+                        img = None
+                        if exists(tpath):
+                            img = bpy.data.images.load(tpath)
+                            img.name = '.LOL_preview'
 
-        leftOverMeshBlocks = [block for block in bpy.data.meshes if block.users == 0]
-        for block in leftOverMeshBlocks:
-            bpy.data.meshes.remove(block)
-    
+                        asset['thumbnail'] = img
+                        new_assets.append(asset)
+                        mat.user_clear()
+                else:
+                    mat = data_to.materials[0]
+                    asset = {}
+                    asset['name'] = mat.name
+                    asset['url'] = mat.name+'.zip'
+                    if dir == '':
+                        asset['category'] = mat.name.split('_')[0]
+                    else:
+                        asset['category'] = dir
+                    
+                    asset['hash'] = hash
+                    asset['date'] = str(date.today())
+                    
+                    tpath = join(filepath, dir, mat.name + '.jpg')
+
+                    img = None
+                    if exists(tpath):
+                        img = bpy.data.images.load(tpath)
+                        img.name = '.LOL_preview'
+
+                    asset['thumbnail'] = img
+                    new_assets.append(asset)
+                    mat.user_clear()
+                    
+        
+                leftOverMatBlocks = [block for block in bpy.data.materials if block.users == 0]
+                for block in leftOverMatBlocks:
+                    bpy.data.materials.remove(block)
+
     return new_assets
 
 
@@ -177,6 +247,7 @@ class LuxCoreOnlineLibraryAsset(bpy.types.PropertyGroup):
     bbox_min: FloatVectorProperty(name='Bounding Box Min', default=(0, 0, 0))
     bbox_max: FloatVectorProperty(name='Bounding Box Max', default=(1, 1, 1))
     hash: StringProperty(name='Hash', description='SHA256 hash number for the asset blendfile', default='')
+    date: StringProperty(name='Date', description='Publishing date', default='')
     show_settings: BoolProperty(default=False)
     show_thumbnail: BoolProperty(name='', default=True, description='Show thumbnail')
     new: BoolProperty(name='', default=False, description='New Asset')
@@ -215,8 +286,9 @@ class LOLCheckPathOperator(Operator):
             new_asset = new_assets_prop.add()
             new_asset['name'] = asset['name']
             new_asset['url'] = asset['url']
-            new_asset['category'] =  asset['category']
+            new_asset['category'] = asset['category']
             new_asset['hash'] =  asset['hash']
+            new_asset['date'] =  asset['date']
             if ui_props.asset_type == 'MODEL':
                 new_asset['bbox_min'] = asset['bbox_min']
                 new_asset['bbox_max'] = asset['bbox_max']
@@ -253,7 +325,16 @@ class LOLRemoveAssetOperator(Operator):
 
     def execute(self, context):
         ui_props = context.scene.editAsset
-        sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
+        
+        if ui_props.asset_sorttype == 'NAME':
+            sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
+        elif ui_props.asset_sorttype == 'CATEGORY':
+            sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
+            sorted_assets = sorted(sorted_assets, key=lambda c: c.category.lower())
+        elif ui_props.asset_sorttype == 'NEW':
+            sorted_assets = sorted(ui_props.assets, key=lambda c: c.name.lower())
+            sorted_assets = sorted(sorted_assets, key=lambda c: c.new, reverse=True)
+            
         asset = sorted_assets[self.asset_index] 
         asset.deleted = True
     
@@ -281,11 +362,11 @@ class LOLAddAssetOperator(Operator):
         
         ui_props.messages.clear()
 
-        if asset['hash'] in hashlist:
+        if asset['hash'] in hashlist and ui_props.asset_type == 'MODEL':
             ui_props.messages.append(asset['name'] +': Asset with same hash number is already in database. Asset not added.')
             print(ui_props.messages)
             print('Info ' + asset['name'] +': Asset with same hash number is already in database. Asset not added.')
-        elif asset['name'] in hashlist:
+        elif asset['name'] in namelist:
             ui_props.messages.append(asset['name'] +': Asset with same name is already in database. Asset not added.')
             print('Info ' + asset['name'] +': Asset with same name is already in database. Asset not added.')
         else:
@@ -299,6 +380,7 @@ class LOLAddAssetOperator(Operator):
                 asset_prop['bbox_min'] = asset['bbox_min']
                 asset_prop['bbox_max'] = asset['bbox_max']
             asset_prop['hash'] = asset['hash']
+            asset_prop['date'] = date.today()
             asset_prop['thumbnail'] = asset['thumbnail']
             asset_prop['new'] = True
            
@@ -346,6 +428,7 @@ class LOLAddAllAssetOperator(Operator):
                     asset_prop['bbox_min'] = asset['bbox_min']
                     asset_prop['bbox_max'] = asset['bbox_max']
                 asset_prop['hash'] = asset['hash']
+                asset_prop['date'] = str(date.today())
                 asset_prop['thumbnail'] = asset['thumbnail']
                 asset_prop['new'] = True
                    
@@ -383,22 +466,27 @@ class LOLLoadTOCfromGitRepositoy(Operator):
         edit_assets_prop.clear()
         
         if ui_props.blendermarket_assets:
-            filename = 'assets_model_patreon.json'
+            filename = 'assets_model_blendermarket.json'
         elif ui_props.asset_type == 'MATERIAL':
             filename = 'assets_material.json'
         else: 
             filename = 'assets_model.json'
         
-        filepath = join(bpy.path.abspath(ui_props.repopath), filename)
+        filepath = join(bpy.path.abspath(ui_props.repopath),version, filename)
         if isfile(filepath):
             with open(filepath) as file_handle:
                 assets = json.loads(file_handle.read())
         
-        #TODO: Sort assets by name
         for asset in assets:
             new_asset = edit_assets_prop.add()
             new_asset['name'] = asset['name']
             new_asset['url'] = asset['url']
+            if 'date' in asset.keys():
+                new_asset['date'] = asset['date']  
+            else:
+                new_asset['date'] = str(date.today())
+            new_asset['url'] = asset['url']
+            
             new_asset['category'] = asset['category']
             new_asset['hash'] =  asset['hash']
             if ui_props.asset_type == 'MODEL':
@@ -449,7 +537,8 @@ class LOLUploadTOCOperator(Operator):
             filename = 'assets_material.json'
         else: 
             filename = 'assets_model.json'
-            
+        
+        ftp.cwd('/' + version)    
         ftp.storbinary(f'STOR {filename}', bytestream2)
         ftp.quit()
         
@@ -484,7 +573,9 @@ class LOLUploadTOCOperator(Operator):
                     ftp.storbinary(f'STOR {filename}', file)      
         
         used_images = [splitext(a.url)[0]+'.jpg' for a in assets if not a.deleted]
+        
         # Delete files which are not needed anymore
+        # TODO: Check if files are used from other assets
         for asset in [asset for asset in assets if asset.deleted]:
             if not ui_props.blendermarket_assets:
                 ftp.cwd(ftppath)
@@ -511,6 +602,7 @@ class LOLUploadTOCOperator(Operator):
                 new_asset['url'] = asset['url']
                 new_asset['category'] = asset['category']
                 new_asset['hash'] =  asset['hash']
+                new_asset['date'] =  asset['date']
      
                 if ui_props.asset_type == 'MODEL':
                     new_asset['bbox_min'] = [asset['bbox_min'][0],asset['bbox_min'][1],asset['bbox_min'][2]]
@@ -551,6 +643,7 @@ class LOLUpdateGitRepositoy(Operator):
                 new_asset['url'] = asset['url']
                 new_asset['category'] = asset['category']
                 new_asset['hash'] =  asset['hash']
+                new_asset['date'] =  asset['date']
      
                 if ui_props.asset_type == 'MODEL':
                     new_asset['bbox_min'] = [asset['bbox_min'][0],asset['bbox_min'][1],asset['bbox_min'][2]]
@@ -558,7 +651,7 @@ class LOLUpdateGitRepositoy(Operator):
             
                 assets.append(new_asset)
         
-        with open(join(ui_props.repopath, filename),'w') as file:   
+        with open(join(ui_props.repopath, version, filename),'w') as file:   
             file.write(json.dumps(assets, indent=2))
                 
     def execute(self, context):
@@ -572,7 +665,7 @@ class LOLUpdateGitRepositoy(Operator):
             typepath = 'model'
 
         with tempfile.TemporaryDirectory() as temp_dir_path:   
-            for asset in [asset for asset in assets if 'new' in asset.keys()]:
+            for asset in [asset for asset in assets if 'new' in asset.keys() and not 'deleted' in asset.keys()]:
                 if not ui_props.blendermarket_assets:
                     temp_zip_path = join(temp_dir_path, asset['url'])
                      
@@ -589,7 +682,9 @@ class LOLUpdateGitRepositoy(Operator):
 
         
         used_images = [splitext(a.url)[0]+'.jpg' for a in assets if not a.deleted]
+        
         # Delete files which are not needed anymore
+        # TODO: Check if files are used from other assets
         for asset in [asset for asset in assets if asset.deleted]:
             if not ui_props.blendermarket_assets:
                 filename = join(ui_props.repopath, typepath, asset['url'])
@@ -884,6 +979,8 @@ class VIEW3D_PT_LUXCORE_ONLINE_LIBRARY_EDIT_ASSETS(Panel):
                 col.prop(asset, 'url', text='URL')
                 col = box.column(align=True)
                 col.prop(asset, 'hash')
+                col = box.column(align=True)
+                col.prop(asset, 'date')
                 if ui_props.asset_type == 'MODEL':
                     col = box.column(align=True)
                     col.prop(asset, 'bbox_min')
@@ -984,6 +1081,7 @@ bpy.types.Scene.editAsset = PointerProperty(type=LuxCoreOnlineLibraryEditAsset)
 
 ui_props = bpy.context.scene.editAsset
 user_preferences = bpy.context.preferences.addons['BlendLuxCore'].preferences
+
 ui_props.username = ''
 ui_props.password = ''
 ui_props.progress_info = ''
@@ -1000,6 +1098,7 @@ remove_assets_prop = bpy.context.scene.editAsset.remove_assets
 remove_assets_prop.clear()
 
 register()
+
 if exists(join(ui_props.repopath,'.git')):
     ui_props.git_repo = True
     ui_props.progress_info = 'Updating repository'
