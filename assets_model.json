@@ -2192,22 +2192,6 @@
     ]
   },
   {
-    "name": "Fu\u00df-Fanny-Elssler mehr Details-50T",
-    "url": "Fu\u00df-Fanny-Elssler_mehr_Details-50T.zip",
-    "category": "Decoration",
-    "hash": "126ba7a0ac0b78adb3abba0b25bc054ba662924c0316d36e73f9f53d17b64a5c",
-    "bbox_min": [
-      -0.1920827180147171,
-      -0.13367660343647003,
-      -0.0006022406159900129
-    ],
-    "bbox_max": [
-      0.13036899268627167,
-      0.15538129210472107,
-      0.313847154378891
-    ]
-  },
-  {
     "name": "Georges Gardet",
     "url": "Georges_Gardet.zip",
     "category": "Decoration",
@@ -3629,6 +3613,22 @@
       0.15033823251724243,
       0.15033824741840363,
       0.4176570177078247
+    ]
+  },
+  {
+    "name": "Fuz Fanny Elssler",
+    "url": "Fuz_Fanny_Elssler.zip",
+    "category": "Decoration",
+    "hash": "126ba7a0ac0b78adb3abba0b25bc054ba662924c0316d36e73f9f53d17b64a5c",
+    "bbox_min": [
+      -0.1920827180147171,
+      -0.13367660343647003,
+      -0.0006022406159900129
+    ],
+    "bbox_max": [
+      0.13036899268627167,
+      0.15538129210472107,
+      0.313847154378891
     ]
   }
 ]
