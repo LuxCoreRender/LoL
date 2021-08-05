@@ -8526,5 +8526,837 @@
       0.05914035066962242,
       1.0136005878448486
     ]
+  },
+  {
+    "name": "Beatrix Console",
+    "url": "Beatrix_Console.zip",
+    "category": "Furniture",
+    "hash": "f1edd8b38ebeaa45cd2bb0a582c4726476b00433c0ce3b59f786c01dff583105",
+    "bbox_min": [
+      -0.7571619153022766,
+      -0.17499864101409912,
+      -0.0006206142716109753
+    ],
+    "bbox_max": [
+      0.7570655941963196,
+      0.22500135004520416,
+      0.6945511698722839
+    ]
+  },
+  {
+    "name": "Bed Ethno Afro",
+    "url": "Bed_Ethno_Afro.zip",
+    "category": "Furniture",
+    "hash": "ed841faeb71dc40e98d0739a457474e591e65300774ef23149595f63d47781ef",
+    "bbox_min": [
+      -1.192583441734314,
+      -1.0868052244186401,
+      -0.016143472865223885
+    ],
+    "bbox_max": [
+      1.1807154417037964,
+      0.9150824546813965,
+      1.153207540512085
+    ]
+  },
+  {
+    "name": "BISO I",
+    "url": "BISO_I.zip",
+    "category": "Furniture",
+    "hash": "6b9fa85d8bc08307fd0155c0c1fb7d3f742e4656390ecb5ba5bd149cf5fedfb5",
+    "bbox_min": [
+      -0.7267562747001648,
+      -0.4492017328739166,
+      3.4375076211290434e-05
+    ],
+    "bbox_max": [
+      0.2622663974761963,
+      0.449201762676239,
+      0.39972302317619324
+    ]
+  },
+  {
+    "name": "BISO II",
+    "url": "BISO_II.zip",
+    "category": "Furniture",
+    "hash": "1be9a4c9f313f38bd650b051c86d2355424cb29e4f634661be96356b9ff0e419",
+    "bbox_min": [
+      -0.3715828061103821,
+      -0.32747459411621094,
+      5.12402257299982e-05
+    ],
+    "bbox_max": [
+      0.3715828061103821,
+      0.11713048070669174,
+      0.4957543611526489
+    ]
+  },
+  {
+    "name": "Bul Ligne roset",
+    "url": "Bul_Ligne_roset.zip",
+    "category": "Light",
+    "hash": "5aa594996b4f73566dc4658db4eb3e5dca7aa2242a6325c18e6d893e42b951a9",
+    "bbox_min": [
+      -1.297688364982605,
+      -0.3385012447834015,
+      0.0
+    ],
+    "bbox_max": [
+      0.7518190741539001,
+      0.3385014832019806,
+      1.466723084449768
+    ]
+  },
+  {
+    "name": "Bumling Pendant Light",
+    "url": "Bumling_Pendant_Light.zip",
+    "category": "Light",
+    "hash": "81428facf377412e8f970cc988fb9ca2ab6c09da57d56d5709042929869ca718",
+    "bbox_min": [
+      -0.20016248524188995,
+      -0.20016251504421234,
+      -0.99476557970047
+    ],
+    "bbox_max": [
+      0.20016251504421234,
+      0.20016250014305115,
+      -2.884234220346116e-07
+    ]
+  },
+  {
+    "name": "CADAQUES 1Seat",
+    "url": "CADAQUES_1Seat.zip",
+    "category": "Furniture",
+    "hash": "df31fb66e441dfa2f40b492bd447a17e63885b04fc563712b7df1b50c6fee778",
+    "bbox_min": [
+      -0.509716272354126,
+      -1.0021767616271973,
+      0.0
+    ],
+    "bbox_max": [
+      0.5095188617706299,
+      0.01008052472025156,
+      0.7520512342453003
+    ]
+  },
+  {
+    "name": "CADAQUES 2Seat",
+    "url": "CADAQUES_2Seat.zip",
+    "category": "Furniture",
+    "hash": "9f8b8186a23e3763fe60102780334eb0bade99ff0cc70f0e0cde4191e1bcfb6c",
+    "bbox_min": [
+      -1.009716272354126,
+      -0.48311373591423035,
+      0.0
+    ],
+    "bbox_max": [
+      1.0095188617706299,
+      0.5291435718536377,
+      0.7520512342453003
+    ]
+  },
+  {
+    "name": "Carlo Showroom",
+    "url": "Carlo_Showroom.zip",
+    "category": "Furniture",
+    "hash": "07167298f93799590c20d55466258cbc0196bf4188db1e500fe1bc1a159df99f",
+    "bbox_min": [
+      -0.9850021600723267,
+      -0.8818161487579346,
+      -2.8163196930108825e-07
+    ],
+    "bbox_max": [
+      0.808425784111023,
+      0.9577100276947021,
+      0.7199999690055847
+    ]
+  },
+  {
+    "name": "Chair Vintage 01",
+    "url": "Chair_Vintage_01.zip",
+    "category": "Furniture",
+    "hash": "a5bf5f3e2ca1eae568a08139be653ab9e9e0bb701a04a7faa9ecee3a29fab0d8",
+    "bbox_min": [
+      -0.25193750858306885,
+      -0.2142956405878067,
+      -0.001972333760932088
+    ],
+    "bbox_max": [
+      0.25193750858306885,
+      0.25193750858306885,
+      0.7757989168167114
+    ]
+  },
+  {
+    "name": "Corpo Chair",
+    "url": "Corpo_Chair.zip",
+    "category": "Furniture",
+    "hash": "a104eb2c2bcf7abaa475156f6b537b38185923508c32e87320c0a2fd3db93b62",
+    "bbox_min": [
+      -0.2630000114440918,
+      -0.2606806457042694,
+      -3.8743017682918435e-09
+    ],
+    "bbox_max": [
+      0.2630000114440918,
+      0.2623637318611145,
+      0.7096492648124695
+    ]
+  },
+  {
+    "name": "Crystal Lounge Canape 2P",
+    "url": "Crystal_Lounge_Canape_2P.zip",
+    "category": "Furniture",
+    "hash": "94666596493e4bcc7a344dfe34c9dffaac7c58a7327bad9fddd99cb1fca3e76b",
+    "bbox_min": [
+      -1.4174753427505493,
+      -0.5441693663597107,
+      0.00040359795093536377
+    ],
+    "bbox_max": [
+      1.4174753427505493,
+      0.528206467628479,
+      0.841074526309967
+    ]
+  },
+  {
+    "name": "Crystal Lounge Canape 3P",
+    "url": "Crystal_Lounge_Canape_3P.zip",
+    "category": "Furniture",
+    "hash": "aa759fa59b7363d087a690a31fa0608630a2dfccfdb1fac5548847f39d02c4a4",
+    "bbox_min": [
+      -1.952905535697937,
+      -0.5154112577438354,
+      0.00040359795093536377
+    ],
+    "bbox_max": [
+      1.952905535697937,
+      0.5499600172042847,
+      0.841074526309967
+    ]
+  },
+  {
+    "name": "Crystal Lounge Sofa",
+    "url": "Crystal_Lounge_Sofa.zip",
+    "category": "Furniture",
+    "hash": "1aa59d1ad888d75d69f73146b699873872ff8d6678ad64e6ae7d456b66f059b3",
+    "bbox_min": [
+      -0.5390134453773499,
+      -0.5101729035377502,
+      0.00040359795093536377
+    ],
+    "bbox_max": [
+      0.5390134453773499,
+      0.528206467628479,
+      0.8234453797340393
+    ]
+  },
+  {
+    "name": "Fil Table Coffee",
+    "url": "Fil_Table_Coffee.zip",
+    "category": "Furniture",
+    "hash": "d2d134ab83bbbaab7144eaaf92466917c918a2ac102c3df988191f334d10a435",
+    "bbox_min": [
+      -0.35088056325912476,
+      -0.35092270374298096,
+      -0.0020935125648975372
+    ],
+    "bbox_max": [
+      0.35088053345680237,
+      0.35092270374298096,
+      0.3501710593700409
+    ]
+  },
+  {
+    "name": "FilSide Table",
+    "url": "FilSide_Table.zip",
+    "category": "Furniture",
+    "hash": "4cb1f1d9d3c407925e03747488eaffd1066dd79ba4606b15c43ad693d8b75fbd",
+    "bbox_min": [
+      -0.35088056325912476,
+      -0.35092270374298096,
+      -0.0020935125648975372
+    ],
+    "bbox_max": [
+      0.35088053345680237,
+      0.35092270374298096,
+      0.46017107367515564
+    ]
+  },
+  {
+    "name": "Flowerpot VP7 Pendant",
+    "url": "Flowerpot_VP7_Pendant.zip",
+    "category": "Light",
+    "hash": "c1935f74b9e81dea74b665dbe9e90352a0ed1f54d8cbaa47fa92e37495cb3d9b",
+    "bbox_min": [
+      -0.24984046816825867,
+      -0.24984997510910034,
+      -1.1189512014389038
+    ],
+    "bbox_max": [
+      0.24984042346477509,
+      0.2498309314250946,
+      0.0004720807773992419
+    ]
+  },
+  {
+    "name": "Gallotti Raj 23",
+    "url": "Gallotti_Raj_23.zip",
+    "category": "Furniture",
+    "hash": "f3925214b2c8a2c0be7106335f9691ae139f5a58d85c34f766dd42aae0c7315d",
+    "bbox_min": [
+      -0.4863244891166687,
+      -0.6837353706359863,
+      0.0
+    ],
+    "bbox_max": [
+      0.7227230668067932,
+      0.4154333472251892,
+      0.22999931871891022
+    ]
+  },
+  {
+    "name": "Gallotti Raj 33",
+    "url": "Gallotti_Raj_33.zip",
+    "category": "Furniture",
+    "hash": "93721854cbd3792f28dcb62ead0f870b0ae976cddba644b5bb7a680087cd918a",
+    "bbox_min": [
+      -0.3454970717430115,
+      -0.40522027015686035,
+      0.0
+    ],
+    "bbox_max": [
+      0.5598618984222412,
+      0.6219593286514282,
+      0.33288317918777466
+    ]
+  },
+  {
+    "name": "Gallotti Raj 40",
+    "url": "Gallotti_Raj_40.zip",
+    "category": "Furniture",
+    "hash": "70cdc0192e7658ebc6ce5b5335e1c92aaff4d283ece57a1687172075bbb18455",
+    "bbox_min": [
+      -0.20850400626659393,
+      -0.237179234623909,
+      0.0
+    ],
+    "bbox_max": [
+      0.4221791625022888,
+      0.17439031600952148,
+      0.4165763556957245
+    ]
+  },
+  {
+    "name": "Glo Pendant Light",
+    "url": "Glo_Pendant_Light.zip",
+    "category": "Light",
+    "hash": "946e9d1e6767c465a0f2921bc01b5b3f978c383e177cbc6a0f4e595347cfceeb",
+    "bbox_min": [
+      -0.19025716185569763,
+      -0.19025710225105286,
+      -1.6748846769332886
+    ],
+    "bbox_max": [
+      0.19025704264640808,
+      0.1902570277452469,
+      0.03836715966463089
+    ]
+  },
+  {
+    "name": "Glo Pendant Light II",
+    "url": "Glo_Pendant_Light_II.zip",
+    "category": "Light",
+    "hash": "b5fd08dbdbb7b55699d43932a0236d2af9b40babe65425a20eb47bb85f2cfa83",
+    "bbox_min": [
+      -0.19025716185569763,
+      -0.19025710225105286,
+      -1.6748846769332886
+    ],
+    "bbox_max": [
+      0.19025704264640808,
+      0.1902570277452469,
+      0.03836715966463089
+    ]
+  },
+  {
+    "name": "InTheMood 2Seat",
+    "url": "InTheMood_2Seat.zip",
+    "category": "Furniture",
+    "hash": "0e3a121e328c19e1901d92db54d0e2e84d7825be2e9d585062cd71216530b0d5",
+    "bbox_min": [
+      -1.1007968187332153,
+      -0.4474455714225769,
+      -0.0005267311353236437
+    ],
+    "bbox_max": [
+      1.135530948638916,
+      0.4680907726287842,
+      0.8131911158561707
+    ]
+  },
+  {
+    "name": "InTheMood 2Seat 01",
+    "url": "InTheMood_2Seat_01.zip",
+    "category": "Furniture",
+    "hash": "d53893d73b858964238594652767eb9c9d969833f44419449db1043cddc2e701",
+    "bbox_min": [
+      -0.9418109059333801,
+      -0.4474455714225769,
+      -0.0005267311353236437
+    ],
+    "bbox_max": [
+      1.072724461555481,
+      0.4680907726287842,
+      0.8131911158561707
+    ]
+  },
+  {
+    "name": "InTheMood 2Seat 02",
+    "url": "InTheMood_2Seat_02.zip",
+    "category": "Furniture",
+    "hash": "cba2368d5a4f0c3f6ff5f1fe2ba4e4b3610fd7ceb9553996bf9ff2bba72aac83",
+    "bbox_min": [
+      -1.074671745300293,
+      -0.4474455714225769,
+      -0.0005267311353236437
+    ],
+    "bbox_max": [
+      1.0728635787963867,
+      0.4680907726287842,
+      0.8131911158561707
+    ]
+  },
+  {
+    "name": "InTheMood 3Seat",
+    "url": "InTheMood_3Seat.zip",
+    "category": "Furniture",
+    "hash": "45cfe87f0de484ec8c8604fb53a4e470e5f624bc3514a287bb0d0f43c7b6012e",
+    "bbox_min": [
+      -1.5353446006774902,
+      -0.4474455714225769,
+      -0.0005267311353236437
+    ],
+    "bbox_max": [
+      1.5353436470031738,
+      0.4681771397590637,
+      0.8131911158561707
+    ]
+  },
+  {
+    "name": "Jabot Table 140",
+    "url": "Jabot_Table_140.zip",
+    "category": "Furniture",
+    "hash": "38dcaa58f76a8140165c654cbda9c581f90d3f1b9438439c78027cd270276759",
+    "bbox_min": [
+      -0.6960889101028442,
+      -0.45262983441352844,
+      0.00013219183892942965
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7197514176368713
+    ]
+  },
+  {
+    "name": "Jabot Table 200",
+    "url": "Jabot_Table_200.zip",
+    "category": "Furniture",
+    "hash": "d9217af87c9e43197f6489f481b81937449bf847e2db326146b1954d7f670222",
+    "bbox_min": [
+      -0.9960888624191284,
+      -0.45262983441352844,
+      0.00013219183892942965
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7197514176368713
+    ]
+  },
+  {
+    "name": "Jhon 2Seat",
+    "url": "Jhon_2Seat.zip",
+    "category": "Furniture",
+    "hash": "6734c103b5b7d46a1d094c7a8f44fa5796e09b0e0ed384cc23b39b114935996a",
+    "bbox_min": [
+      -0.9330235719680786,
+      -0.4796030521392822,
+      0.00015635788440704346
+    ],
+    "bbox_max": [
+      0.9330235719680786,
+      0.47713762521743774,
+      0.6983190774917603
+    ]
+  },
+  {
+    "name": "Jhon 3Seat",
+    "url": "Jhon_3Seat.zip",
+    "category": "Furniture",
+    "hash": "873cd4fd4493471d3a9193eeb68b05578149c927af40c5da112ab9a32975416e",
+    "bbox_min": [
+      -1.2500271797180176,
+      -0.480488121509552,
+      0.00015635788440704346
+    ],
+    "bbox_max": [
+      1.2464044094085693,
+      0.4774380326271057,
+      0.6983190774917603
+    ]
+  },
+  {
+    "name": "Jules Chair Ikea",
+    "url": "Jules_Chair_Ikea.zip",
+    "category": "Furniture",
+    "hash": "0f93db24abe4fb6bc963094d74176872dba2435581cf60a7ed5f4e7afd3050d6",
+    "bbox_min": [
+      -0.31149783730506897,
+      -0.2726004123687744,
+      -0.0006572641432285309
+    ],
+    "bbox_max": [
+      0.3122120797634125,
+      0.32214242219924927,
+      0.8001984357833862
+    ]
+  },
+  {
+    "name": "Kasteel Console Table",
+    "url": "Kasteel_Console_Table.zip",
+    "category": "Furniture",
+    "hash": "d605680f01ab8d532ce590b21eac4de262b7ff165131c0f9d381ddbc5e2bdaa5",
+    "bbox_min": [
+      -0.75,
+      -0.1899999976158142,
+      0.00015180138871073723
+    ],
+    "bbox_max": [
+      0.75,
+      0.21000000834465027,
+      0.699999988079071
+    ]
+  },
+  {
+    "name": "Lasco Dining Chair",
+    "url": "Lasco_Dining_Chair.zip",
+    "category": "Furniture",
+    "hash": "8b457fad66d5ee237d1790aee3e0003f771cdfc6edb385ab258e044d1a724c7b",
+    "bbox_min": [
+      -0.2653413414955139,
+      -0.23571249842643738,
+      -2.7406561395326712e-11
+    ],
+    "bbox_max": [
+      0.2653413414955139,
+      0.2653413414955139,
+      0.7416980862617493
+    ]
+  },
+  {
+    "name": "LC7 SWIVEL CHAIR",
+    "url": "LC7_SWIVEL_CHAIR.zip",
+    "category": "Furniture",
+    "hash": "367b3012410d0326796f58e77be96849bb6328f4ad9417d37f9e99f8c1f89d6e",
+    "bbox_min": [
+      -0.31153494119644165,
+      -0.23887795209884644,
+      -0.0004045968526042998
+    ],
+    "bbox_max": [
+      0.31153494119644165,
+      0.31153494119644165,
+      0.7309202551841736
+    ]
+  },
+  {
+    "name": "Mandala Sculpture 351",
+    "url": "Mandala_Sculpture_351.zip",
+    "category": "Decoration",
+    "hash": "66c7644c959cef3386c17f620c666da9de02a6dad37b9769cfba5a159b991e2f",
+    "bbox_min": [
+      -0.3709702789783478,
+      -0.11553177982568741,
+      -0.014992477372288704
+    ],
+    "bbox_max": [
+      0.3219146430492401,
+      0.11553177982568741,
+      2.2162132263183594
+    ]
+  },
+  {
+    "name": "Oblong Dining Table",
+    "url": "Oblong_Dining_Table.zip",
+    "category": "Furniture",
+    "hash": "dd654206f13492b4274f30b6ccd3e602431bba38feb99f70b947fab43ee43002",
+    "bbox_min": [
+      -1.25,
+      -0.5,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.5,
+      0.699999988079071
+    ]
+  },
+  {
+    "name": "Oscar Table 140",
+    "url": "Oscar_Table_140.zip",
+    "category": "Furniture",
+    "hash": "d45df3e6e666313a3ac7694b4045c996e9572e4444761185d675e573b7e73e3f",
+    "bbox_min": [
+      -0.6914215087890625,
+      -0.45922645926475525,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7434169054031372
+    ]
+  },
+  {
+    "name": "Oscar Table 180",
+    "url": "Oscar_Table_180.zip",
+    "category": "Furniture",
+    "hash": "1b61df42599d3df5707f14eeb2a9335777b0d89ad2359623e5ae09c48fd3bc40",
+    "bbox_min": [
+      -0.9414214491844177,
+      -0.45922645926475525,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.7434169054031372
+    ]
+  },
+  {
+    "name": "Oviedo Long Chair",
+    "url": "Oviedo_Long_Chair.zip",
+    "category": "Furniture",
+    "hash": "6fb8c11cfcbf1058282cc20a646013080556c8df59c29eb7e2253dafc673ffec",
+    "bbox_min": [
+      -0.8294375538825989,
+      -0.34893447160720825,
+      0.0
+    ],
+    "bbox_max": [
+      0.8646851778030396,
+      0.35302188992500305,
+      0.8786945343017578
+    ]
+  },
+  {
+    "name": "Prism Mirror Table",
+    "url": "Prism_Mirror_Table.zip",
+    "category": "Furniture",
+    "hash": "267438705274600c656854fa3c0531b0e7800fc228a45ec94aef4619540844e6",
+    "bbox_min": [
+      -1.2000000476837158,
+      -0.44999998807907104,
+      0.0010027289390563965
+    ],
+    "bbox_max": [
+      1.2000000476837158,
+      0.44999998807907104,
+      0.7300000190734863
+    ]
+  },
+  {
+    "name": "Ralph Pucci Arcade",
+    "url": "Ralph_Pucci_Arcade.zip",
+    "category": "Furniture",
+    "hash": "f21a6a3e6d4eaa7774fe356b563e96bedde192cf415664e18da3fcafa4f52e3a",
+    "bbox_min": [
+      -0.7571619153022766,
+      -0.17499864101409912,
+      -0.0006206142716109753
+    ],
+    "bbox_max": [
+      0.7570655941963196,
+      0.1750013530254364,
+      0.6945511698722839
+    ]
+  },
+  {
+    "name": "Roly Poly Chair",
+    "url": "Roly_Poly_Chair.zip",
+    "category": "Furniture",
+    "hash": "5d52f190ddaeda8df0380916bfe31ef24779ff76bbfa55ba2f2c4df142285218",
+    "bbox_min": [
+      -0.44231098890304565,
+      -0.3098892271518707,
+      -0.0012853285297751427
+    ],
+    "bbox_max": [
+      0.44231098890304565,
+      0.30349406599998474,
+      0.6178157925605774
+    ]
+  },
+  {
+    "name": "Roly Poly Dining",
+    "url": "Roly_Poly_Dining.zip",
+    "category": "Furniture",
+    "hash": "0fc3a96cbc5186e1d919ad173c154b119e1826434ca27b59ccd6f95dd3f744a6",
+    "bbox_min": [
+      -0.350790798664093,
+      -0.27356693148612976,
+      -0.001468143193051219
+    ],
+    "bbox_max": [
+      0.350790798664093,
+      0.26257601380348206,
+      0.748597264289856
+    ]
+  },
+  {
+    "name": "Roly Poly Side Table",
+    "url": "Roly_Poly_Side_Table.zip",
+    "category": "Furniture",
+    "hash": "63abd57746640615467b6acb1cf1768b95c362a40e71a6623bea6088b6209c4a",
+    "bbox_min": [
+      -0.17419233918190002,
+      -0.17419233918190002,
+      0.0003317657101433724
+    ],
+    "bbox_max": [
+      0.17419233918190002,
+      0.17419233918190002,
+      0.39926669001579285
+    ]
+  },
+  {
+    "name": "Roly Poly Table",
+    "url": "Roly_Poly_Table.zip",
+    "category": "Furniture",
+    "hash": "c7786e3790d0e58385a55d9f94101de24d3050d9529b2858adfe62d71ff1c071",
+    "bbox_min": [
+      -0.7052961587905884,
+      -0.7052961587905884,
+      -0.0032851353753358126
+    ],
+    "bbox_max": [
+      0.7052961587905884,
+      0.7052961587905884,
+      0.7486933469772339
+    ]
+  },
+  {
+    "name": "Shimmer Table",
+    "url": "Shimmer_Table.zip",
+    "category": "Furniture",
+    "hash": "5d89b3d01bcf2f221b90d570c11abcb2133ff7cc8591c800cdfd05035e261860",
+    "bbox_min": [
+      -0.5995400547981262,
+      -0.3254290819168091,
+      -0.0017454565968364477
+    ],
+    "bbox_max": [
+      0.0,
+      0.3254290819168091,
+      0.42476701736450195
+    ]
+  },
+  {
+    "name": "Table Giorgio",
+    "url": "Table_Giorgio.zip",
+    "category": "Furniture",
+    "hash": "f938429c23005007ab8e37b0a7d759696fa5d7d20d2103bc30a25d89447f41f3",
+    "bbox_min": [
+      -1.2499998807907104,
+      -0.5,
+      0.00042025744915008545
+    ],
+    "bbox_max": [
+      0.0,
+      0.5,
+      0.699999988079071
+    ]
+  },
+  {
+    "name": "Tinatin Long Bench",
+    "url": "Tinatin_Long_Bench.zip",
+    "category": "Furniture",
+    "hash": "04d1607199205e8bd4ff372011f1b6dba34eb1b6cc4685c8dfb3ed1b93c9d68f",
+    "bbox_min": [
+      -1.4496961832046509,
+      -0.15000000596046448,
+      -0.0016467869281768799
+    ],
+    "bbox_max": [
+      1.4496961832046509,
+      0.15000000596046448,
+      0.5363140106201172
+    ]
+  },
+  {
+    "name": "Togo Sofa Chauffeuse",
+    "url": "Togo_Sofa_Chauffeuse.zip",
+    "category": "Furniture",
+    "hash": "e338f7e1e5a0cbce586586867f9c3bbd7073160c06ccbcc0d43ccf1e2925da76",
+    "bbox_min": [
+      -0.43068739771842957,
+      -0.5070494413375854,
+      -0.009923209436237812
+    ],
+    "bbox_max": [
+      0.42771822214126587,
+      0.5200154781341553,
+      0.7211389541625977
+    ]
+  },
+  {
+    "name": "Togo Sofa Grande Banquette",
+    "url": "Togo_Sofa_Grande_Banquette.zip",
+    "category": "Furniture",
+    "hash": "04b5e3b9a05aec4b8e89d5413c2e3a20d008bb40ce93f69bbadc1ed6883f571f",
+    "bbox_min": [
+      -0.796006441116333,
+      -0.5185630917549133,
+      -0.013198252767324448
+    ],
+    "bbox_max": [
+      0.796006441116333,
+      0.505638062953949,
+      0.718993067741394
+    ]
+  },
+  {
+    "name": "Togo Sofa Pouf",
+    "url": "Togo_Sofa_Pouf.zip",
+    "category": "Furniture",
+    "hash": "e4d053b4717406ba096e005a3f80c43862f3ea35d52df64678b824bf3d0c24ab",
+    "bbox_min": [
+      -0.3954482674598694,
+      -0.4169186055660248,
+      0.0002843121765181422
+    ],
+    "bbox_max": [
+      0.39838743209838867,
+      0.41986244916915894,
+      0.403143972158432
+    ]
+  },
+  {
+    "name": "Togo Sofa Small Banquette",
+    "url": "Togo_Sofa_Small_Banquette.zip",
+    "category": "Furniture",
+    "hash": "6a8fc2dcff6ff8339872807159acb67629efe1951979e567d35dc0fba0b3f40f",
+    "bbox_min": [
+      -0.6051449775695801,
+      -0.5218601822853088,
+      -0.004258030094206333
+    ],
+    "bbox_max": [
+      0.6076974272727966,
+      0.5159675478935242,
+      0.7266345024108887
+    ]
   }
 ]
