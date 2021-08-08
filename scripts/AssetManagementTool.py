@@ -532,7 +532,7 @@ class LOLUploadTOCOperator(Operator):
         bytestream2.seek(0)
         
         if ui_props.blendermarket_assets:
-            filename = 'assets_model_patreon.json'
+            filename = 'assets_model_blendermarket.json'
         elif ui_props.asset_type == 'MATERIAL':
             filename = 'assets_material.json'
         else: 
@@ -629,7 +629,7 @@ class LOLUpdateGitRepositoy(Operator):
         ui_props = context.scene.editAsset
         
         if ui_props.blendermarket_assets:
-            filename = 'assets_model_patreon.json'
+            filename = 'assets_model_blendermarket.json'
         elif ui_props.asset_type == 'MATERIAL':
             filename = 'assets_material.json'
         else: 
@@ -701,7 +701,7 @@ class LOLUpdateGitRepositoy(Operator):
         chdir(ui_props.repopath)
         
         if ui_props.blendermarket_assets:
-            filename = 'assets_model_patreon.json'
+            filename = 'assets_model_blendermarket.json'
         elif ui_props.asset_type == 'MATERIAL':
             filename = 'assets_material.json'
         else: 
