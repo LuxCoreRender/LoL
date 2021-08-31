@@ -10623,5 +10623,1348 @@
       0.44791388511657715,
       1.8986637592315674
     ]
+  },
+  {
+    "name": "Allmoderne Linked Table",
+    "url": "Allmoderne_Linked_Table.zip",
+    "category": "Furniture",
+    "hash": "a692a787b331c6de6963883c70469b8f975f800c527a39aeb609fa22e20b5a35",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6366971731185913,
+      -0.6366971731185913,
+      -0.0017573988297954202
+    ],
+    "bbox_max": [
+      0.6366971731185913,
+      0.6366971731185913,
+      0.7125886678695679
+    ]
+  },
+  {
+    "name": "Artek A110 Suspension",
+    "url": "Artek_A110_Suspension.zip",
+    "category": "Furniture",
+    "hash": "b97b7de84d71b9a74784a91a12fc914e6f2c8ba269de41d03a28d8fcea408aeb",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.07582171261310577,
+      -0.07582182437181473,
+      -1.4026700258255005
+    ],
+    "bbox_max": [
+      0.07582182437181473,
+      0.07582177221775055,
+      0.00012067454372299835
+    ]
+  },
+  {
+    "name": "Bahati Chair",
+    "url": "Bahati_Chair.zip",
+    "category": "Furniture",
+    "hash": "e0d3773015c4946658434e36f65c038d95a925dd1964466ceb92760ccbf76c55",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.25693586468696594,
+      -0.2616286277770996,
+      0.00017749745165929198
+    ],
+    "bbox_max": [
+      0.25693586468696594,
+      0.2739830017089844,
+      0.7744582891464233
+    ]
+  },
+  {
+    "name": "Black Console",
+    "url": "Black_Console.zip",
+    "category": "Furniture",
+    "hash": "bbe7d23a222a8ebdadd3e72bc3c6aef298014a01a593262da1dfc29864a80d38",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.75,
+      -0.19920019805431366,
+      0.00013887882232666016
+    ],
+    "bbox_max": [
+      0.75,
+      0.20079980790615082,
+      0.8137715458869934
+    ]
+  },
+  {
+    "name": "Bookshelf Cubic Spiral",
+    "url": "Bookshelf_Cubic_Spiral.zip",
+    "category": "Furniture",
+    "hash": "d23cb68f4bf5fdadf23fb8b90cfc0ca85f8b1ee0135894f1166b6c41ce2de33b",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.17709673941135406,
+      -0.16533736884593964,
+      8.195218015316641e-07
+    ],
+    "bbox_max": [
+      0.17709656059741974,
+      0.17779456079006195,
+      0.3541939854621887
+    ]
+  },
+  {
+    "name": "Bookshelf Random",
+    "url": "Bookshelf_Random.zip",
+    "category": "Furniture",
+    "hash": "d86071018fa852ef11d53b66458e8ae90b628d6c0f6410e7059a2be66c7eace3",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -1.4338868856430054,
+      -0.1688268631696701,
+      -0.0016567303100600839
+    ],
+    "bbox_max": [
+      1.5661131143569946,
+      0.23117314279079437,
+      2.648343086242676
+    ]
+  },
+  {
+    "name": "Boulon Lamp",
+    "url": "Boulon_Lamp.zip",
+    "category": "Light",
+    "hash": "d09d243a8b165715ffbf4787ccb2a45a409051edbe639dc26a9b7980ca8fda86",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2778901159763336,
+      -0.24557699263095856,
+      -0.005089770071208477
+    ],
+    "bbox_max": [
+      0.24557699263095856,
+      0.24557699263095856,
+      1.7870800495147705
+    ]
+  },
+  {
+    "name": "Bulbe Table",
+    "url": "Bulbe_Table.zip",
+    "category": "Furniture",
+    "hash": "de7ddcca3baac426b366563965392da4b0b5b00cb960f07be331bbe84e779bd9",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6107595562934875,
+      -0.6107595562934875,
+      0.0
+    ],
+    "bbox_max": [
+      0.6107595562934875,
+      0.6107595562934875,
+      0.7156369686126709
+    ]
+  },
+  {
+    "name": "Cardinal Round Table",
+    "url": "Cardinal_Round_Table.zip",
+    "category": "Furniture",
+    "hash": "63ef040c7d8e77d49370d1dc7c8d3c1c8721fe34ecc9b5cff349c08420bdcd02",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6000000238418579,
+      -0.6000000238418579,
+      0.0
+    ],
+    "bbox_max": [
+      0.6000000238418579,
+      0.6000000238418579,
+      0.7500000596046448
+    ]
+  },
+  {
+    "name": "Cardinal Wood Table",
+    "url": "Cardinal_Wood_Table.zip",
+    "category": "Furniture",
+    "hash": "500254421b0686b36ed0a605f885f1257ce9d55c4820f2a38a0e086122875532",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.7997310161590576,
+      -0.7997300624847412,
+      2.9802322387695312e-08
+    ],
+    "bbox_max": [
+      0.7997310161590576,
+      0.799731969833374,
+      0.7500000596046448
+    ]
+  },
+  {
+    "name": "Cb2 Table",
+    "url": "Cb2_Table.zip",
+    "category": "Furniture",
+    "hash": "74de4aef939bfb71920bdd2cfd3633341ef345acbca6f98a29739cc8158be86a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6181080341339111,
+      -0.6181080341339111,
+      -0.004712916444987059
+    ],
+    "bbox_max": [
+      0.6181080341339111,
+      0.6181080341339111,
+      0.7245771884918213
+    ]
+  },
+  {
+    "name": "Cees Braakman FB03",
+    "url": "Cees_Braakman_FB03.zip",
+    "category": "Furniture",
+    "hash": "36f7d6db42feaa0934617d74c3a32d24a044ae8f2ccfa61404bb5d856a13c513",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.35166606307029724,
+      -0.24931634962558746,
+      -0.008638125844299793
+    ],
+    "bbox_max": [
+      0.35166606307029724,
+      0.5211349129676819,
+      0.7942019104957581
+    ]
+  },
+  {
+    "name": "Cesca Chair",
+    "url": "Cesca_Chair.zip",
+    "category": "Furniture",
+    "hash": "c147d890e2d87fa1366750ebb8b11561c9ba3df2d1041bde6d4c1b6c3074daa8",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.29632437229156494,
+      -0.28818318247795105,
+      0.0002281417982885614
+    ],
+    "bbox_max": [
+      0.29632437229156494,
+      0.30385157465934753,
+      0.8051875233650208
+    ]
+  },
+  {
+    "name": "Cesca Chair No2",
+    "url": "Cesca_Chair_No2.zip",
+    "category": "Furniture",
+    "hash": "33e0f9b03e0dfe467c000993db1d10b4f22a17ba674f2cece77a7530e9f6824c",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.23226068913936615,
+      -0.28754037618637085,
+      0.0002281417982885614
+    ],
+    "bbox_max": [
+      0.23226068913936615,
+      0.30385157465934753,
+      0.8051875233650208
+    ]
+  },
+  {
+    "name": "Cesca Chair SoftSeat",
+    "url": "Cesca_Chair_SoftSeat.zip",
+    "category": "Furniture",
+    "hash": "ae089b8ff661df8316944aa7f1f0935b9179d058b9f1577219b4dade041fa665",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.23959258198738098,
+      -0.2869167625904083,
+      0.003976226784288883
+    ],
+    "bbox_max": [
+      0.2401263415813446,
+      0.3000231981277466,
+      0.8041901588439941
+    ]
+  },
+  {
+    "name": "CH25 Lounge Chair",
+    "url": "CH25_Lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "05234900cf8c816656fa1c1795927cb1440f5af515371198a97a41cfbf8ff2be",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.3860871493816376,
+      -0.3552019000053406,
+      -0.002740670694038272
+    ],
+    "bbox_max": [
+      0.3860871493816376,
+      0.39136433601379395,
+      0.7298964262008667
+    ]
+  },
+  {
+    "name": "Classic Ball Suspension",
+    "url": "Classic_Ball_Suspension.zip",
+    "category": "Light",
+    "hash": "80f5a0ee9bde0ba96ef31fa724deab7d6a064eaa313718d7bea7aef2ad5dbd99",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.30219143629074097,
+      -0.2786712348461151,
+      -1.5457364320755005
+    ],
+    "bbox_max": [
+      0.21443450450897217,
+      0.2786712348461151,
+      0.007303041405975819
+    ]
+  },
+  {
+    "name": "Conik Table",
+    "url": "Conik_Table.zip",
+    "category": "Furniture",
+    "hash": "1f97a833d9049599b787d12d978c0238807d71f0ad4a7fad4590a94cdde30a0a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5611246228218079,
+      -0.5611246824264526,
+      0.0
+    ],
+    "bbox_max": [
+      0.5611246824264526,
+      0.5611246824264526,
+      0.7393549084663391
+    ]
+  },
+  {
+    "name": "Double Konix Table",
+    "url": "Double_Konix_Table.zip",
+    "category": "Furniture",
+    "hash": "8918b459bfea2b01d846882a338c4dda5f03502680cc9d1929a19f768d4d1ebc",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.7300283908843994,
+      -0.7300283908843994,
+      0.0
+    ],
+    "bbox_max": [
+      0.7300283908843994,
+      0.7300283908843994,
+      0.7174809575080872
+    ]
+  },
+  {
+    "name": "Eams Armchair",
+    "url": "Eams_Armchair.zip",
+    "category": "Furniture",
+    "hash": "c8614a4e0ffb08d6fbcc277ceedf533926a335887799c153ce9e35d11dc21916",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.31314903497695923,
+      -0.2707262635231018,
+      0.0
+    ],
+    "bbox_max": [
+      0.31314903497695923,
+      0.30045852065086365,
+      0.8361401557922363
+    ]
+  },
+  {
+    "name": "Eams Armchair Soft",
+    "url": "Eams_Armchair_Soft.zip",
+    "category": "Furniture",
+    "hash": "dad012a5b2d43642a7ad2c3ab27917f526c766360d158753efda66c8b5019afd",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.3121793866157532,
+      -0.27989596128463745,
+      0.0
+    ],
+    "bbox_max": [
+      0.31217941641807556,
+      0.299877405166626,
+      0.8433054685592651
+    ]
+  },
+  {
+    "name": "Eams Armchair Soft V2",
+    "url": "Eams_Armchair_Soft_V2.zip",
+    "category": "Furniture",
+    "hash": "d6262a322b839ca2e10704c73d044db1d6db93e5f797c0e47460c7df3a77d2e3",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.31314903497695923,
+      -0.2715117931365967,
+      0.0
+    ],
+    "bbox_max": [
+      0.31314903497695923,
+      0.30045852065086365,
+      0.8361401557922363
+    ]
+  },
+  {
+    "name": "Eams Chair",
+    "url": "Eams_Chair.zip",
+    "category": "Furniture",
+    "hash": "b6ddae8f55b6c59fe789eef5202dae6d21b7832dcad14375231fcfa681a1115a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.24370820820331573,
+      -0.2583039402961731,
+      0.0004010491247754544
+    ],
+    "bbox_max": [
+      0.24370820820331573,
+      0.3030344843864441,
+      0.8356057405471802
+    ]
+  },
+  {
+    "name": "Edge Table",
+    "url": "Edge_Table.zip",
+    "category": "Furniture",
+    "hash": "efd7c5f20d920da83e83bf9abb21329d83f59539726fb18429f37b494f88e6ef",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -1.0000004768371582,
+      -0.4000000059604645,
+      0.0
+    ],
+    "bbox_max": [
+      1.0000004768371582,
+      0.4000000059604645,
+      0.7000000476837158
+    ]
+  },
+  {
+    "name": "Eks Table",
+    "url": "Eks_Table.zip",
+    "category": "Furniture",
+    "hash": "1fcc159f0ecbb5ba98194063596ede36246b259f252dd16051503dd64e8bb359",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5730129480361938,
+      -0.5730129480361938,
+      0.0004037448379676789
+    ],
+    "bbox_max": [
+      0.5730129480361938,
+      0.5730129480361938,
+      0.7072630524635315
+    ]
+  },
+  {
+    "name": "Flosy Rosy Floor Lamp",
+    "url": "Flosy_Rosy_Floor_Lamp.zip",
+    "category": "Light",
+    "hash": "11af23407194e50a67fd5fc6a4e7f73eb80460441d7f00f81047bdd576aaf682",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.23257353901863098,
+      -0.23069530725479126,
+      -0.001431570970453322
+    ],
+    "bbox_max": [
+      0.24949955940246582,
+      0.2770251929759979,
+      1.7809323072433472
+    ]
+  },
+  {
+    "name": "Hotte Smeg KBT9L4VN",
+    "url": "Hotte_Smeg_KBT9L4VN.zip",
+    "category": "Kitchen",
+    "hash": "1bfcafc05ef7d472d180c914827d1f92adcfd7b87a5ef5d5bf0e476e0a2fa3b0",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.45000001788139343,
+      -0.25501343607902527,
+      -0.0005458699888549745
+    ],
+    "bbox_max": [
+      0.45000001788139343,
+      0.20000006258487701,
+      1.0799999237060547
+    ]
+  },
+  {
+    "name": "Ikea 30 Stool",
+    "url": "Ikea_30_Stool.zip",
+    "category": "Furniture",
+    "hash": "2e3688279c026f9e6a09192ae5499672a88d2456ce1ba6af5e1379c57e91565c",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.18538916110992432,
+      -0.18538916110992432,
+      -0.0002120472490787506
+    ],
+    "bbox_max": [
+      0.18538916110992432,
+      0.18538916110992432,
+      0.4186621606349945
+    ]
+  },
+  {
+    "name": "Ikea Table Coffee",
+    "url": "Ikea_Table_Coffee.zip",
+    "category": "Furniture",
+    "hash": "3078e14606540f959d3eaab7fe2cf0f95ecf83cf681a60982c683eeb98af4f5a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5537121891975403,
+      -0.5537122488021851,
+      0.0
+    ],
+    "bbox_max": [
+      0.5537122488021851,
+      0.5537122488021851,
+      0.7169352769851685
+    ]
+  },
+  {
+    "name": "Jacande Table",
+    "url": "Jacande_Table.zip",
+    "category": "Furniture",
+    "hash": "33eb0a469fd6fc8d7ec55254d77f265b92ad3d1adca10ca678ecd93c6a76eb7c",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.4481373131275177,
+      -0.4481373131275177,
+      9.080221207113937e-05
+    ],
+    "bbox_max": [
+      0.4481373131275177,
+      0.4481373131275177,
+      0.7500005960464478
+    ]
+  },
+  {
+    "name": "Johanna Armchair",
+    "url": "Johanna_Armchair.zip",
+    "category": "Furniture",
+    "hash": "1c62a19074e9682e462db699f6f8021f70b96860e06ce37b63e81fb1ea9fc939",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.28040164709091187,
+      -0.27078133821487427,
+      -0.0017630263464525342
+    ],
+    "bbox_max": [
+      0.28040164709091187,
+      0.28021949529647827,
+      0.7852954268455505
+    ]
+  },
+  {
+    "name": "Johanna Side Chair",
+    "url": "Johanna_Side_Chair.zip",
+    "category": "Furniture",
+    "hash": "648b3d2b7ada40e0549a3f0f559b1c113aa712ebabfea962e8c658337a2f9309",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.25603005290031433,
+      -0.23637433350086212,
+      -0.0017257618019357324
+    ],
+    "bbox_max": [
+      0.25603005290031433,
+      0.30954113602638245,
+      0.7856147885322571
+    ]
+  },
+  {
+    "name": "Joyson Stool",
+    "url": "Joyson_Stool.zip",
+    "category": "Furniture",
+    "hash": "02930391971c4d8b1898d3fb28bd547d69b8d26e06ee2970091d6cb406fa3810",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.1732623279094696,
+      -0.1732623279094696,
+      -0.0002961053978651762
+    ],
+    "bbox_max": [
+      0.1732623279094696,
+      0.1732623279094696,
+      0.4026328921318054
+    ]
+  },
+  {
+    "name": "Kangaroo Lounge Chair",
+    "url": "Kangaroo_Lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "4fe57404b6e793ec5d98063d8a40a6e15c8f3b25ecf5cda0d2d03cfde30c7b84",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.3148081302642822,
+      -0.36679697036743164,
+      -0.00022037520830053836
+    ],
+    "bbox_max": [
+      0.3148081302642822,
+      0.5049989223480225,
+      0.6536659002304077
+    ]
+  },
+  {
+    "name": "Kartell Stool",
+    "url": "Kartell_Stool.zip",
+    "category": "Furniture",
+    "hash": "7051bef9e11f2d1bace890ded83dc5c09e84f237bebe164e2c734cc7ce4c5a13",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.15172649919986725,
+      -0.15172654390335083,
+      -0.0008847564458847046
+    ],
+    "bbox_max": [
+      0.1517266184091568,
+      0.15172657370567322,
+      0.4104403555393219
+    ]
+  },
+  {
+    "name": "Knees Table",
+    "url": "Knees_Table.zip",
+    "category": "Furniture",
+    "hash": "69a07994e1fe5c83a28ebd1e6c89029ba6f825e935329284ffaf0edc1073209e",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.7451964020729065,
+      -0.7451964020729065,
+      -0.00017875432968139648
+    ],
+    "bbox_max": [
+      0.7451964020729065,
+      0.7451964020729065,
+      0.7500005960464478
+    ]
+  },
+  {
+    "name": "Langham Dining Chair",
+    "url": "Langham_Dining_Chair.zip",
+    "category": "Furniture",
+    "hash": "b6484f03119cf2f160e4cd135f0e01ea89ab3ac7688f9d435329b410ed1ff2da",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.28931134939193726,
+      -0.2025504857301712,
+      -0.001431783428415656
+    ],
+    "bbox_max": [
+      0.28931134939193726,
+      0.3223687410354614,
+      0.8111161589622498
+    ]
+  },
+  {
+    "name": "Langham Dining Chair Leather",
+    "url": "Langham_Dining_Chair_Leather.zip",
+    "category": "Furniture",
+    "hash": "8fcab25759b9417c46e8a014ecec7bd284ed033839a15be741eb97a956a25189",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2885231673717499,
+      -0.2003961205482483,
+      -0.0013977477792650461
+    ],
+    "bbox_max": [
+      0.2885231673717499,
+      0.3212210237979889,
+      0.8096703290939331
+    ]
+  },
+  {
+    "name": "Large EKS Table",
+    "url": "Large_EKS_Table.zip",
+    "category": "Furniture",
+    "hash": "8792844327281c628b3e42c53c566acf4aaf78a2a8f5817fbf0470d357aaac16",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5119332075119019,
+      -0.5119332075119019,
+      -0.006734364666044712
+    ],
+    "bbox_max": [
+      0.5119332075119019,
+      0.5119332075119019,
+      0.7225982546806335
+    ]
+  },
+  {
+    "name": "Lippa Chair",
+    "url": "Lippa_Chair.zip",
+    "category": "Furniture",
+    "hash": "12d19ba27c31570b4e47170e79e748659dddacce48c8873994319dfa2589f6e7",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2677809000015259,
+      -0.2938639223575592,
+      -0.00011883368279086426
+    ],
+    "bbox_max": [
+      0.2677809000015259,
+      0.2978151738643646,
+      0.8403038382530212
+    ]
+  },
+  {
+    "name": "Moutarde Table",
+    "url": "Moutarde_Table.zip",
+    "category": "Furniture",
+    "hash": "b504282e3a747884f31698ddaf747ed489af0a7b9b4880a657028bcaff676c4d",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.49893903732299805,
+      -0.49893903732299805,
+      0.0007987320423126221
+    ],
+    "bbox_max": [
+      0.49893903732299805,
+      0.49893903732299805,
+      0.7199999690055847
+    ]
+  },
+  {
+    "name": "Nina Chair",
+    "url": "Nina_Chair.zip",
+    "category": "Furniture",
+    "hash": "78420f7c8de462ee94955d6b2e66c8550546003f51114614ec7b1a2e4bb2b62d",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.31835123896598816,
+      -0.30074092745780945,
+      2.8937540264450945e-05
+    ],
+    "bbox_max": [
+      0.31835126876831055,
+      0.3134848475456238,
+      0.7944042682647705
+    ]
+  },
+  {
+    "name": "Nina Chair C",
+    "url": "Nina_Chair_C.zip",
+    "category": "Furniture",
+    "hash": "ec0d46b7883761f9d79adeb603bde6ea69725a30c267e570588ca41343a728cc",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.31835123896598816,
+      -0.30074092745780945,
+      -0.002708669286221266
+    ],
+    "bbox_max": [
+      0.31835126876831055,
+      0.3134848475456238,
+      0.7944042682647705
+    ]
+  },
+  {
+    "name": "Nina Chair D",
+    "url": "Nina_Chair_D.zip",
+    "category": "Furniture",
+    "hash": "e6b6504c20de92c5d9c11709d49a88761b2bcd8976188c06aae47c175965d322",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.340249240398407,
+      -0.3896738886833191,
+      -0.008081045001745224
+    ],
+    "bbox_max": [
+      0.4009545147418976,
+      0.3896738886833191,
+      0.7944042682647705
+    ]
+  },
+  {
+    "name": "Overstock Stool",
+    "url": "Overstock_Stool.zip",
+    "category": "Furniture",
+    "hash": "43ea141f8da7306237ae3fe08b6e25e5d4954be6e4974fdee5481de908903050",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.17853280901908875,
+      -0.17853283882141113,
+      -0.0009379386901855469
+    ],
+    "bbox_max": [
+      0.17853280901908875,
+      0.17853280901908875,
+      0.3948187530040741
+    ]
+  },
+  {
+    "name": "Panthella Floor Lamp",
+    "url": "Panthella_Floor_Lamp.zip",
+    "category": "Light",
+    "hash": "466f222239d39d06c0f226e94528d30acad712ced65cda8d645a02b89a24ffc0",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2595812678337097,
+      -0.25958123803138733,
+      0.0
+    ],
+    "bbox_max": [
+      0.25958123803138733,
+      0.25958123803138733,
+      1.303909420967102
+    ]
+  },
+  {
+    "name": "Panton Chair 430",
+    "url": "Panton_Chair_430.zip",
+    "category": "Furniture",
+    "hash": "8a0595f0da4170cdf09e28cb2521106cf08478edb545a2b86e6eac8f193de18c",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.26480093598365784,
+      -0.2248079627752304,
+      -7.877219468355179e-05
+    ],
+    "bbox_max": [
+      0.26480090618133545,
+      0.2861441671848297,
+      0.8029950857162476
+    ]
+  },
+  {
+    "name": "Pierls Table",
+    "url": "Pierls_Table.zip",
+    "category": "Furniture",
+    "hash": "9621cf615fa906a296222f0d63b0d674703a7051d5b45c911862cab8d3c91cfd",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5919746160507202,
+      -0.5919746160507202,
+      -0.0019679227843880653
+    ],
+    "bbox_max": [
+      0.5919746160507202,
+      0.5919746160507202,
+      0.7333706021308899
+    ]
+  },
+  {
+    "name": "Poulsen Panthella 321",
+    "url": "Poulsen_Panthella_321.zip",
+    "category": "Light",
+    "hash": "b31033a2aba1a3b3f4458e47977b22d7c0d713e66cde5c4b762c301e9ccccbb3",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.15995018184185028,
+      -0.15995019674301147,
+      0.0
+    ],
+    "bbox_max": [
+      0.15995019674301147,
+      0.15995019674301147,
+      0.4322696924209595
+    ]
+  },
+  {
+    "name": "Round Classical Table",
+    "url": "Round_Classical_Table.zip",
+    "category": "Furniture",
+    "hash": "ae657b047ebb42cd5d2e81c3eb5bfed1521f00ef49315ef1d2d8e3094f3de984",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.7192537784576416,
+      -0.7192537784576416,
+      0.0
+    ],
+    "bbox_max": [
+      0.7192537784576416,
+      0.7192537784576416,
+      0.7221295237541199
+    ]
+  },
+  {
+    "name": "Round Quadlegs Table",
+    "url": "Round_Quadlegs_Table.zip",
+    "category": "Furniture",
+    "hash": "35e13e441a4a7f94f120fb0cba8365b07757440b9fb7dad4bd2ac20c3b3885df",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5,
+      -0.5,
+      0.0003978653403464705
+    ],
+    "bbox_max": [
+      0.5,
+      0.5,
+      0.75
+    ]
+  },
+  {
+    "name": "Round Wooden Table",
+    "url": "Round_Wooden_Table.zip",
+    "category": "Furniture",
+    "hash": "3492b5d87942c9f48e49d08429bcc30df316069f73769797f44ff39bc3419082",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -1.0636792182922363,
+      -1.0636792182922363,
+      -0.00013581872917711735
+    ],
+    "bbox_max": [
+      1.0636792182922363,
+      1.0636792182922363,
+      0.75
+    ]
+  },
+  {
+    "name": "Serena Lily Stool",
+    "url": "Serena_Lily_Stool.zip",
+    "category": "Furniture",
+    "hash": "b28f944ba7f9ef7bbe0c0626fb3cb17722113d1a9bf92e3ecaceac9b95911d5a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.1420300006866455,
+      -0.1420300006866455,
+      0.0
+    ],
+    "bbox_max": [
+      0.1420300304889679,
+      0.1420300006866455,
+      0.4101003408432007
+    ]
+  },
+  {
+    "name": "Slice Chair",
+    "url": "Slice_Chair.zip",
+    "category": "Furniture",
+    "hash": "5696973daa3026c109001437417b70f331d9c4de07eb0051916123548c2e4953",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.4123916029930115,
+      -0.42917078733444214,
+      -0.0006035210099071264
+    ],
+    "bbox_max": [
+      0.4123915731906891,
+      0.29425016045570374,
+      0.790934681892395
+    ]
+  },
+  {
+    "name": "Slice Footsool",
+    "url": "Slice_Footsool.zip",
+    "category": "Furniture",
+    "hash": "f3bf5313c86b463fcbdfc39c5c51f27dbbb2be00ebc5ef37104a48a8aa817b2e",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.439810186624527,
+      -0.26046594977378845,
+      -0.00020250414672773331
+    ],
+    "bbox_max": [
+      0.4398101568222046,
+      0.26255470514297485,
+      0.4884345233440399
+    ]
+  },
+  {
+    "name": "Solo S47 Dining",
+    "url": "Solo_S47_Dining.zip",
+    "category": "Furniture",
+    "hash": "8f14bde109b580559c7031dd607d765797c822e53b97c9a9592e1c9257dc3937",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2721102237701416,
+      -0.3560636043548584,
+      8.020403765840456e-05
+    ],
+    "bbox_max": [
+      0.272110253572464,
+      0.2797839641571045,
+      0.9954792857170105
+    ]
+  },
+  {
+    "name": "Solo S47 Dining Low",
+    "url": "Solo_S47_Dining_Low.zip",
+    "category": "Furniture",
+    "hash": "e8ca5826a38bfb5bac3ef72e40b3689dec196cf20dd75debcef34e0b3905b08b",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2721102237701416,
+      -0.3560636043548584,
+      8.020403765840456e-05
+    ],
+    "bbox_max": [
+      0.272110253572464,
+      0.2574666440486908,
+      0.8617892265319824
+    ]
+  },
+  {
+    "name": "Splinter Chair FullSeat",
+    "url": "Splinter_Chair_FullSeat.zip",
+    "category": "Furniture",
+    "hash": "e0b04b95d54db389ca7f315eb3717947497ff1bc4f148ab4e4ea5f74b18f72b4",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -3.483364707790315e-10,
+      -0.2940884232521057,
+      -1.7322756562521135e-09
+    ],
+    "bbox_max": [
+      0.3183712065219879,
+      0.29253089427948,
+      0.7644590139389038
+    ]
+  },
+  {
+    "name": "Splinter Chair Wooden",
+    "url": "Splinter_Chair_Wooden.zip",
+    "category": "Furniture",
+    "hash": "e856ca907907825c19bbd41def1f06024e495742b9c2327a0d8834b5539ae8f4",
+    "date": "2021-08-31",
+    "bbox_min": [
+      0.0,
+      -0.27643144130706787,
+      -1.7322756562521135e-09
+    ],
+    "bbox_max": [
+      0.3183712065219879,
+      0.29253089427948,
+      0.7136063575744629
+    ]
+  },
+  {
+    "name": "Stool 01",
+    "url": "Stool_01.zip",
+    "category": "Furniture",
+    "hash": "9a71b892e0955b1464906bf227dc6306172066c1472dad7d9596e1c50d0cd1c5",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.17619900405406952,
+      -0.1780545711517334,
+      -0.004482539836317301
+    ],
+    "bbox_max": [
+      0.17483776807785034,
+      0.17298223078250885,
+      0.39770394563674927
+    ]
+  },
+  {
+    "name": "Stool 02",
+    "url": "Stool_02.zip",
+    "category": "Furniture",
+    "hash": "a78590010ae7f80296b23e3a5db7c7a43c13d49948182b738e23eb93dce54232",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.276872843503952,
+      -0.2791532576084137,
+      -0.0023416271433234215
+    ],
+    "bbox_max": [
+      0.2768736481666565,
+      0.27915191650390625,
+      0.4304112493991852
+    ]
+  },
+  {
+    "name": "Stool Target",
+    "url": "Stool_Target.zip",
+    "category": "Furniture",
+    "hash": "4222ef23c422e27ba545531babc38a8397405489cf2f877f9087d0c3e4ad7cd4",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.15960842370986938,
+      -0.15960842370986938,
+      0.002237616339698434
+    ],
+    "bbox_max": [
+      0.15960842370986938,
+      0.15960842370986938,
+      0.4582693874835968
+    ]
+  },
+  {
+    "name": "Table Allmoderne",
+    "url": "Table_Allmoderne.zip",
+    "category": "Furniture",
+    "hash": "3dcd73d5d00a490d130cbfec591c5fcdb001fc9efe36e2678e3f2f0dc1054177",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.503036618232727,
+      -0.503036618232727,
+      1.3888527519156924e-06
+    ],
+    "bbox_max": [
+      0.503036618232727,
+      0.503036618232727,
+      0.7038042545318604
+    ]
+  },
+  {
+    "name": "Table Carre",
+    "url": "Table_Carre.zip",
+    "category": "Furniture",
+    "hash": "100894136667bdf7cfb66ef3d473d3d37db92ce635129fef9fa0d49add4d4a28",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6000000238418579,
+      -0.7159106135368347,
+      0.0
+    ],
+    "bbox_max": [
+      0.6000000238418579,
+      0.4840894043445587,
+      0.75
+    ]
+  },
+  {
+    "name": "Tampon Table",
+    "url": "Tampon_Table.zip",
+    "category": "Furniture",
+    "hash": "46e3d8f913e54fbf6bb0b7e06929d0115e022f9cffb4daeda32aba641160989d",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.6000000238418579,
+      -0.6000000238418579,
+      0.0
+    ],
+    "bbox_max": [
+      0.6000000238418579,
+      0.6000000238418579,
+      0.7500000596046448
+    ]
+  },
+  {
+    "name": "Target 68 Stool",
+    "url": "Target_68_Stool.zip",
+    "category": "Furniture",
+    "hash": "2707504331904bb772278015931576a52e9fd85afd88d8dda89fab4667d5e988",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.1927763670682907,
+      -0.19277644157409668,
+      0.0008930787444114685
+    ],
+    "bbox_max": [
+      0.1927763670682907,
+      0.19277633726596832,
+      0.4001060724258423
+    ]
+  },
+  {
+    "name": "Toads Table",
+    "url": "Toads_Table.zip",
+    "category": "Furniture",
+    "hash": "fddd9bd522f6c442ff148d53179be3b65963fa635d09d6acfb9843323190d418",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.7220310568809509,
+      -0.7220310568809509,
+      -0.00015556998550891876
+    ],
+    "bbox_max": [
+      0.7220310568809509,
+      0.7220310568809509,
+      0.8473376035690308
+    ]
+  },
+  {
+    "name": "Toolix ArmChair",
+    "url": "Toolix_ArmChair.zip",
+    "category": "Furniture",
+    "hash": "74e26b506b8bddd92e2021d7714fb66da5ae8b83bed97138d58a89f66c7dc2ec",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.27140235900878906,
+      -0.21813179552555084,
+      -7.177180668804795e-05
+    ],
+    "bbox_max": [
+      0.27140235900878906,
+      0.30958276987075806,
+      0.8502822518348694
+    ]
+  },
+  {
+    "name": "Toolix ArmChair Stool",
+    "url": "Toolix_ArmChair_Stool.zip",
+    "category": "Furniture",
+    "hash": "027d37ce777bb0fb06344627667fa7d62ec76a18b3063af82be7adf00b943ed7",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.22854910790920258,
+      -0.21813179552555084,
+      -7.177180668804795e-05
+    ],
+    "bbox_max": [
+      0.22854910790920258,
+      0.21813179552555084,
+      0.44503095746040344
+    ]
+  },
+  {
+    "name": "Toolix Chair",
+    "url": "Toolix_Chair.zip",
+    "category": "Furniture",
+    "hash": "8a1a91aec692aeab8d04428f9421fb7b436ced5dda5a084be25fea98922693b9",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.22854910790920258,
+      -0.21813179552555084,
+      -7.177180668804795e-05
+    ],
+    "bbox_max": [
+      0.22854910790920258,
+      0.30384525656700134,
+      0.8487715125083923
+    ]
+  },
+  {
+    "name": "TripleQuad Table",
+    "url": "TripleQuad_Table.zip",
+    "category": "Furniture",
+    "hash": "d08a0ed5f2baee2ccff6ae31911d1e0f434ed60416e9d9d29ed4f94ef407a06e",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5333083868026733,
+      -0.5333083868026733,
+      -0.004984460771083832
+    ],
+    "bbox_max": [
+      0.5333083868026733,
+      0.5333083868026733,
+      0.7079018354415894
+    ]
+  },
+  {
+    "name": "Tulip Chair",
+    "url": "Tulip_Chair.zip",
+    "category": "Furniture",
+    "hash": "a977459bb62f399f8cc0abed57f14383369a2fd501eb1a074d3b4872d7c17be9",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.5606144666671753,
+      -0.5976983308792114,
+      1.2517240975284949e-05
+    ],
+    "bbox_max": [
+      0.5606147050857544,
+      0.5235308408737183,
+      0.7927372455596924
+    ]
+  },
+  {
+    "name": "Tulip Chair v1",
+    "url": "Tulip_Chair_v1.zip",
+    "category": "Furniture",
+    "hash": "b64dc02ae9682f5fef3be778853c3e4f9e448f1c123a03bd01fb222585f0681d",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.44176730513572693,
+      -0.3709249794483185,
+      -6.963304622331634e-05
+    ],
+    "bbox_max": [
+      0.44176730513572693,
+      0.35660311579704285,
+      0.7927372455596924
+    ]
+  },
+  {
+    "name": "UBO Stool",
+    "url": "UBO_Stool.zip",
+    "category": "Furniture",
+    "hash": "bcef959c74b900a8f4cb12853a3bff6c50454b8c1ea781a0cda318df5ec94b89",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2250397950410843,
+      -0.16793882846832275,
+      -0.003346741199493408
+    ],
+    "bbox_max": [
+      0.19028125703334808,
+      0.16793882846832275,
+      0.4107179045677185
+    ]
+  },
+  {
+    "name": "Urban Out Stool",
+    "url": "Urban_Out_Stool.zip",
+    "category": "Furniture",
+    "hash": "1ccfbe5d8e29e4f591100e79df0e9c0043bdd814573f9531859e43600c336c89",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.19204317033290863,
+      -0.19204317033290863,
+      9.390804916620255e-05
+    ],
+    "bbox_max": [
+      0.19204317033290863,
+      0.19204317033290863,
+      0.44545435905456543
+    ]
+  },
+  {
+    "name": "Wayfair 32 Stool",
+    "url": "Wayfair_32_Stool.zip",
+    "category": "Furniture",
+    "hash": "6d55ffc802151736e9a288d777d42f788cd1604185a3acf601910e8d1cc4531f",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.16110515594482422,
+      -0.16110515594482422,
+      -0.004411516711115837
+    ],
+    "bbox_max": [
+      0.16110515594482422,
+      0.16110515594482422,
+      0.4133773446083069
+    ]
+  },
+  {
+    "name": "Wishbone Chair",
+    "url": "Wishbone_Chair.zip",
+    "category": "Furniture",
+    "hash": "eb075ac29b3f4f925f3f4cf582805b650f72a050af459771005dd84ef49d169f",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.2811596691608429,
+      -0.35867610573768616,
+      -0.0005113482475280762
+    ],
+    "bbox_max": [
+      0.2811596691608429,
+      0.16903901100158691,
+      0.7594420313835144
+    ]
+  },
+  {
+    "name": "Wooden Arcade Chair",
+    "url": "Wooden_Arcade_Chair.zip",
+    "category": "Furniture",
+    "hash": "b98bcbb72a578aefa806fd9a3e50b1d878e0af07f370dd07fe81f87f946c2962",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.22104686498641968,
+      -0.21804139018058777,
+      -0.000461562885902822
+    ],
+    "bbox_max": [
+      0.22104687988758087,
+      0.21804140508174896,
+      0.7820263504981995
+    ]
+  },
+  {
+    "name": "Zanuso Lady Chair",
+    "url": "Zanuso_Lady_Chair.zip",
+    "category": "Furniture",
+    "hash": "169f91f453e32d948ad530ab8bcc22008da44de331501917d829cca70c38a98a",
+    "date": "2021-08-31",
+    "bbox_min": [
+      -0.38563084602355957,
+      -0.4229690432548523,
+      -0.0002788845158647746
+    ],
+    "bbox_max": [
+      0.38563084602355957,
+      0.4235333204269409,
+      0.7890529632568359
+    ]
   }
 ]
