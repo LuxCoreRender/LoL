@@ -4061,5 +4061,294 @@
       0.4203126132488251,
       0.8412317037582397
     ]
+  },
+  {
+    "name": "Astep 2065 Suspension",
+    "url": "Astep_2065_Suspension.zip",
+    "category": "Light",
+    "hash": "2b3fcf7fd6e2f7ccdbe1cd57470c0a486c418bb01ee37fcfcb93fb757d3cd596",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.26937335729599,
+      -0.26937335729599,
+      -1.7079600095748901
+    ],
+    "bbox_max": [
+      0.26937335729599,
+      0.26937335729599,
+      0.014423674903810024
+    ]
+  },
+  {
+    "name": "Carimate Vico Chair",
+    "url": "Carimate_Vico_Chair.zip",
+    "category": "Furniture",
+    "hash": "1b0c2c283a51e5236d0751e85836736dbdb0878668805dd9a9d1aec5b9007333",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.29108309745788574,
+      -0.25210416316986084,
+      -0.0013244408182799816
+    ],
+    "bbox_max": [
+      0.29108309745788574,
+      0.2880256474018097,
+      0.7656881809234619
+    ]
+  },
+  {
+    "name": "Dynastie Table",
+    "url": "Dynastie_Table.zip",
+    "category": "Furniture",
+    "hash": "8c14cb717c673c3b6f96d5283aeb8844277699295778478527a271f1a14d21ec",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -1.25,
+      -0.6000000238418579,
+      0.0
+    ],
+    "bbox_max": [
+      1.25,
+      0.6000000238418579,
+      0.699999988079071
+    ]
+  },
+  {
+    "name": "Electrosvit Typ 7010",
+    "url": "Electrosvit_Typ_7010.zip",
+    "category": "Light",
+    "hash": "fd02a237f60e76ad658ae9ca6b7b52fc7a6bb045e3ed6736a20faacb362642d9",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.23204275965690613,
+      -0.20884475111961365,
+      -1.393798589706421
+    ],
+    "bbox_max": [
+      0.20908984541893005,
+      0.20886659622192383,
+      0.11200487613677979
+    ]
+  },
+  {
+    "name": "Electrosvit Typ 7368",
+    "url": "Electrosvit_Typ_7368.zip",
+    "category": "Light",
+    "hash": "dfee8653e320942897850a7ab8fe901dbe6cfa9bbd6dad8e384a4401618efa20",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.25615566968917847,
+      -0.2506801187992096,
+      -1.6677992343902588
+    ],
+    "bbox_max": [
+      0.2565402388572693,
+      0.27642762660980225,
+      0.11188149452209473
+    ]
+  },
+  {
+    "name": "Gueridon Cubic",
+    "url": "Gueridon_Cubic.zip",
+    "category": "Furniture",
+    "hash": "9298a0d69fa8f29a34ab44defcdce2db46c5fe757750740d99ac23c4cc19e3dd",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.25,
+      -0.25,
+      0.0
+    ],
+    "bbox_max": [
+      0.25,
+      0.25,
+      0.46000000834465027
+    ]
+  },
+  {
+    "name": "Gueridon Vitre",
+    "url": "Gueridon_Vitre.zip",
+    "category": "Furniture",
+    "hash": "01027a82e0d5b81da76f71837a473432ce97f8d2dc63d91e8cd8c8a0cabc0d29",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.7000000476837158,
+      -0.40000003576278687,
+      -0.00020603090524673462
+    ],
+    "bbox_max": [
+      0.7000000476837158,
+      0.40000003576278687,
+      0.30000001192092896
+    ]
+  },
+  {
+    "name": "IMAC 24 2021",
+    "url": "IMAC_24_2021.zip",
+    "category": "Electronics",
+    "hash": "f367674b7326c3313515200c2afb5a0648ba69367655bef8d100cd101edf5b6b",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.27118316292762756,
+      -0.2515789568424225,
+      -0.0001973945472855121
+    ],
+    "bbox_max": [
+      0.27116096019744873,
+      0.023802101612091064,
+      0.4583094120025635
+    ]
+  },
+  {
+    "name": "Knoll Saarinen Table",
+    "url": "Knoll_Saarinen_Table.zip",
+    "category": "Furniture",
+    "hash": "2b2cfa2ff0074746a87f704f294d25a12e12fdf1ff4ddfc0da6e3cc14c220942",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.7353009581565857,
+      -0.7353009581565857,
+      -0.00025235614157281816
+    ],
+    "bbox_max": [
+      0.7353009581565857,
+      0.7353009581565857,
+      0.7784148454666138
+    ]
+  },
+  {
+    "name": "Metallic Box 120",
+    "url": "Metallic_Box_120.zip",
+    "category": "Furniture",
+    "hash": "ab2840f797d1db6d3d1839d0897342c283f1798a58288da176c440ae4d2bfeb6",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.6000000238418579,
+      -0.5052380561828613,
+      0.0
+    ],
+    "bbox_max": [
+      0.6000000238418579,
+      0.0,
+      0.6100000143051147
+    ]
+  },
+  {
+    "name": "Metallic Box 150",
+    "url": "Metallic_Box_150.zip",
+    "category": "Furniture",
+    "hash": "8d3866ca444d961b3a3ca36edefcf7fdfb76f41485e694337773afc0a29c2b5c",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.75,
+      -0.5052380561828613,
+      0.0
+    ],
+    "bbox_max": [
+      0.75,
+      0.0,
+      0.6100000143051147
+    ]
+  },
+  {
+    "name": "Mid Century Mushroom Table Lamp",
+    "url": "Mid_Century_Mushroom_Table_Lamp.zip",
+    "category": "Light",
+    "hash": "644906f4d2c0e587b29aaad027013a4191171b733a05d49e908ac83004502040",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.14636681973934174,
+      -0.14636681973934174,
+      0.0
+    ],
+    "bbox_max": [
+      0.14636677503585815,
+      0.14636681973934174,
+      0.29828566312789917
+    ]
+  },
+  {
+    "name": "Prouve Standar Chair",
+    "url": "Prouve_Standar_Chair.zip",
+    "category": "Furniture",
+    "hash": "437e012886ae80595c1e25654fb66234a3979e38a6984895d8624a077e5d6fcb",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.19711120426654816,
+      -0.232416033744812,
+      -0.00024787845904938877
+    ],
+    "bbox_max": [
+      0.19711120426654816,
+      0.25609302520751953,
+      0.7749389410018921
+    ]
+  },
+  {
+    "name": "Samsung Quad Fridge",
+    "url": "Samsung_Quad_Fridge.zip",
+    "category": "Home Appliance",
+    "hash": "682b94a37faaa8bc6fa4defa09348b632de9ea608551e87d0c8e96814a73b7cf",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.42102235555648804,
+      -0.059119097888469696,
+      -0.0004121155070606619
+    ],
+    "bbox_max": [
+      0.42098453640937805,
+      0.7219220995903015,
+      1.7484736442565918
+    ]
+  },
+  {
+    "name": "Tolomeo Mega",
+    "url": "Tolomeo_Mega.zip",
+    "category": "Light",
+    "hash": "c19f131c0c30878c2e92f320bf418e28d2ca4d8472f0db9ac163ad5756260173",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.7229087948799133,
+      -0.21630896627902985,
+      -0.02375866286456585
+    ],
+    "bbox_max": [
+      0.9328945279121399,
+      0.21619375050067902,
+      2.3703553676605225
+    ]
+  },
+  {
+    "name": "Tolomeo Mega Curved",
+    "url": "Tolomeo_Mega_Curved.zip",
+    "category": "Light",
+    "hash": "131f40a73e838e058540d0b6f7a105957171a0d4f2b59bc22511749cd99c108e",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.7229199409484863,
+      -0.21630890667438507,
+      -0.02375866286456585
+    ],
+    "bbox_max": [
+      1.5278455018997192,
+      0.2161937952041626,
+      2.0137510299682617
+    ]
+  },
+  {
+    "name": "Triple Male Console",
+    "url": "Triple_Male_Console.zip",
+    "category": "Furniture",
+    "hash": "a2706e229299010b5e178cddc24d08c0b3fa7598af585a06378d680496e1abe9",
+    "date": "2021-09-11",
+    "bbox_min": [
+      -0.5037734508514404,
+      -0.4291684627532959,
+      -0.011933930218219757
+    ],
+    "bbox_max": [
+      0.5037734508514404,
+      0.005786634515970945,
+      0.9543935060501099
+    ]
   }
 ]
