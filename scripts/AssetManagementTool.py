@@ -1082,8 +1082,8 @@ bpy.types.Scene.editAsset = PointerProperty(type=LuxCoreOnlineLibraryEditAsset)
 ui_props = bpy.context.scene.editAsset
 user_preferences = bpy.context.preferences.addons['BlendLuxCore'].preferences
 
-#ui_props.username = ''
-#ui_props.password = ''
+ui_props.username = ''
+ui_props.password = ''
 ui_props.progress_info = ''
 ui_props.git_repo = False
 ui_props.gitclone = False
