@@ -380,7 +380,7 @@ class LOLAddAssetOperator(Operator):
                 asset_prop['bbox_min'] = asset['bbox_min']
                 asset_prop['bbox_max'] = asset['bbox_max']
             asset_prop['hash'] = asset['hash']
-            asset_prop['date'] = date.today()
+            asset_prop['date'] = str(date.today())
             asset_prop['thumbnail'] = asset['thumbnail']
             asset_prop['new'] = True
            
@@ -1082,8 +1082,8 @@ bpy.types.Scene.editAsset = PointerProperty(type=LuxCoreOnlineLibraryEditAsset)
 ui_props = bpy.context.scene.editAsset
 user_preferences = bpy.context.preferences.addons['BlendLuxCore'].preferences
 
-ui_props.username = ''
-ui_props.password = ''
+#ui_props.username = ''
+#ui_props.password = ''
 ui_props.progress_info = ''
 ui_props.git_repo = False
 ui_props.gitclone = False
