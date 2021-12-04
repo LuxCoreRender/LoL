@@ -4588,5 +4588,22 @@
       0.3813869059085846,
       0.7203962206840515
     ]
+  },
+  {
+    "name": "Plantronics Backbeat Pro Headset",
+    "url": "Plantronics_Backbeat_Pro_Headset.zip",
+    "category": "Electronics",
+    "hash": "2642dca05bbdcfb7e5ec62f927e3280982deb4c4eba2b2ccf55eb06227e140cf",
+    "date": "2021-12-04",
+    "bbox_min": [
+      -0.12067155539989471,
+      -0.08912603557109833,
+      -0.040327440947294235
+    ],
+    "bbox_max": [
+      0.11974997818470001,
+      0.14420375227928162,
+      0.1283738613128662
+    ]
   }
 ]
