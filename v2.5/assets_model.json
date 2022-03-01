@@ -4622,5 +4622,260 @@
       0.10747282207012177,
       0.08824079483747482
     ]
+  },
+  {
+    "name": "Arcade table Coffee",
+    "url": "Arcade_table_Coffee.zip",
+    "category": "Furniture",
+    "hash": "1f221d1e0388f96f632c3462d6d084c764ee8cbfbb3c71cf6552c171f7fa4ac8",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.28305694460868835,
+      -0.28305742144584656,
+      -9.654547466197982e-05
+    ],
+    "bbox_max": [
+      0.28305718302726746,
+      0.2830566465854645,
+      0.3304551839828491
+    ]
+  },
+  {
+    "name": "Arcade table Coffee U",
+    "url": "Arcade_table_Coffee_U.zip",
+    "category": "Furniture",
+    "hash": "31978d94353074e1cb650040aa91848758706d04387992a5a9a7355fce181b88",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.28371286392211914,
+      -0.28371283411979675,
+      -3.7550926208496094e-06
+    ],
+    "bbox_max": [
+      0.2837129235267639,
+      0.2837129533290863,
+      0.3059515953063965
+    ]
+  },
+  {
+    "name": "Artifort Groovy F598",
+    "url": "Artifort_Groovy_F598.zip",
+    "category": "Furniture",
+    "hash": "40341a738a00da2c35a2102003358b5cedda361ca6000832e445684e6da11d97",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.42720547318458557,
+      -0.3034534454345703,
+      -5.281740959617309e-05
+    ],
+    "bbox_max": [
+      0.42720547318458557,
+      0.29367437958717346,
+      0.6312469840049744
+    ]
+  },
+  {
+    "name": "Coffee Table CY",
+    "url": "Coffee_Table_CY.zip",
+    "category": "Furniture",
+    "hash": "14c8bbea7d606cbc4e8758cd160ca0916ddd71149b11d5b336df8f82ab701cbf",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.472911536693573,
+      -0.5,
+      0.000596165657043457
+    ],
+    "bbox_max": [
+      0.527088463306427,
+      0.5,
+      0.3499999940395355
+    ]
+  },
+  {
+    "name": "Face Pot",
+    "url": "Face_Pot.zip",
+    "category": "Decoration",
+    "hash": "b85da43eb3bbcb712cd6d0b70b955f056540e1e47dd61e6cb0cf55125eed379e",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.18192872405052185,
+      -0.15709546208381653,
+      -4.4386401221174765e-09
+    ],
+    "bbox_max": [
+      0.18244390189647675,
+      0.148454949259758,
+      0.25615763664245605
+    ]
+  },
+  {
+    "name": "Huggy Chair",
+    "url": "Huggy_Chair.zip",
+    "category": "Furniture",
+    "hash": "80b1dfb127cd7feb9a101feabdf65bc8b03cf7534600595aca1de61811a6d95c",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.4906534254550934,
+      -0.42577412724494934,
+      -0.00031154832686297596
+    ],
+    "bbox_max": [
+      0.4906534254550934,
+      0.4775069057941437,
+      0.661045491695404
+    ]
+  },
+  {
+    "name": "Lines Coffee Table",
+    "url": "Lines_Coffee_Table.zip",
+    "category": "Furniture",
+    "hash": "d6d56549a4570786c090b011bb36e8e0c74ce8a32474a1ba0e0711af84006d35",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.30292218923568726,
+      -0.30285218358039856,
+      -0.006167396903038025
+    ],
+    "bbox_max": [
+      0.30292293429374695,
+      0.30299291014671326,
+      0.3870483338832855
+    ]
+  },
+  {
+    "name": "Metal Glass Coffee Table",
+    "url": "Metal_Glass_Coffee_Table.zip",
+    "category": "Furniture",
+    "hash": "3c331d322d5d1d206a326d7100ab63c0f490b3bc32f242e3954aa07f5728aa3e",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.5102937817573547,
+      -0.5102937817573547,
+      -0.001291628461331129
+    ],
+    "bbox_max": [
+      0.5102937817573547,
+      0.5102937817573547,
+      0.331540048122406
+    ]
+  },
+  {
+    "name": "Miniforms Soda Coffee table 38",
+    "url": "Miniforms_Soda_Coffee_table_38.zip",
+    "category": "Furniture",
+    "hash": "40afaa0b844d8db7fb00ed7706d9483dbd8617ac9b02685352cf05e41acc15d7",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.1921270489692688,
+      -0.19209671020507812,
+      -1.511318359348479e-08
+    ],
+    "bbox_max": [
+      0.19196678698062897,
+      0.19205787777900696,
+      0.4446107745170593
+    ]
+  },
+  {
+    "name": "Miniforms Soda Coffee table 55",
+    "url": "Miniforms_Soda_Coffee_table_55.zip",
+    "category": "Furniture",
+    "hash": "69c3a607c503f9b3ee2b4950aab3e35e1774bf8d1a133b5def5bba6da9cad635",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.2761523127555847,
+      -0.2761087119579315,
+      -2.172281376999763e-08
+    ],
+    "bbox_max": [
+      0.2759219706058502,
+      0.27605289220809937,
+      0.30380693078041077
+    ]
+  },
+  {
+    "name": "Mushroom lamp",
+    "url": "Mushroom_lamp.zip",
+    "category": "Light",
+    "hash": "e437252206b60dd59fe313dc887d9af2d6fc7f3b10972e47992999ae9b3fdffa",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.15370146930217743,
+      -0.15370146930217743,
+      -0.0005420828238129616
+    ],
+    "bbox_max": [
+      0.15370146930217743,
+      0.15370146930217743,
+      0.4072014093399048
+    ]
+  },
+  {
+    "name": "Provocateur Eichholtz Sofa",
+    "url": "Provocateur_Eichholtz_Sofa.zip",
+    "category": "Furniture",
+    "hash": "c09b576cc75681fdefaada53e980bcf5acef7b7c24f6d95c15a0944a14bba538",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -1.3276760578155518,
+      -0.5652973651885986,
+      -0.008268352597951889
+    ],
+    "bbox_max": [
+      1.2851076126098633,
+      0.6175200343132019,
+      0.8463268280029297
+    ]
+  },
+  {
+    "name": "Rounded Coffee Table",
+    "url": "Rounded_Coffee_Table.zip",
+    "category": "Furniture",
+    "hash": "c14aa813cebee3fe34796f68de69b7eb645fcd059247288c5004411f7edb373b",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.5,
+      -0.5,
+      0.0
+    ],
+    "bbox_max": [
+      0.5,
+      0.5,
+      0.3182198703289032
+    ]
+  },
+  {
+    "name": "Swoon Frederica",
+    "url": "Swoon_Frederica.zip",
+    "category": "Furniture",
+    "hash": "9ad6c936f1827c7e7b7592adb766a4a6ce57f5e3e41a1aa5703d1cc7869dfee9",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.43346601724624634,
+      -0.7619466185569763,
+      -0.0002062576822936535
+    ],
+    "bbox_max": [
+      0.43346601724624634,
+      0.5634660124778748,
+      0.8064290881156921
+    ]
+  },
+  {
+    "name": "Tabouret Mirror",
+    "url": "Tabouret_Mirror.zip",
+    "category": "Furniture",
+    "hash": "e5b967bab0e106228e60ff2d5b9faca24edd4fd2ec77b9973f77f356f598f472",
+    "date": "2022-03-01",
+    "bbox_min": [
+      -0.1574999988079071,
+      -0.15000000596046448,
+      0.0
+    ],
+    "bbox_max": [
+      0.1574999988079071,
+      0.15000000596046448,
+      0.4000000059604645
+    ]
   }
 ]
