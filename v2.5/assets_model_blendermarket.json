@@ -14686,5 +14686,940 @@
       0.12354401499032974,
       1.3061803579330444
     ]
+  },
+  {
+    "name": "Lucite Armchair",
+    "url": "Lucite_Armchair.zip",
+    "category": "Furniture",
+    "hash": "b0f322952e5a8aa2ccd26f8ef3c26413aec2cfee6500b89467ad840f8dc35cb1",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.311399906873703,
+      -0.3437226712703705,
+      0.000632382114417851
+    ],
+    "bbox_max": [
+      0.311399906873703,
+      0.350471168756485,
+      0.8983061909675598
+    ]
+  },
+  {
+    "name": "Little Petra lounge Chair",
+    "url": "Little_Petra_lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "36107081fc094a7aa4185d9d73b5b266c8657a74753be405c2118b20be4c2153",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.40417322516441345,
+      -1.0105974674224854,
+      -0.0008162425947375596
+    ],
+    "bbox_max": [
+      0.40417319536209106,
+      0.4624728858470917,
+      0.753092885017395
+    ]
+  },
+  {
+    "name": "Jeanneret lounge Chair",
+    "url": "Jeanneret_lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "75f8d3f134f8f28a72b056c743dc557e70c5978d63bda6e77574c5382bda66fa",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.36098194122314453,
+      -0.41523081064224243,
+      -0.0002170893712900579
+    ],
+    "bbox_max": [
+      0.36098194122314453,
+      0.4417242407798767,
+      0.768386721611023
+    ]
+  },
+  {
+    "name": "Kana Chair",
+    "url": "Kana_Chair.zip",
+    "category": "Furniture",
+    "hash": "00da7a6659bd6b9f386560d515520105bd307d4bd8aa7b3c3d53d4475eb4721e",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.3085797429084778,
+      -0.25988274812698364,
+      0.00020837283227592707
+    ],
+    "bbox_max": [
+      0.30857977271080017,
+      0.31039541959762573,
+      0.7112281918525696
+    ]
+  },
+  {
+    "name": "Keane lounge Chair",
+    "url": "Keane_lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "e4d1c4e7ecd644691026291623bf81fdc4037bbd257bb97fb6831bf5e4fa7d15",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.5318509340286255,
+      -0.34487852454185486,
+      0.00014299183385446668
+    ],
+    "bbox_max": [
+      0.5318512916564941,
+      0.5742297172546387,
+      1.2200820446014404
+    ]
+  },
+  {
+    "name": "Lago Divano",
+    "url": "Lago_Divano.zip",
+    "category": "Furniture",
+    "hash": "bd06f26331ee6f38d5f2b34ac8877f039e8649e58cdacfe40fba0e9cb5af21ec",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.8128767013549805,
+      -0.8857476711273193,
+      -0.0010176301002502441
+    ],
+    "bbox_max": [
+      1.827520489692688,
+      0.7774143218994141,
+      0.8640748262405396
+    ]
+  },
+  {
+    "name": "Lampadaire Acone",
+    "url": "Lampadaire_Acone.zip",
+    "category": "Light",
+    "hash": "5f290f8cc2b0b02a22f5326889065a7fcf700de03850b57e7b8aa96dbfbb6e94",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.20868007838726044,
+      -0.20868007838726044,
+      -3.659469075500965e-05
+    ],
+    "bbox_max": [
+      1.6630111932754517,
+      0.20868004858493805,
+      1.9620137214660645
+    ]
+  },
+  {
+    "name": "Lato Table",
+    "url": "Lato_Table.zip",
+    "category": "Furniture",
+    "hash": "6cb6f2f0b8a0e9dea79fa6105ce13aacd0e0f98eb55cecedc09128131355df30",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.2892945408821106,
+      -0.18692071735858917,
+      -7.450580596923828e-09
+    ],
+    "bbox_max": [
+      0.290463387966156,
+      0.22314125299453735,
+      0.4001803398132324
+    ]
+  },
+  {
+    "name": "Leif floor Lamp",
+    "url": "Leif_floor_Lamp.zip",
+    "category": "Light",
+    "hash": "dce5d23120d1f447bffbc2f998ad7c9c0d2487b143711e5c9d6c4181e13eeb39",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.19116175174713135,
+      -0.10545516759157181,
+      -0.0018183134961873293
+    ],
+    "bbox_max": [
+      0.19116179645061493,
+      0.10545484721660614,
+      1.730120062828064
+    ]
+  },
+  {
+    "name": "Little Big Lounge Chair",
+    "url": "Little_Big_Lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "4e76cf2d066f8538bb29145b517fcb10c2c793d7552b66844d6b7aefed40b9fd",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.3318037986755371,
+      -0.34599241614341736,
+      2.1756612113676965e-05
+    ],
+    "bbox_max": [
+      0.33180341124534607,
+      0.3227851390838623,
+      0.6986159682273865
+    ]
+  },
+  {
+    "name": "Marble Broken Table",
+    "url": "Marble_Broken_Table.zip",
+    "category": "Furniture",
+    "hash": "928095c3616aec207362209b7678cbce09d227d450950505472e34bb19e98cbd",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.6500000357627869,
+      -0.30000001192092896,
+      0.0022510432172566652
+    ],
+    "bbox_max": [
+      0.6500000357627869,
+      0.5,
+      0.32023200392723083
+    ]
+  },
+  {
+    "name": "Marble Stool",
+    "url": "Marble_Stool.zip",
+    "category": "Furniture",
+    "hash": "4b5d4dc1ea540184a0b145ba695574f9827ade0d5687f5c9d3536ae3b3d20664",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.1651250422000885,
+      -0.12083372473716736,
+      -0.0005327354883775115
+    ],
+    "bbox_max": [
+      0.1651250272989273,
+      0.12083356827497482,
+      0.39938077330589294
+    ]
+  },
+  {
+    "name": "Max lamb lamp",
+    "url": "Max_lamb_lamp.zip",
+    "category": "Light",
+    "hash": "892686d54195b34829acd6fae98d37c8416a8e782dcc5c7b487396c158759b28",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.1542644053697586,
+      -0.15643025934696198,
+      3.300548269180581e-05
+    ],
+    "bbox_max": [
+      0.15426446497440338,
+      0.1535455882549286,
+      0.44568538665771484
+    ]
+  },
+  {
+    "name": "Meridian Rectangle Table",
+    "url": "Meridian_Rectangle_Table.zip",
+    "category": "Furniture",
+    "hash": "6c423537e3d2963d4877f7120019548e64a1edc8310741b0217f2742c1910477",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.198874831199646,
+      -0.4959944486618042,
+      0.0
+    ],
+    "bbox_max": [
+      1.198874831199646,
+      0.4959944486618042,
+      0.7400000095367432
+    ]
+  },
+  {
+    "name": "Meridiani Dining Table",
+    "url": "Meridiani_Dining_Table.zip",
+    "category": "Furniture",
+    "hash": "acd56847237ef95e10e145450aa5847ac31d550cf1deac8f43fc81fd8dca715b",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.990065336227417,
+      -0.9155749082565308,
+      -0.03999999910593033
+    ],
+    "bbox_max": [
+      0.990065336227417,
+      1.0149097442626953,
+      0.7288931608200073
+    ]
+  },
+  {
+    "name": "Moving mountains Lounger Chaise",
+    "url": "Moving_mountains_Lounger_Chaise.zip",
+    "category": "Furniture",
+    "hash": "34a15db3db7463a0c3bcc0b185f6850693cc40bfac9cd732254ad70d0e9518f2",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.188591480255127,
+      -0.017953332513570786,
+      -0.002689540386199951
+    ],
+    "bbox_max": [
+      1.188591480255127,
+      1.1624668836593628,
+      0.8022682070732117
+    ]
+  },
+  {
+    "name": "Moving mountains Lounger Chaise II",
+    "url": "Moving_mountains_Lounger_Chaise_II.zip",
+    "category": "Furniture",
+    "hash": "4676952383be549712466a28c14c0677dabe064071d320e73f819fda76379051",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.1885915994644165,
+      -0.017953332513570786,
+      -0.002689540386199951
+    ],
+    "bbox_max": [
+      1.339412808418274,
+      1.1636695861816406,
+      0.8022681474685669
+    ]
+  },
+  {
+    "name": "Mushroom Table Light",
+    "url": "Mushroom_Table_Light.zip",
+    "category": "Light",
+    "hash": "bf24f0373d20f430ad2e2628a78b6af86ea4765b96caad6dac7dedbd3c7072bf",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.1655748039484024,
+      -0.16564369201660156,
+      7.538100817328086e-06
+    ],
+    "bbox_max": [
+      0.1655748188495636,
+      0.16564367711544037,
+      0.4180024564266205
+    ]
+  },
+  {
+    "name": "Neowall 5Seat",
+    "url": "Neowall_5Seat.zip",
+    "category": "Furniture",
+    "hash": "e2737e9b8c29875f6715dfaa15e2a7829355ade9adfb5177bbff6f27e3f4bbb4",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -2.254856586456299,
+      -0.8918013572692871,
+      -0.0013231715420261025
+    ],
+    "bbox_max": [
+      1.9486991167068481,
+      1.6947414875030518,
+      0.6770293116569519
+    ]
+  },
+  {
+    "name": "Neowall Sofa 2Seat",
+    "url": "Neowall_Sofa_2Seat.zip",
+    "category": "Furniture",
+    "hash": "9e052a2cba41099664ddf9c5bb5d2329f8010cbb1b6f83e61252e0b3286d51e3",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.9567775726318359,
+      -0.6263617873191833,
+      -0.0006941929459571838
+    ],
+    "bbox_max": [
+      1.2762706279754639,
+      0.6186285018920898,
+      0.6943031549453735
+    ]
+  },
+  {
+    "name": "Neowall Sofa 2SeatB",
+    "url": "Neowall_Sofa_2SeatB.zip",
+    "category": "Furniture",
+    "hash": "b4a653a070cc708868fdeb9de27d3d61bb81e002cacf161b621a124896f0d28d",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.1825472116470337,
+      -0.4778474271297455,
+      -0.0005368376150727272
+    ],
+    "bbox_max": [
+      1.2178688049316406,
+      0.49490416049957275,
+      0.6872243285179138
+    ]
+  },
+  {
+    "name": "Neowall Sofa Single",
+    "url": "Neowall_Sofa_Single.zip",
+    "category": "Furniture",
+    "hash": "3a6b12da9f0feca742cf6eb45d8dc34806a053bde0d0ff2eba77270fa151e550",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.7446349859237671,
+      -0.8081423044204712,
+      -0.0006941929459571838
+    ],
+    "bbox_max": [
+      0.4964768886566162,
+      1.0343225002288818,
+      0.701288104057312
+    ]
+  },
+  {
+    "name": "Nomad table lamp",
+    "url": "Nomad_table_lamp.zip",
+    "category": "Light",
+    "hash": "283640c6297141ece124d218b646ad7e1c4fd68ce516f3b4f076e1ac68e171bc",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.12721210718154907,
+      -0.12721210718154907,
+      -0.0011366561520844698
+    ],
+    "bbox_max": [
+      0.12721212208271027,
+      0.12721210718154907,
+      0.28711235523223877
+    ]
+  },
+  {
+    "name": "Otis Sofa",
+    "url": "Otis_Sofa.zip",
+    "category": "Light",
+    "hash": "b58f504f5989d7e8e8fa03f9b75562a488485595db2e05be8ac0595dd20bdc1a",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.264784336090088,
+      -0.3714679777622223,
+      -0.0004593036137521267
+    ],
+    "bbox_max": [
+      1.2648845911026,
+      0.47804325819015503,
+      0.7453749179840088
+    ]
+  },
+  {
+    "name": "Ovale Plexi Table",
+    "url": "Ovale_Plexi_Table.zip",
+    "category": "Furniture",
+    "hash": "b17193cb94b9b7418fec35b59dc54d840407c72200757f96853eb7c9626639af",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.3070051670074463,
+      -0.6070051789283752,
+      0.0
+    ],
+    "bbox_max": [
+      1.3070051670074463,
+      0.6070051789283752,
+      0.75
+    ]
+  },
+  {
+    "name": "PK22 Chair",
+    "url": "PK22_Chair.zip",
+    "category": "Furniture",
+    "hash": "1df950fc1d9bf667e064358631335a19fef76471278c65e01850bca62ba63bcb",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.31930795311927795,
+      -0.33016616106033325,
+      -0.0012270212173461914
+    ],
+    "bbox_max": [
+      0.31930795311927795,
+      0.3327099084854126,
+      0.7262868881225586
+    ]
+  },
+  {
+    "name": "Platner Chair",
+    "url": "Platner_Chair.zip",
+    "category": "Furniture",
+    "hash": "d4f51e6a725b1283245346cf7a31bf48685d1f75bf0d703520293ed824f97677",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.3779480457305908,
+      -0.28390228748321533,
+      9.346433216705918e-05
+    ],
+    "bbox_max": [
+      0.37794801592826843,
+      0.2978033721446991,
+      0.7521772384643555
+    ]
+  },
+  {
+    "name": "Platner Chair II",
+    "url": "Platner_Chair_II.zip",
+    "category": "Furniture",
+    "hash": "ae56ec1b72ab93f1f78687559f208d6d0f2d6979401cb95c88a59c7d35169589",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.37410768866539,
+      -0.28390228748321533,
+      -0.00020086340373381972
+    ],
+    "bbox_max": [
+      0.37410780787467957,
+      0.29615142941474915,
+      0.7473169565200806
+    ]
+  },
+  {
+    "name": "Plexis U Box",
+    "url": "Plexis_U_Box.zip",
+    "category": "Furniture",
+    "hash": "1a518402053c9a415f1116fab5e56f69665e451fc517d5b7ba87e7fc11e5e30e",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.20000000298023224,
+      -0.20000000298023224,
+      0.0
+    ],
+    "bbox_max": [
+      0.20000000298023224,
+      0.20000000298023224,
+      0.44999998807907104
+    ]
+  },
+  {
+    "name": "Polar Floor Lamp",
+    "url": "Polar_Floor_Lamp.zip",
+    "category": "Light",
+    "hash": "bc08ce34295ccbaa539641f3d2ac307b1956a7e285eb23211af209d4598a4e3b",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.32950833439826965,
+      -0.32950833439826965,
+      0.0
+    ],
+    "bbox_max": [
+      0.32950833439826965,
+      0.32950833439826965,
+      1.6931774616241455
+    ]
+  },
+  {
+    "name": "Pyramid Lampshade",
+    "url": "Pyramid_Lampshade.zip",
+    "category": "Light",
+    "hash": "27741d66712694826a96a2956aa4a875757f773d2c1cb41abc1f35ea3dd8979a",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.14826703071594238,
+      -0.14826706051826477,
+      -0.0004819308524020016
+    ],
+    "bbox_max": [
+      0.14826706051826477,
+      0.14826706051826477,
+      0.6312206387519836
+    ]
+  },
+  {
+    "name": "Rolled back Lounge Chair",
+    "url": "Rolled_back_Lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "22d5ec070f6a6c71e9a0578efe7a9e3336a6126284a1b4de7065c114a1080361",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.7111710906028748,
+      -0.4829300045967102,
+      4.6314373321365565e-05
+    ],
+    "bbox_max": [
+      0.7111710906028748,
+      0.672786295413971,
+      0.7690058350563049
+    ]
+  },
+  {
+    "name": "Sandwich Table",
+    "url": "Sandwich_Table.zip",
+    "category": "Furniture",
+    "hash": "307465d4da5c67b480ed0fca34ba4c3fa6098f3d8b0ba4b0ef8272381190a736",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.6000000238418579,
+      -0.6000000238418579,
+      0.0
+    ],
+    "bbox_max": [
+      0.6000000238418579,
+      0.6000000238418579,
+      0.7500000596046448
+    ]
+  },
+  {
+    "name": "Semi Pendant Light",
+    "url": "Semi_Pendant_Light.zip",
+    "category": "Light",
+    "hash": "fad4ce577f051b09c81629f0b711351e38a197cd00d5969b68c31cf0b3046892",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.23645569384098053,
+      -0.2364557981491089,
+      -1.455878496170044
+    ],
+    "bbox_max": [
+      0.23645590245723724,
+      0.23645584285259247,
+      0.020833194255828857
+    ]
+  },
+  {
+    "name": "Soho Laptop table",
+    "url": "Soho_Laptop_table.zip",
+    "category": "Furniture",
+    "hash": "0f87432c9405f2321458a67d149ab24a636769c518a55adf4e46375a3af1d5a4",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.10000000149011612,
+      -0.125,
+      0.0
+    ],
+    "bbox_max": [
+      0.10000000149011612,
+      0.17500001192092896,
+      0.41499999165534973
+    ]
+  },
+  {
+    "name": "Stairs Table",
+    "url": "Stairs_Table.zip",
+    "category": "Furniture",
+    "hash": "f0f72d900b86ef1b137c3ab57a8c5d750944900dca658404be557942266191af",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.4505969285964966,
+      -0.30000001192092896,
+      0.0
+    ],
+    "bbox_max": [
+      0.5494031310081482,
+      0.30000001192092896,
+      0.34447193145751953
+    ]
+  },
+  {
+    "name": "Table Ovaler",
+    "url": "Table_Ovaler.zip",
+    "category": "Furniture",
+    "hash": "fd602e00e5be66bfb1f431c904c06e0a28399cd2cad2ce005bc8524ba92d22e0",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.8377582430839539,
+      -0.34796857833862305,
+      -4.17232506322307e-08
+    ],
+    "bbox_max": [
+      0.8377582430839539,
+      0.34796854853630066,
+      0.3674013316631317
+    ]
+  },
+  {
+    "name": "Tabouret Noir",
+    "url": "Tabouret_Noir.zip",
+    "category": "Furniture",
+    "hash": "264992bf629ed90e0bf0a67232187c1fc1114a10d4ca71953082dc2e8939a627",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.2500000298023224,
+      -0.21989446878433228,
+      -5.166179107618518e-06
+    ],
+    "bbox_max": [
+      0.2500000298023224,
+      0.38924935460090637,
+      0.6072726845741272
+    ]
+  },
+  {
+    "name": "TAPIO Lamp",
+    "url": "TAPIO_Lamp.zip",
+    "category": "Light",
+    "hash": "d6bdcb41639c08bc10e0033eefb7848d18bd36ee403001d0544d88d28e5093db",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.19708961248397827,
+      -0.19708961248397827,
+      -0.0013177674263715744
+    ],
+    "bbox_max": [
+      0.19708961248397827,
+      0.19708961248397827,
+      0.4177999496459961
+    ]
+  },
+  {
+    "name": "Tektonik Sofa",
+    "url": "Tektonik_Sofa.zip",
+    "category": "Furniture",
+    "hash": "e1915a226860580855f030482b84a3b00e8fc03a70b0df9f8391109da4b7e7fb",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.8363286256790161,
+      -1.3745758533477783,
+      -0.0002709031105041504
+    ],
+    "bbox_max": [
+      1.711912989616394,
+      0.9313912391662598,
+      0.9035956263542175
+    ]
+  },
+  {
+    "name": "Tip Ton Chair",
+    "url": "Tip_Ton_Chair.zip",
+    "category": "Furniture",
+    "hash": "93dc9f7d5318b41f467c3db35cab1a9c31b0965f42aedc52ba1225e869d680ee",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.25525638461112976,
+      -0.27749601006507874,
+      -1.620872353669256e-06
+    ],
+    "bbox_max": [
+      0.25527241826057434,
+      0.27728167176246643,
+      0.7858167290687561
+    ]
+  },
+  {
+    "name": "TriBalls Table",
+    "url": "TriBalls_Table.zip",
+    "category": "Furniture",
+    "hash": "af569f64a1c4e6d8bc73165a0b20bbc7738550d74586484ebe8b90108b4f13ed",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.42000001668930054,
+      -0.42000001668930054,
+      -0.006107824854552746
+    ],
+    "bbox_max": [
+      0.42000001668930054,
+      0.42000001668930054,
+      0.31533530354499817
+    ]
+  },
+  {
+    "name": "Triple Arcade Table",
+    "url": "Triple_Arcade_Table.zip",
+    "category": "Furniture",
+    "hash": "93871753d42d51ff9be6da0bb4707e1b350d220b50c5b1e42478599d7d5f82e5",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.4736156463623047,
+      -0.15000003576278687,
+      0.0
+    ],
+    "bbox_max": [
+      0.4780781865119934,
+      0.2500000298023224,
+      0.2703486680984497
+    ]
+  },
+  {
+    "name": "Ultra Fragola Mirror",
+    "url": "Ultra_Fragola_Mirror.zip",
+    "category": "Decoration",
+    "hash": "e848209e6c745d89b92b1140d1dc6461a080df0cd7b9783f73dd2653ff1b51c3",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.5016670227050781,
+      -0.1438569873571396,
+      -0.00012036214320687577
+    ],
+    "bbox_max": [
+      0.5016670823097229,
+      2.799602896175202e-07,
+      1.9521974325180054
+    ]
+  },
+  {
+    "name": "Velvet Sculptural Chair",
+    "url": "Velvet_Sculptural_Chair.zip",
+    "category": "Furniture",
+    "hash": "9987854f60aed1113fb6746cb102ef3925e6f2ec21ad701e48127c0c77b33742",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.39417561888694763,
+      -0.4262070059776306,
+      -0.0077658891677856445
+    ],
+    "bbox_max": [
+      0.39417561888694763,
+      0.34720534086227417,
+      0.7155420780181885
+    ]
+  },
+  {
+    "name": "Venere Chair",
+    "url": "Venere_Chair.zip",
+    "category": "Furniture",
+    "hash": "c6d38344e7831538af82a3e9cd96109adbb195055d428804cb7f0e68c93beb85",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.2382427603006363,
+      -0.2733558118343353,
+      -0.0009690024307928979
+    ],
+    "bbox_max": [
+      0.2382327765226364,
+      0.32367002964019775,
+      0.8874413371086121
+    ]
+  },
+  {
+    "name": "Venere Lounge Chair",
+    "url": "Venere_Lounge_Chair.zip",
+    "category": "Furniture",
+    "hash": "3b1103f04e6a4d395f024ddd735306aef3314021017e4e6cde4e88d0af9de8a1",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.37367719411849976,
+      -0.3293493092060089,
+      0.0007463983492925763
+    ],
+    "bbox_max": [
+      0.373677134513855,
+      0.35097536444664,
+      0.800432026386261
+    ]
+  },
+  {
+    "name": "Vigor Table 30",
+    "url": "Vigor_Table_30.zip",
+    "category": "Furniture",
+    "hash": "2952239ff3c244de72e8eae1ef55449b675f2248a60cf993323e7e71981a45ae",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.2846384048461914,
+      -0.2846378684043884,
+      0.00014774889859836549
+    ],
+    "bbox_max": [
+      0.28463831543922424,
+      0.28463882207870483,
+      0.315814346075058
+    ]
+  },
+  {
+    "name": "Vigor Table 70",
+    "url": "Vigor_Table_70.zip",
+    "category": "Furniture",
+    "hash": "f335c745e12e431665315a18ffee6e9a1c46c68a7781b128f0ef48427c3709fb",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.7101175785064697,
+      -0.710118293762207,
+      0.0013029626570641994
+    ],
+    "bbox_max": [
+      0.7101175785064697,
+      0.7101168036460876,
+      0.7357262969017029
+    ]
+  },
+  {
+    "name": "Vintage Club Sofa",
+    "url": "Vintage_Club_Sofa.zip",
+    "category": "Furniture",
+    "hash": "531c1e1448f27ff45863c1310b5f40175ef030e1d3d1740a3f4bd7c95c5e9b4b",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.3476808965206146,
+      -0.2381274253129959,
+      0.0
+    ],
+    "bbox_max": [
+      0.3513227105140686,
+      0.33549752831459045,
+      0.7293500304222107
+    ]
+  },
+  {
+    "name": "Wylie Chair",
+    "url": "Wylie_Chair.zip",
+    "category": "Furniture",
+    "hash": "aaeada791bd5349730cee47415e960acf087ce5e99f6a8d603e8a1da3778851d",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.3526313602924347,
+      -0.3866410553455353,
+      -0.0013326122425496578
+    ],
+    "bbox_max": [
+      0.3526313602924347,
+      0.3574471175670624,
+      0.7210268378257751
+    ]
+  },
+  {
+    "name": "Zanotta Shiki 2Seat",
+    "url": "Zanotta_Shiki_2Seat.zip",
+    "category": "Furniture",
+    "hash": "0622782d5265ecc0c7b9c5e31447e357138e12acec923f41c009898f751b9272",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.9561007022857666,
+      -0.611053466796875,
+      -0.36094731092453003
+    ],
+    "bbox_max": [
+      1.4820950031280518,
+      0.854067325592041,
+      1.131263017654419
+    ]
+  },
+  {
+    "name": "Zanotta Shiki 3Seat",
+    "url": "Zanotta_Shiki_3Seat.zip",
+    "category": "Furniture",
+    "hash": "17d1250751849085662fe4deaf0c6f0aee2a1e612cb4a9a1101ebaae9f51ce9e",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.4820950031280518,
+      -0.611053466796875,
+      -0.36094731092453003
+    ],
+    "bbox_max": [
+      1.4820939302444458,
+      0.8546743392944336,
+      1.132564663887024
+    ]
+  },
+  {
+    "name": "Zanotta Shiki 3SeatB",
+    "url": "Zanotta_Shiki_3SeatB.zip",
+    "category": "Furniture",
+    "hash": "0c5cfef66be7e1eb6bb2bb2585dea466193d879fd9dcdb62f9b2d571bf2fa00b",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -1.4820950031280518,
+      -0.610644519329071,
+      -0.36094731092453003
+    ],
+    "bbox_max": [
+      1.2851866483688354,
+      0.8546743392944336,
+      1.1323740482330322
+    ]
+  },
+  {
+    "name": "Zanotta Shiki Sofa",
+    "url": "Zanotta_Shiki_Sofa.zip",
+    "category": "Furniture",
+    "hash": "dd005eb7da5a3b1a15353489cff95de222b8997f4625e1b76c4d485c03b663e0",
+    "date": "2022-04-02",
+    "bbox_min": [
+      -0.6425570845603943,
+      -1.3221840858459473,
+      0.00018913709209300578
+    ],
+    "bbox_max": [
+      0.7926242351531982,
+      0.5838319659233093,
+      0.8559069633483887
+    ]
   }
 ]
