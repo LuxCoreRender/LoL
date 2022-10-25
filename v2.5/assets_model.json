@@ -4877,5 +4877,311 @@
       0.15000000596046448,
       0.4000000059604645
     ]
+  },
+  {
+    "name": "Caidera Tub Sette7 Chair",
+    "url": "Caidera_Tub_Sette7_Chair.zip",
+    "category": "Furniture",
+    "hash": "8b23352796b8c2cbbc7c975c36de40a01e5a4a365d303204d9cc92896631d6c2",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.2986176908016205,
+      -0.26449522376060486,
+      -0.0005877724615857005
+    ],
+    "bbox_max": [
+      0.2986176908016205,
+      0.28004708886146545,
+      0.7732139229774475
+    ]
+  },
+  {
+    "name": "Cini Armchair Domo",
+    "url": "Cini_Armchair_Domo.zip",
+    "category": "Furniture",
+    "hash": "e3182db21d7b6940df556c27ae8a09d14ce4f542a5e0fa997c362c6b3e6829e1",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.4079349637031555,
+      -0.4019128084182739,
+      -8.279001485789195e-05
+    ],
+    "bbox_max": [
+      0.4079349637031555,
+      0.3453197479248047,
+      0.6357486844062805
+    ]
+  },
+  {
+    "name": "Citadel U Barrel Chair",
+    "url": "Citadel_U_Barrel_Chair.zip",
+    "category": "Furniture",
+    "hash": "1f575f248dc3f33a0802108b488c7d0019fd60483442960fd7ffc422f315e064",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.29628506302833557,
+      -0.18701910972595215,
+      0.0
+    ],
+    "bbox_max": [
+      0.29628506302833557,
+      0.29509761929512024,
+      0.7008444666862488
+    ]
+  },
+  {
+    "name": "Citadel U Barrel Chair II",
+    "url": "Citadel_U_Barrel_Chair_II.zip",
+    "category": "Furniture",
+    "hash": "d9733446fad6dba7389248829167f06f6b49017796d1922b9ef9343b91088f3b",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.29628288745880127,
+      -0.18630440533161163,
+      0.0
+    ],
+    "bbox_max": [
+      0.29628288745880127,
+      0.29320675134658813,
+      0.7464849352836609
+    ]
+  },
+  {
+    "name": "Grace Dining Chair",
+    "url": "Grace_Dining_Chair.zip",
+    "category": "Furniture",
+    "hash": "a89f9db4bde9261c6fc4a4985de8faa7722c354d3f1828082bec79ce1e2d1c65",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.27875784039497375,
+      -0.27199965715408325,
+      -1.6451966075692326e-05
+    ],
+    "bbox_max": [
+      0.27875784039497375,
+      0.3119114935398102,
+      0.9330788850784302
+    ]
+  },
+  {
+    "name": "Jetclass Zoe Table",
+    "url": "Jetclass_Zoe_Table.zip",
+    "category": "Furniture",
+    "hash": "2cac6644cffd85f5d4ce4247ce06d1aff9b89fa1679d6c9096f93c32bd911338",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -1.0940381288528442,
+      -0.54812091588974,
+      -0.0003662145172711462
+    ],
+    "bbox_max": [
+      1.0940381288528442,
+      0.54812091588974,
+      0.7687433958053589
+    ]
+  },
+  {
+    "name": "Lemmy Modular Sofa",
+    "url": "Lemmy_Modular_Sofa.zip",
+    "category": "Furniture",
+    "hash": "ac4f837d1de5b32916d7e8b0bc11024514c68a7631ecaa0d5b4e6e5a1b252e6f",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -1.5376355648040771,
+      -1.903564214706421,
+      -0.014428341761231422
+    ],
+    "bbox_max": [
+      1.487034797668457,
+      0.5569273829460144,
+      0.7715734839439392
+    ]
+  },
+  {
+    "name": "Magino Umbra Stool",
+    "url": "Magino_Umbra_Stool.zip",
+    "category": "Furniture",
+    "hash": "911d61e5786007014260fdaa2c3e9f93e5137f613e0013258400e0c1b7e320df",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.2581891119480133,
+      0.0004698744451161474,
+      -0.003830704838037491
+    ],
+    "bbox_max": [
+      0.2581891417503357,
+      0.2932112216949463,
+      0.5407453179359436
+    ]
+  },
+  {
+    "name": "Molly coffee Table",
+    "url": "Molly_coffee_Table.zip",
+    "category": "Furniture",
+    "hash": "9bea951495105d364a0ba92c646076dfa6b4b435c9e5a88458ff2712d89ca6b9",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.7189857959747314,
+      -0.4067906141281128,
+      0.0
+    ],
+    "bbox_max": [
+      0.7984699010848999,
+      0.6992937922477722,
+      0.5516783595085144
+    ]
+  },
+  {
+    "name": "Molly Jardan table",
+    "url": "Molly_Jardan_table.zip",
+    "category": "Furniture",
+    "hash": "970d1a451852a53bc8aa6174fac0f57a14180bd270b275b842485b484f90cc89",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.3988412320613861,
+      -0.7108186483383179,
+      0.0
+    ],
+    "bbox_max": [
+      0.5295684337615967,
+      0.5388677716255188,
+      0.21808582544326782
+    ]
+  },
+  {
+    "name": "Saporiti Cube Chair",
+    "url": "Saporiti_Cube_Chair.zip",
+    "category": "Furniture",
+    "hash": "5049002274b6f47a1a66135e2f77df531421ecefd956847129dc5aa1459dcd01",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.39014533162117004,
+      -0.3333268463611603,
+      0.0
+    ],
+    "bbox_max": [
+      0.3844069838523865,
+      0.36424195766448975,
+      0.6074705719947815
+    ]
+  },
+  {
+    "name": "Stick Lamp",
+    "url": "Stick_Lamp.zip",
+    "category": "Light",
+    "hash": "85d945dfd99e7ec60ca43801feb473a4602bc762ca03091c8601adb71369ab10",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.9079165458679199,
+      -0.20529349148273468,
+      -0.14491374790668488
+    ],
+    "bbox_max": [
+      0.41987374424934387,
+      0.20529349148273468,
+      1.9168325662612915
+    ]
+  },
+  {
+    "name": "TG 10 Sling Dining Chair",
+    "url": "TG_10_Sling_Dining_Chair.zip",
+    "category": "Furniture",
+    "hash": "695d93be8bb90845eaf1928c9ae8da3fdcb99b11453e7318f10ccae3be305aed",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.31105291843414307,
+      -0.28398647904396057,
+      -0.0002206927165389061
+    ],
+    "bbox_max": [
+      0.31105291843414307,
+      0.2845603823661804,
+      0.800718367099762
+    ]
+  },
+  {
+    "name": "TOM VAC Chair",
+    "url": "TOM_VAC_Chair.zip",
+    "category": "Furniture",
+    "hash": "b4ed95aa9b4605e77b18b9b84d67e40a733e7317b187435253bd62e3c175fabd",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.3351609706878662,
+      -0.2698157727718353,
+      -0.000754066975787282
+    ],
+    "bbox_max": [
+      0.3351554870605469,
+      0.3225634694099426,
+      0.7545678615570068
+    ]
+  },
+  {
+    "name": "Vintage Acrylic Chair 1970",
+    "url": "Vintage_Acrylic_Chair_1970.zip",
+    "category": "Furniture",
+    "hash": "e2f87ffab8fd23465234e058b1743238471ae646fba57576a06268add6631722",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.46806925535202026,
+      -0.18701910972595215,
+      -7.168475946173203e-08
+    ],
+    "bbox_max": [
+      0.46806469559669495,
+      0.4382002651691437,
+      0.7803459763526917
+    ]
+  },
+  {
+    "name": "Wave Mirror",
+    "url": "Wave_Mirror.zip",
+    "category": "Decoration",
+    "hash": "9a056f178536e281728e90570925becb53beb564667aa7f9d6a974da5d7d831b",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.2864483892917633,
+      -0.030187159776687622,
+      0.00023241687449626625
+    ],
+    "bbox_max": [
+      0.28644832968711853,
+      0.0,
+      0.7483656406402588
+    ]
+  },
+  {
+    "name": "Wave Table",
+    "url": "Wave_Table.zip",
+    "category": "Furniture",
+    "hash": "5f2e432dac5265066c1ad6166d211dbdb3cecfd44152409add85388415646a8a",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.4602492153644562,
+      -0.46024924516677856,
+      -2.3477589650156006e-08
+    ],
+    "bbox_max": [
+      0.4602492153644562,
+      0.46024924516677856,
+      0.4124392867088318
+    ]
+  },
+  {
+    "name": "Wave Table II",
+    "url": "Wave_Table_II.zip",
+    "category": "Furniture",
+    "hash": "bf0a3e5145e222626fa003bdeaceb46eea6bd19bdbafdf1fbabf548e8975bf97",
+    "date": "2022-10-25",
+    "bbox_min": [
+      -0.482426255941391,
+      -0.482426255941391,
+      -0.0029971743933856487
+    ],
+    "bbox_max": [
+      0.482426255941391,
+      0.482426255941391,
+      0.31373804807662964
+    ]
   }
 ]
