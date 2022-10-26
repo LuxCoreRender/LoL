@@ -15079,23 +15079,6 @@
     ]
   },
   {
-    "name": "Otis Sofa",
-    "url": "Otis_Sofa.zip",
-    "category": "Light",
-    "hash": "b58f504f5989d7e8e8fa03f9b75562a488485595db2e05be8ac0595dd20bdc1a",
-    "date": "2022-04-02",
-    "bbox_min": [
-      -1.264784336090088,
-      -0.3714679777622223,
-      -0.0004593036137521267
-    ],
-    "bbox_max": [
-      1.2648845911026,
-      0.47804325819015503,
-      0.7453749179840088
-    ]
-  },
-  {
     "name": "Ovale Plexi Table",
     "url": "Ovale_Plexi_Table.zip",
     "category": "Furniture",
