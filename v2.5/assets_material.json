@@ -2742,5 +2742,47 @@
     "category": "Marble",
     "hash": "1792070ddbc76d248e4b8cc55de73b13e6fc2441f2a6376ec0d69d49be5a9b8b",
     "date": "2022-11-22"
+  },
+  {
+    "name": "blackmarble_3-2K",
+    "url": "blackmarble_3-2K.zip",
+    "category": "Marble",
+    "hash": "1d675b25c0a3710fdb93a55e404e594564213bcaccdb6168f458ddb2febc257f",
+    "date": "2022-11-22"
+  },
+  {
+    "name": "blue_agathe_marble-2K",
+    "url": "blue_agathe_marble-2K.zip",
+    "category": "Marble",
+    "hash": "9724f06745997a3c1c6877efe6b430e9b3a3cb28d190d89f0ebb98106f880fdb",
+    "date": "2022-11-22"
+  },
+  {
+    "name": "blue_bat_honed_limestone-2K",
+    "url": "blue_bat_honed_limestone-2K.zip",
+    "category": "Marble",
+    "hash": "293c5bc8d9c7a3e4f370af041b372d9814d38a26419f4f10d395bad5bc0e4312",
+    "date": "2022-11-22"
+  },
+  {
+    "name": "blue_savoy_marble-2K",
+    "url": "blue_savoy_marble-2K.zip",
+    "category": "Marble",
+    "hash": "db4b098288705dd370be12e74e44c1df1bfaa6f7943ce1e549519eba1acc5890",
+    "date": "2022-11-22"
+  },
+  {
+    "name": "bluemarble_2-2K",
+    "url": "bluemarble_2-2K.zip",
+    "category": "Marble",
+    "hash": "448a30aefd6569c1ac74b62723b0040a8be32940595ebbf76c8db21409ba87a2",
+    "date": "2022-11-22"
+  },
+  {
+    "name": "brazilian_white_quartzite-2K",
+    "url": "brazilian_white_quartzite-2K.zip",
+    "category": "Marble",
+    "hash": "f0affd7d3eb38fde390fc451b7aa70decbe9416b91cdd2ca56819fda4d259569",
+    "date": "2022-11-22"
   }
 ]
