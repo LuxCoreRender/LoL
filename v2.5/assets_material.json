@@ -2735,5 +2735,12 @@
     "category": "Marble",
     "hash": "fe4b373de41ec7e47c2ceaaf6af2debabcd92b7e7502acaff9a99cf212aa721f",
     "date": "2022-11-22"
+  },
+  {
+    "name": "blackmarble_2-2K",
+    "url": "blackmarble_2-2K.zip",
+    "category": "Marble",
+    "hash": "1792070ddbc76d248e4b8cc55de73b13e6fc2441f2a6376ec0d69d49be5a9b8b",
+    "date": "2022-11-22"
   }
 ]
