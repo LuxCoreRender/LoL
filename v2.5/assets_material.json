@@ -315,87 +315,10 @@
     "date": "2021-05-04"
   },
   {
-    "name": "Braided_Cane",
-    "url": "Braided_Cane.zip",
-    "category": "textile_leather",
-    "hash": "ea237485d50903392fe6356eed8f760ba4984cb08af2a28e6c294e6605ffee3b",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Brown_Cloth",
-    "url": "Brown_Cloth.zip",
-    "category": "textile_leather",
-    "hash": "bc4dba048964f6b558cb9958b11b8830f7a6c252d5ea0d95bcac37261402d43b",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Green_Desat_Textile",
-    "url": "Green_Desat_Textile.zip",
-    "category": "textile_leather",
-    "hash": "9a3322b3c6c2a252a2d568f7c0da20d50f872008db03a8132a25772bdfd6ac3e",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Clear_Brown_Leather",
-    "url": "Clear_Brown_Leather.zip",
-    "category": "textile_leather",
-    "hash": "bbd449de0b16fca0f90b521b68223450d760f68cb896f5c5c244c24af23a9587",
-    "date": "2021-05-04"
-  },
-  {
     "name": "Wine_Bottle_Glass_Deepcolor",
     "url": "Wine_Bottle_Glass_Deepcolor.zip",
     "category": "glass_transparent",
     "hash": "f10e68c49659aabbb1a2eea11eadfcb6490f0ae7237f2dde6c9d311a755abe01",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Curtain_White",
-    "url": "Curtain_White.zip",
-    "category": "textile_leather",
-    "hash": "04510b26ac28558e2dee9172feaf09cdcfd5fd61320a53ec0d4359982ef68bb0",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Curtain_beige",
-    "url": "Curtain_beige.zip",
-    "category": "textile_leather",
-    "hash": "b4cf975b10bb2bb5730e33d798ec06fc503c190479353e2a17cf5b4332ce92c3",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Cloth",
-    "url": "Cloth.zip",
-    "category": "textile_leather",
-    "hash": "95a522113e56170ea02c2ca1fb6bbd148228d4f9165a31fb1962e9f930a04ace",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Leather",
-    "url": "Leather.zip",
-    "category": "textile_leather",
-    "hash": "26d832b3d31ba610556b1134eee6d4b38d5acd2ca1136edd1e9886a2377fa731",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Green_Cloth",
-    "url": "Green_Cloth.zip",
-    "category": "textile_leather",
-    "hash": "7ff4bb1d5b40073e4f232711fab7597df13882e84536a61ea284538339987e84",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Beige_Cloth",
-    "url": "Beige_Cloth.zip",
-    "category": "textile_leather",
-    "hash": "975a07b3887590bde54d2253eae1c1224db2e371928e349bd9ab5f04a08b9141",
-    "date": "2021-05-04"
-  },
-  {
-    "name": "Rose_Cloth",
-    "url": "Rose_Cloth.zip",
-    "category": "textile_leather",
-    "hash": "3963286207e6a19fb53ab8de0690ec31b9ac55316b6650abae65f464effd23b8",
     "date": "2021-05-04"
   },
   {
