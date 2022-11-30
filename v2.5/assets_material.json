@@ -3862,5 +3862,117 @@
     "category": "Tiles",
     "hash": "beeada2ee7d7cad3c48f9ab381b2dca0ff58a5301c076c75c1bfc435c597b7ab",
     "date": "2022-11-29"
+  },
+  {
+    "name": "Asphalt_01",
+    "url": "Asphalt_01.zip",
+    "category": "Road",
+    "hash": "c3ab0d89f7dcb0cabd7d36a6913d13faf199d77065ec3e7f421336522c77e490",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "Asphalt_08",
+    "url": "Asphalt_08.zip",
+    "category": "Road",
+    "hash": "79a505924809f8c32a71a1099fe5d84954c220866239b2a29ff639ef59db4311",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "FourLaneRoadClean01_packed_2K",
+    "url": "FourLaneRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "222ccea4e164a10ff173f0c94d571bc1f3208436af5daba2b5eeb98091c3e093",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "HighwayRoadClean01_packed_2K",
+    "url": "HighwayRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "c5a2955bade3485a67e46f45609291b5f11687744f3ef67f0696861070b5cd00",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "HighwayRoadCracks01_packed_2K",
+    "url": "HighwayRoadCracks01_packed_2K.zip",
+    "category": "Road",
+    "hash": "7daff9512f1faa703dbf8e6e9bd15bb03d7e16518ed1706d5e6f885bd5db51dd",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "HighwayRoadWet01_packed_2K",
+    "url": "HighwayRoadWet01_packed_2K.zip",
+    "category": "Road",
+    "hash": "0b84ced6ef71713cd862fca0e8c09f884ac5f0f62d0b1f336d56c992fac6400d",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "Road_05",
+    "url": "Road_05.zip",
+    "category": "Road",
+    "hash": "6dc1f156b0a0795aabd71749e47cec83a7c653d4d289dee4024ec9dfeea3c75e",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "Road_06",
+    "url": "Road_06.zip",
+    "category": "Road",
+    "hash": "67929ff6efcfda153694c5345966a28e85abf54ee22a7ec3644d0ce4e9915bd3",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "Road_07",
+    "url": "Road_07.zip",
+    "category": "Road",
+    "hash": "b415e549ab78e1320866469586076a910a215a9946d4f7e1c012c39978749070",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "SingleLaneRoadClean01_packed_2K",
+    "url": "SingleLaneRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "2bb7ba7244b72466bec8676ada2fddc41594f028136704c2e9a9b078f5e3585f",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "SingleLaneRoadCracks01_packed_2K",
+    "url": "SingleLaneRoadCracks01_packed_2K.zip",
+    "category": "Road",
+    "hash": "f1b24b8af2f1625537437973804e5b51ff9bd1ae3e4158cfb495ffb58e9ceb57",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "ThreeLaneRoadClean01_packed_2K",
+    "url": "ThreeLaneRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "0353ce6960f5114a194e212558c8afc62fcdbd530787e0759a997ed317addeb8",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "ThreeLaneRoadCracks01_packed_2K",
+    "url": "ThreeLaneRoadCracks01_packed_2K.zip",
+    "category": "Road",
+    "hash": "0f1bdf0a407b53b973faf12de2a0d7afcd87528a61a7c9a8fa05a2fb60fb3ca9",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "TwoLaneRoadClean01_packed_2K",
+    "url": "TwoLaneRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "d93bb4a67151003b168eb67a06f9c276321d85328b5f9f849ec4ef415f9c8922",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "TwoLaneRoadCracks01_packed_2K",
+    "url": "TwoLaneRoadCracks01_packed_2K.zip",
+    "category": "Road",
+    "hash": "9829831cf8a84d399798ddba1c03f4b2a99bfe5b9c15702f0146716679b21e93",
+    "date": "2022-11-30"
+  },
+  {
+    "name": "TwoLaneSolidLineRoadClean01_packed_2K",
+    "url": "TwoLaneSolidLineRoadClean01_packed_2K.zip",
+    "category": "Road",
+    "hash": "75d9b6023dd5d3a933fa51eb1f2609e91f54a6f8c09021fe25cdeb092906d505",
+    "date": "2022-11-30"
   }
 ]
