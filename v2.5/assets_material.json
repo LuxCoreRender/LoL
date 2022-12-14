@@ -6739,5 +6739,110 @@
     "category": "Wall",
     "hash": "c50eba33a8b1c088b5bf5b8c4de496f198df76e9166ee23ca97244998f64e52e",
     "date": "2022-12-14"
+  },
+  {
+    "name": "ceramic_roof_01_2k",
+    "url": "ceramic_roof_01_2k.zip",
+    "category": "Roof",
+    "hash": "69da4a623381168b48c64463456210f2f2539d7f652b2fe4e9509ad076b975f8",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "factory_wall_2k",
+    "url": "factory_wall_2k.zip",
+    "category": "Roof",
+    "hash": "72c3a131a7dc0999a042a888af32cb05ef413cac322be110316f971335e6a990",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "grey_roof_01_2k",
+    "url": "grey_roof_01_2k.zip",
+    "category": "Roof",
+    "hash": "b582c76f001b571ea666c8b4eba8337f6ec58a942839758ed7dfdaa886a120fd",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "grey_roof_tiles_02_2k",
+    "url": "grey_roof_tiles_02_2k.zip",
+    "category": "Roof",
+    "hash": "678395a7eddba2523878984b418d508358cb4c5f7e19eb303351d21b93ffd9c1",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "grey_roof_tiles_2k",
+    "url": "grey_roof_tiles_2k.zip",
+    "category": "Roof",
+    "hash": "3a7f802877bda315566c9c5ad1d4aa34e276af7cef42794933847196a045759d",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "red_slate_roof_tiles_01_2k",
+    "url": "red_slate_roof_tiles_01_2k.zip",
+    "category": "Roof",
+    "hash": "5da83902410dc9b53b0010d04d9be9becb63d846f30505c0d4ae09da38af7d7f",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "reed_roof_03_2k",
+    "url": "reed_roof_03_2k.zip",
+    "category": "Roof",
+    "hash": "8d312719b5f79f1fee2ff49c7fe4b46352dd98a08d872d38650aa77f771d4eaa",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "reed_roof_04_2k",
+    "url": "reed_roof_04_2k.zip",
+    "category": "Roof",
+    "hash": "daabfb21901028f2c89791d906af4667fd29579db820c3376ca594316ebcb698",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "riet_01_2k",
+    "url": "riet_01_2k.zip",
+    "category": "Roof",
+    "hash": "5994f6ed652744ac9cd303f567b263e246c32c2f4f6fb1c6242f595f52149270",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_07_2k",
+    "url": "roof_07_2k.zip",
+    "category": "Roof",
+    "hash": "6f4f557d9c2f72350ac3757fc303381715c79689ffe0071a73b11cde3ae11c1d",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_09_2k",
+    "url": "roof_09_2k.zip",
+    "category": "Roof",
+    "hash": "1c83de9523707133d94e79e143852e5bf71453aa28bf0dafd84eac828e0d329b",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_3_2k",
+    "url": "roof_3_2k.zip",
+    "category": "Roof",
+    "hash": "227c78212f6ea83b9ef54bd30c94fa20f51a1af351d7d853405632df40dacabb",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_slates_02_2k",
+    "url": "roof_slates_02_2k.zip",
+    "category": "Roof",
+    "hash": "c778475d2a4fdf6c7bc2e8e137d810b880b721421a680c174b4d56e9a062c21a",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_slates_03_2k",
+    "url": "roof_slates_03_2k.zip",
+    "category": "Roof",
+    "hash": "7260e643b34ffbf4f08980d0408323ab39be470cfa384510576dc140f2211af7",
+    "date": "2022-12-14"
+  },
+  {
+    "name": "roof_tiles_14_2k",
+    "url": "roof_tiles_14_2k.zip",
+    "category": "Roof",
+    "hash": "4869216e4533d1683ffea8178c7adbdc512082ee38e13f750e5ee02e7e0b54e6",
+    "date": "2022-12-14"
   }
 ]
