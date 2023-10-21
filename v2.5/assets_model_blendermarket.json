@@ -16403,5 +16403,243 @@
       0.7202973961830139,
       2.144648790359497
     ]
+  },
+  {
+    "name": " Ebonized Brutalist Board",
+    "url": " Ebonized_Brutalist_Board.zip",
+    "category": "Furniture",
+    "hash": "3e9d6554cc3b6a6246cc87889ee9773cc0a026e7ac0c4174c767cdc528427af3",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.6002029180526733,
+      -0.14721690118312836,
+      -0.0012289616279304028
+    ],
+    "bbox_max": [
+      0.600202739238739,
+      0.21483880281448364,
+      0.9382563233375549
+    ]
+  },
+  {
+    "name": "BOFRED Moore Bench",
+    "url": "BOFRED_Moore_Bench.zip",
+    "category": "Furniture",
+    "hash": "0f3400eddbd8b113b091eb7a500e734c858ac7fc1f95fb6354441ce79f3a3348",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.8588427901268005,
+      -0.34278929233551025,
+      0.0003442796296440065
+    ],
+    "bbox_max": [
+      0.8588429093360901,
+      0.3215712606906891,
+      0.665030837059021
+    ]
+  },
+  {
+    "name": "Ceilleing Spot",
+    "url": "Ceilleing_Spot.zip",
+    "category": "Light",
+    "hash": "837b53242310b3273f61d283eaef20d97b766de2dbfe476a7ce6532c7dc7d19f",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.09791795909404755,
+      -0.09791795909404755,
+      0.0012213843874633312
+    ],
+    "bbox_max": [
+      0.09791795909404755,
+      0.09791795909404755,
+      0.13918587565422058
+    ]
+  },
+  {
+    "name": "Comby Chair",
+    "url": "Comby_Chair.zip",
+    "category": "Furniture",
+    "hash": "b4c6921e82aaac648f232b9bc075e079955eaaef1333b90aa5e655691d75ef81",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.46357306838035583,
+      -0.3732011616230011,
+      -0.03076563961803913
+    ],
+    "bbox_max": [
+      0.46356844902038574,
+      0.4816150367259979,
+      0.6535031199455261
+    ]
+  },
+  {
+    "name": "Farooo Floor Lamp",
+    "url": "Farooo_Floor_Lamp.zip",
+    "category": "Light",
+    "hash": "1d41f47b8b1a3c012c4efac891d9576cf1a118964b0ed1abac26b0c04baab859",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.30790913105010986,
+      -0.30790916085243225,
+      0.0
+    ],
+    "bbox_max": [
+      0.30790916085243225,
+      0.30790913105010986,
+      1.4910762310028076
+    ]
+  },
+  {
+    "name": "Fringe Suspension Lamp",
+    "url": "Fringe_Suspension_Lamp.zip",
+    "category": "Light",
+    "hash": "89e29051d8c8384faf98f7918e0ce146997c5fa3f6f61de92234a872fe455ec0",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.30142948031425476,
+      -0.30142948031425476,
+      -0.17817556858062744
+    ],
+    "bbox_max": [
+      0.30142948031425476,
+      0.30142948031425476,
+      1.8480769395828247
+    ]
+  },
+  {
+    "name": "Fringy Ovale Pouf",
+    "url": "Fringy_Ovale_Pouf.zip",
+    "category": "Furniture",
+    "hash": "43feb1f6e4a4b22030e8a15e12824439fd6ab83418627e6d936d15d9fd221417",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.35691794753074646,
+      -0.23577839136123657,
+      2.6237756173941307e-05
+    ],
+    "bbox_max": [
+      0.35696977376937866,
+      0.235764279961586,
+      0.40435004234313965
+    ]
+  },
+  {
+    "name": "Levant Dining Table",
+    "url": "Levant_Dining_Table.zip",
+    "category": "Furniture",
+    "hash": "fb69226a77f2025e443085d93414990ca2ba3735c6a6c251c5b89fd4c43bf8ff",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.545732319355011,
+      -1.4555271863937378,
+      -5.765030230975299e-09
+    ],
+    "bbox_max": [
+      0.5457322001457214,
+      2.9802322387695312e-08,
+      0.6752434372901917
+    ]
+  },
+  {
+    "name": "Phenix Lamp",
+    "url": "Phenix_Lamp.zip",
+    "category": "Light",
+    "hash": "b8044c1508564e8f4bb9bb6854f9f8f5fbf031c1c57c7f26da6985e57f0f16db",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.30175480246543884,
+      -0.30175474286079407,
+      0.0
+    ],
+    "bbox_max": [
+      0.3017547130584717,
+      0.30175480246543884,
+      0.997307538986206
+    ]
+  },
+  {
+    "name": "Pic Poisson Hubert Le Gal",
+    "url": "Pic_Poisson_Hubert_Le_Gal.zip",
+    "category": "Light",
+    "hash": "3425feb0a507e86ba7878b966c56629944c21208dd877be4d16cbf16d9353797",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.34439030289649963,
+      -0.3835182785987854,
+      -0.0010050373384729028
+    ],
+    "bbox_max": [
+      0.3445988893508911,
+      0.3865649104118347,
+      1.5602951049804688
+    ]
+  },
+  {
+    "name": "Quille Coffee Table",
+    "url": "Quille_Coffee_Table.zip",
+    "category": "Furniture",
+    "hash": "44c8b8859949433647aa0fe5be4f6902b0cd6cb34b2484e3d643e4026b8870c0",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.3843781650066376,
+      -0.38437819480895996,
+      -0.0035106362774968147
+    ],
+    "bbox_max": [
+      0.38437822461128235,
+      0.38437819480895996,
+      0.4149823784828186
+    ]
+  },
+  {
+    "name": "Red Gold Pipe Chair",
+    "url": "Red_Gold_Pipe_Chair.zip",
+    "category": "Furniture",
+    "hash": "0cb55fa0992fb37392a1cd1c593a65b894327cf599a7491d0aa4a1f1c2342a69",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.30680859088897705,
+      -0.28266826272010803,
+      0.002587328664958477
+    ],
+    "bbox_max": [
+      0.30680859088897705,
+      0.3487747311592102,
+      0.8190712332725525
+    ]
+  },
+  {
+    "name": "SImone Progetti Chair",
+    "url": "SImone_Progetti_Chair.zip",
+    "category": "Furniture",
+    "hash": "b2cf2b007d6c3be25edce8d48778bfcbee08c0fa4877fc4cc3c07e2f30769c8f",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.4585457742214203,
+      -0.4096318483352661,
+      3.7303863109627855e-08
+    ],
+    "bbox_max": [
+      0.4585457742214203,
+      0.39967143535614014,
+      0.7033736705780029
+    ]
+  },
+  {
+    "name": "Soji LED Suspension",
+    "url": "Soji_LED_Suspension.zip",
+    "category": "Light",
+    "hash": "c8b0af73cd31cf6c077898c9012600faaad7d473ac5e4b43922d5103b7fbbed7",
+    "date": "2023-10-21",
+    "bbox_min": [
+      -0.5904797315597534,
+      -0.09251030534505844,
+      -1.9328875541687012
+    ],
+    "bbox_max": [
+      0.5904796719551086,
+      0.09251030534505844,
+      0.0014652463141828775
+    ]
   }
 ]
