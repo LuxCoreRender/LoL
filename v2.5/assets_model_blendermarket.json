@@ -16405,23 +16405,6 @@
     ]
   },
   {
-    "name": " Ebonized Brutalist Board",
-    "url": " Ebonized_Brutalist_Board.zip",
-    "category": "Furniture",
-    "hash": "3e9d6554cc3b6a6246cc87889ee9773cc0a026e7ac0c4174c767cdc528427af3",
-    "date": "2023-10-21",
-    "bbox_min": [
-      -0.6002029180526733,
-      -0.14721690118312836,
-      -0.0012289616279304028
-    ],
-    "bbox_max": [
-      0.600202739238739,
-      0.21483880281448364,
-      0.9382563233375549
-    ]
-  },
-  {
     "name": "BOFRED Moore Bench",
     "url": "BOFRED_Moore_Bench.zip",
     "category": "Furniture",
