@@ -16981,5 +16981,260 @@
       0.03397546336054802,
       0.29907938838005066
     ]
+  },
+  {
+    "name": "Alta High Chair",
+    "url": "Alta_High_Chair.zip",
+    "category": "Office",
+    "hash": "6736507ee98ecc95fa50ffbd74dee60fe684ad38f6cbaa65f7dec447540905a8",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Alta Mid Chair",
+    "url": "Alta_Mid_Chair.zip",
+    "category": "Office",
+    "hash": "cbef011d9f898432a92b1929975c0fb8bb14b444792afe04b4c579ad6c717493",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Bentons FlipTop Table",
+    "url": "Bentons_FlipTop_Table.zip",
+    "category": "Office",
+    "hash": "06a9e7be09018039c8b071ff46cc754dc0e4fa0dab8d18137f45c1226523a158",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Catifa Up",
+    "url": "Catifa_Up.zip",
+    "category": "Office",
+    "hash": "20b746fe879b22bca73a2a53678942565f1afd502ad5f1e19c195805215168b3",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Catifa Up Lite",
+    "url": "Catifa_Up_Lite.zip",
+    "category": "Office",
+    "hash": "b44bfda6bb5e80b1b604eea970b59577b6835a2c90b570fc1231ff1ba7fb37f3",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Eams Management chair",
+    "url": "Eams_Management_chair.zip",
+    "category": "Office",
+    "hash": "f8d86e2d7436dbfaa8ad5660222c8081aac431eb32f2b9fe9a89931615f15903",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Elite Range FlipTop Table",
+    "url": "Elite_Range_FlipTop_Table.zip",
+    "category": "Office",
+    "hash": "92f0438294cfac9da7fef87f7d3fa3dffb1f5adf514779044fd330d3b50bc98a",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "interstuhl 162 silver",
+    "url": "interstuhl_162_silver.zip",
+    "category": "Office",
+    "hash": "9d02ac2db984f52e63e780c33cfa0467ea09981e6dca92d88677727d3370d633",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "interstuhl 262 silver",
+    "url": "interstuhl_262_silver.zip",
+    "category": "Office",
+    "hash": "927f433cccbdc493e5a0e5256de89acfb657190d055162c810a0c2820cf149ec",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "interstuhl 362 silver",
+    "url": "interstuhl_362_silver.zip",
+    "category": "Office",
+    "hash": "5ba80da7815998e540f1b548e3898d157598856e16de89ebaad72b9f2369d813",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Office FlipTop Table",
+    "url": "Office_FlipTop_Table.zip",
+    "category": "Office",
+    "hash": "40ec74cce70daa24be2c9bcb87a82c20a42d0bd9efc3212644f097e79d754fd5",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Reception Desk",
+    "url": "Reception_Desk.zip",
+    "category": "Office",
+    "hash": "1bfb685b2ed0dbbca09902aff9dde951c98872f9b330ed0ae40191398408077d",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Soft Pad Lobby",
+    "url": "Soft_Pad_Lobby.zip",
+    "category": "Office",
+    "hash": "c121559fa140af6ea6a2b8090b3abe2478f805c7510b5285d9ed0fc7453e22cc",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Stella Armchair",
+    "url": "Stella_Armchair.zip",
+    "category": "Office",
+    "hash": "276d194e92ad27afb4e0d028811b7bb00c614258f9c117c71f7b98506ddb939b",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Suspended Rec Light",
+    "url": "Suspended_Rec_Light.zip",
+    "category": "Office",
+    "hash": "b6a6f7734d94481ac3e73705d4529f1befdb5232423f19803c067275ad95c397",
+    "date": "2025-02-20",
+    "bbox_min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max": [
+      0.0,
+      0.0,
+      0.0
+    ]
   }
 ]
